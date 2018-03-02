@@ -8,5 +8,9 @@ CINC = -I${INC}
 COPT = ${CFLG} ${CINC}
 CC   = g++ ${COPT}
 
-EDIR = /usr/local/bin
+BIN_INSTALL_DIR = /usr/bin
+DAT_INSTALL_DIR = /usr/share/sotd
+
 EXE = sotd
+DAT = sotd.dat
+

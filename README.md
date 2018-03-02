@@ -20,6 +20,8 @@ like this:
     $ cd sotd
     $ make
     $ sudo make install
-    $ sudo systemctl enable sotd.timer
-    $ sudo systemctl start sotd.timer
 
+## Uninstall
+
+    $ sudo make disable
+    $ sudo make uninstall

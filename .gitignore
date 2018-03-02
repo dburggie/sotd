@@ -2,6 +2,7 @@
 build/
 bld/
 notes/
+tmp/
 
 *.log
 *.o

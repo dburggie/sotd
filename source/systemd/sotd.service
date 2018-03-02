@@ -1,0 +1,8 @@
+[Unit]
+Description=sotd
+
+[Service]
+ExecStart=/usr/share/bin/sotd
+StandardInput=tty
+Type=oneshot
+

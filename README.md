@@ -1,4 +1,4 @@
-#sotd
+# sotd
 
 Shakespeare of the Day
 

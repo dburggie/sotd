@@ -40,3 +40,7 @@ uninstall:
 	rm -f ${UNIT_DIR}/${TMR}
 	
 
+
+${BUILD_DIR}/${EXE}: ${SOURCE_DIR}/sotd.sh
+	cp $< $@
+	chmod +x $@

@@ -8,4 +8,5 @@ CINC = -I${INC}
 COPT = ${CFLG} ${CINC}
 CC   = g++ ${COPT}
 
-
+EDIR = /usr/local/bin
+EXE = sotd

@@ -2,7 +2,7 @@
 Description=sotd
 
 [Service]
-ExecStart=/usr/share/bin/sotd
+ExecStart=/usr/local/bin/sotd
 StandardInput=tty
 Type=oneshot
 

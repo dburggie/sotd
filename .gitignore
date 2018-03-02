@@ -1,0 +1,11 @@
+
+build/
+bld/
+notes/
+
+*.log
+*.o
+*.swp
+*.tmp
+*.png
+

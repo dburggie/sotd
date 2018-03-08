@@ -1,40 +1,6 @@
 
-
-# What we need to do:
-# Each speach is within a <blockquote></blockquote> pair
-# Each speach block is preceded by the speaker like this:
-#       <a NAME=speech1><b>ANTIOCHUS</b></a>
-#
-# Each line of a speach goes like this
-#       <a NAME=1.1.1>Young Prince of Tyre, you have at large received</a><br>
-
-# that attribute tag contains act, scene, and line number in that order
-# sometimes there's a speach with no speaker, which would go to CHORUS
-# if Scene number is 0 for a line, it is PROLOGUE
-
-# TITLE={Pericles, Prince of Tyre}
-# SPEAKER={CHORUS}
-# ACT={1.0.1-42}
-# LENGTH={42}
-# TEXT={
-# To sing a song that old was sung,
-# From ashes ancient Gower is come;
-# Assuming man's infirmities,
-# To glad your ear, and please your eyes.
-# ...
-# What now ensues, to the judgment of your eye
-# I give, my cause who best can justify.
-# }
-
-# safely ignore things in <i> tags
-# probably safe to ignore things in <p> tags, too
-
-# Extract text in <blockquote> tags
-# extract lines and act,scene,line_no info from inside <a> tags
-# Exctract speaker from just before the <blockquote> block, if possible
-
-
 import os
+import sys
 
 def cut(text, substrings):
     clean = text
@@ -52,10 +18,9 @@ def precede(string, target, prefix):
     segments = string.split(target)
     acc = segments[0]
     for segment in segments[1:]:
-        if endswith(acc,prefix):
-            acc += target + segment
-        else:
-            acc += prefix + target + segment
+        if not endswith(acc,prefix):
+            acc += prefix
+        acc += target + segment
     return acc
 
 def cleanlines(string):
@@ -67,15 +32,9 @@ def cleanlines(string):
     for line in stripped:
         if len(line) > 0:
             non_empty.append(line)
-    if len(non_empty) == 0:
-        print "cleanlines(): all lines were empty for some reason"
-        return ""
-    acc = non_empty[0]
-    for line in non_empty[1:]:
-        acc += '\n' + line
-    return acc
+    return '\n'.join(non_empty)
 
-def excise(string, start, end):
+def snip(string, start, end):
     segments = string.split(start)
     if len(segments) == 1:
         return string
@@ -84,7 +43,7 @@ def excise(string, start, end):
         split = segment.split(end,1)
         if len(split) == 1:
             acc += start + segment
-            print 'ERROR: excise() found start="' + start + '" but not end="'+ end + '"'
+            print 'ERROR: snip() found start="' + start + '" but not end="'+ end + '"'
             continue
         else:
             acc += split[1]
@@ -97,130 +56,211 @@ def findreplace(string, find, replace):
         acc += replace + segment
     return acc
 
-class Sanitizer:
-    def __init__(self, filename):
-        self.filename = filename
-        self.original_contents = ""
-        self.sanitized_contents = ""
-        self.sanitized = False
-        self.report("__init__")
+class Play:
 
-    def report(self, function):
-        print "Sanitizer."+function+"(): sanitized length: "+str(len(self.sanitized_contents))
+    _bad_tags = ["<html>","</html>","<head>","</head>","<br>","<p>","</p>","<body>","</body>"]
+    _good_tags = [("<title>","</title>"), ("<blockquote>","</blockquote>"), ("<a", "</a>")]
 
-    def read(self):
+    def __init__(self):
+        self.infile = None
+        self.outfile = None
+        self.text = None
+        self.done = False
+
+    def readfile(self,filename):
+        if not ".html" in filename:
+            print "Play.read(): failing to open " + filename + ": not html"
+            return
+        self.infile = filename
+        self.outfile = filename
+        if not ".clean" in filename:
+            self.outfile = findreplace(filename, ".html", ".clean.html")
         f = open(filename, 'r')
-        self.original_contents = f.read()
+        self.text = f.read()
         f.close()
-        self.sanitized_contents = self.original_contents
-        self.sanitized = False
-        self.report("read")
+        self.done = False
 
     def write(self):
-        if not self.sanitized:
-            print "### skipping Sanitizer.write(), call Sanitizer.sanitize() first"
+        if not self.done:
+            print "Play.write(): failing because data is not clean"
             return
-        newfilename = findreplace(self.filename, '.html', '.clean.html')
-        f = open(newfilename,'w')
-        f.write(self.sanitized_contents)
+        f = open(self.outfile,'w')
+        f.write(self.text)
         f.close()
-        self.report("write")
 
-    # remove all <html>,</html>,<head>,</head>,<br>,<p>,</p>,<body>,</body> tags
-    # remove all lines starting with <h
-    # remove everything within <i></i> pairs
-    # ensure <blockquote>,</blockquote>, and <a have a newline before them
-    # remove newline characters preceding a </a>
-    # remove empty <blockquote> blocks
     def sanitize(self):
         self.cut_tags()
+        self.cleanup()
         self.remove_headers()
+        self.cleanup()
         self.remove_italics()
+        self.cleanup()
         self.one_tag_per_line()
+        self.cleanup()
         self.remove_empty_blockquotes()
-        self.sanitized = True
-        self.report("sanitize")
+        self.cleanup()
+        self.match_tags()
+        self.done = True
 
     def cut_tags(self):
-        tags= []
-        tags.append("<html>")
-        tags.append("</html>")
-        tags.append("<head>")
-        tags.append("</head>")
-        tags.append("<br>")
-        tags.append("<p>")
-        tags.append("</p>")
-        tags.append("<body>")
-        tags.append("</body>")
-        self.sanitized_contents = cut(self.sanitized_contents,tags)
-        self.report("cut_tags")
+        self.text = cut(self.text,Play._bad_tags)
         self.cleanup()
 
     def remove_headers(self):
-        lines = self.sanitized_contents.split("\n")
+        lines = self.text.split("\n")
         temp = []
         for line in lines:
-            if line.find("<h") < 0:
+            if not "<h" in line:
                 temp.append(line)
-        if len(temp) == 0:
-            self.sanitized_contents = ""
-            return
-        acc = temp[0]
-        for line in temp[1:]:
-            acc += '\n' + line
-        self.sanitized_contents = acc
-        self.report("remove_headers")
-        self.cleanup()
+        self.text = '\n'.join(temp)
 
     def cleanup(self):
-        self.sanitized_contents = cleanlines(self.sanitized_contents)
-        self.report("cleanup")
+        self.text = cleanlines(self.text)
 
     def remove_italics(self):
-        self.sanitized_contents = excise(self.sanitized_contents, "<i>", "</i>")
-        self.report("remove_italics")
-        self.cleanup()
+        self.text = snip(self.text, "<i>", "</i>")
 
     def one_tag_per_line(self):
-        wip = self.sanitized_contents
-        wip = precede(wip, "<blockquote>", "\n")
-        wip = precede(wip, "</blockquote>", "\n")
-        wip = precede(wip, "<a", "\n")
-        wip = findreplace(wip, "\n</a>", "</a>")
-        self.sanitized_contents = wip
-        self.report("one_tag_per_line")
-        self.cleanup()
+        s = self.text
+        s = precede(s, "<blockquote>", "\n")
+        s = precede(s, "</blockquote>", "\n")
+        s = precede(s, "<a", "\n")
+        s = findreplace(s, "\n</a>", "</a>")
+        self.text = s
 
     def remove_empty_blockquotes(self):
-        wip = self.sanitized_contents
-        wip = cut(wip, ["<blockquote>\n</blockquote>"])
-        self.sanitized_contents = wip
-        self.report("remove_empty_blockquotes")
-        self.cleanup()
+        self.text = cut(self.text, ["<blockquote>\n</blockquote>"])
 
-        
+    def match_tags(self):
+        for pair in Play._good_tags:
+            sections = self.text.split(pair[0])[1:]
+            for s in sections:
+                if not pair[1] in s:
+                    e = "Play.match_tags(): "
+                    e += "FILE:" + self.infile + " "
+                    e += "ERR: could not find '" + pair[1] + "'"
+                    print e
+                    if s == sections[-1]:
+                        print "attempting fix..."
+                        self.text += '\n' + pair[1]
+                    else:
+                        print "FIX MANUALLY"
 
-if __name__ == "__main__":
+class Sonnet:
+
+    def __init__(self):
+        self.text = None
+        self.clean = None
+        self.infile = None
+        self.outfile = None
+        self.number = None
+        self.done = False
+
+    def get_number(self):
+        s = self.infile
+        s = findreplace(s, "sonnet_", "")
+        s = findreplace(s, ".html", "")
+        self.number = int(s)
+
+    def readfile(self, filename):
+        self.infile = filename
+        self.outfile = findreplace(filename, ".html", ".clean.html")
+        f = open(filename,'r')
+        self.text = f.read()
+        f.close()
+        print "Sonnet.readfile(): read " + str(len(self.text)) + "B from " + self.infile
+        self.clean = self.text
+        self.get_number()
+        self.done = False
+
+    def cleanup(self):
+        s = self.clean
+
+        #fix tags
+        s = findreplace(s, "<h1>", '<a name="speech"><b>')
+        s = findreplace(s, "</h1>", "</b></a>")
+        s = findreplace(s, "<blockquote>", "<blockquote>\n")
+        s = findreplace(s, "<br>", "")
+
+        #add <a> tags to lines
+        processing = False
+        lines = s.split("\n")
+        clean = []
+        counter = 0
+        for line in lines:
+            if "</blockquote>" in line:
+                processing = False
+            if processing:
+                counter += 1
+                sig = '0.' + str(self.number) + '.' + str(counter)
+                line = '<a NAME="' + sig + '">' + line + '</a>'
+            if "<blockquote>" in line:
+                processing = True
+            clean.append(line)
+        s = clean[0]
+        for line in clean[1:]:
+            s += '\n' + line
+
+        self.clean = cleanlines(s)
+        self.done = True
+
+    def write(self):
+        if self.done:
+            f = open(self.outfile, 'w')
+            f.write(self.clean)
+            f.close()
+            print "Sonnet.write(): wrote " + str(len(self.clean)) + "B to " + self.outfile
+        else:
+            print "Sonnet.write(): failed to write: not done processing"
+
+
+def compile_sonnets():
+    outfilename = "sonnets.html"
     files = os.listdir(os.getcwd())
     files.sort()
-    for filename in files:
-        if filename.find(".html") < 0:
-            continue
-        if endswith(filename,".clean.html"):
-            continue
-        s = Sanitizer(filename)
-        s.read()
-        s.sanitize()
+    s = "<title>The Sonnets</title>\n"
+    for fn in files:
+        if ".clean.html" in fn:
+            print 'compile_sonnets(): appending ' + fn
+            f = open(fn,'r')
+            s += f.read() + '\n'
+            f.close()
+        else:
+            print 'compile_sonnets(): skipping ' + fn
+    f = open(outfilename,'w')
+    f.write(s)
+    f.close()
+    print "compile_sonnets(): " + str(len(s)) + "B written to " + outfilename
+
+def handlefile(fn):
+    if not '.html' in fn:
+        print "skipping file " + fn + " not html..."
+        return
+    if "sonnet_" in fn:
+        s = Sonnet()
+        s.readfile(fn)
+        s.cleanup()
         s.write()
+        return
+    else:
+        p = Play()
+        p.readfile(fn)
+        p.sanitize()
+        p.write()
+        return
 
-
-
-
-# second pass extract
-
-
-
-
+if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "sonnets":
+            compile_sonnets();
+            sys.exit()
+        fn = sys.argv[1]
+        handlefile(fn)
+        sys.exit()
+    files = os.listdir(os.getcwd())
+    files.sort()
+    for fn in files:
+        handlefile(fn)
 
 
 

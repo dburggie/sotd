@@ -23,6 +23,14 @@ def precede(string, target, prefix):
         acc += target + segment
     return acc
 
+def remove_empty_lines(string):
+    segments = string.split('\n')
+    acc = []
+    for s in segments:
+        if len(s) > 0:
+            acc.append(s)
+    return '\n'.join(acc)
+
 def cleanlines(string):
     lines = string.split("\n")
     stripped = []
@@ -99,8 +107,21 @@ class Play:
         self.cleanup()
         self.remove_empty_blockquotes()
         self.cleanup()
+        self.clean_metadata()
         self.match_tags()
         self.done = True
+
+    def clean_metadata(self):
+        # some lines are noted as '<a NAME=ENTRY>' others as '<a name="ENTRY">'
+        # make uniformly '<a name="ENTRY">'
+        lines = self.text.split('\n')
+        acc = []
+        for l in lines:
+            if "<a NAME=" in l:
+                metadata, text = l.split('=',1)[1].split('>',1)
+                l = '"'.join(["<a name=",metadata, ">" + text])
+            acc.append(l)
+        self.text = '\n'.join(acc)
 
     def cut_tags(self):
         self.text = cut(self.text,Play._bad_tags)
@@ -242,12 +263,184 @@ def handlefile(fn):
         s.cleanup()
         s.write()
         return
+    elif ".clean.html" in fn:
+        w = Work()
+        w.read_html(fn)
+        w.parse_html()
+        w.write()
     else:
         p = Play()
         p.readfile(fn)
         p.sanitize()
         p.write()
         return
+
+
+
+
+def itoRN(i):
+    translator = ["","I","II","III","IV","V","VI","VII","VIII","IX","X"]
+    if i > 0 and i < len(translator):
+        return translator[i]
+    else:
+        print "itoRN: couldn't translate " + str(i) + ": out of bounds"
+
+
+# read from html text that looks like this:
+# <a name="speechX"><b>SPEAKER</b></a>
+# <blockquote>
+# <a name="a.s.{l}">LINE_0</a>
+# ...
+# <a name="a.s.{l+n}">LINE_N</a>
+class Entry:
+    def __init__(self, title, html, entry_type):
+        self.title = title
+        self.html = html
+
+        self.blurb = None
+        self.length = None
+        self.text = None
+
+        if entry_type == "sonnet":
+            self.parse_sonnet()
+        elif entry_type == "speech":
+            self.parse_speech()
+        else:
+            print "Entry.__init__(): couldn't figure out how to parse type " + str(t)
+
+    def verify(self):
+        lines = self.html.split('\n')
+        verified = True
+        verified &= '<a name="speech' in lines[0] and "</a" in lines[0]
+        verified &= '<blockquote>' in lines[1]
+        for l in lines[2:]:
+            verified &= '<a name="' in l and '</a>' in l
+        if not verified:
+            print "Entry.verify(): doesn't look parsable:"
+            print self.html
+
+    def parse_speech(self):
+        self.verify()
+        self.get_length()
+        self.get_speech_blurb()
+        self.get_text()
+
+    def parse_sonnet(self):
+        self.verify()
+        self.get_length()
+        self.get_sonnet_blurb()
+        self.get_text()
+
+    def get_speaker(self):
+        s = self.html.split('\n')[0]
+        s = snip(s, "<a", "<b>")
+        s = snip(s, "</b>", "</a>")
+        return s
+
+    # get a,s from '<a name="a.s.l"><b>TEXT</b></a>'
+    def get_act_scene(self):
+        s = self.html.split('\n')[2]
+        s = s.split('"')[1]
+        asl = s.split('.')
+        if len(asl) < 3:
+            print "Entry.get_act_scene(): TITLE: " + self.title + " READ_ERROR"
+            return ""
+        act, scene, line = asl
+        act = "Act " + itoRN(int(act))
+        if scene == "0":
+            return act + ", PROLOGUE"
+        else:
+            scene = "Scene " + itoRN(int(scene))
+        return act + ", " + scene
+
+    def get_length(self):
+        self.length = len(self.html.split('\n')) - 2
+
+    def get_text(self):
+        lines = self.html.split('\n')[2:]
+        acc = []
+        for l in lines:
+            l = snip(l, "<a", ">")
+            l = findreplace(l, "</a>", "")
+            acc.append(l)
+        self.text = '\n'.join(acc)
+
+    def get_speech_blurb(self):
+        self.blurb = self.get_speaker()
+        self.blurb += " - "
+        self.blurb += self.title
+        self.blurb += " - "
+        self.blurb += self.get_act_scene()
+
+    def get_sonnet_blurb(self):
+        self.blurb = "William Shakespeare, " + self.get_speaker()
+
+    def __str__(self):
+        s = "BLURB={" + self.blurb + "}\n"
+        s += "LENGTH={" + str(self.length) + "}\n"
+        s += "TEXT={\n" + self.text + "\n}"
+        return s
+
+class Work:
+    def __init__(self):
+        self.outfile = None
+        self.infile = None
+        self.title = None
+        self.count = 0
+        self.html = None
+        self.text = None
+        self.done = False
+        self.entry_type = None
+
+    def read_html(self, filename):
+        if not ".html" in filename:
+            print "Work.read_html(): " + filename + " doesn't look like html"
+            return
+
+        if "sonnet" in filename:
+            self.entry_type = "sonnet"
+        else:
+            self.entry_type = "speech"
+
+        self.infile = filename
+        self.outfile = filename.split('.')[0] + ".dat"
+
+        f = open(filename,'r')
+        self.html = f.read()
+        f.close()
+
+    def parse_html(self):
+        self.title, body = self.html.split("</title>\n", 1)
+        self.title = findreplace(self.title, "<title>", "")
+
+        entries_html = body.split("</blockquote>")
+        entries = []
+
+        for html in entries_html:
+            html = remove_empty_lines(html)
+            if len(html) == 0:
+                continue
+            entries.append(str(Entry(self.title, html, self.entry_type)))
+        
+        self.text = "TITLE={" + self.title + "}\n"
+        self.text += "COUNT={" + str(len(entries)) + "}\n"
+        self.text += "ENTRIES={\n" + '\n'.join(entries) + "\n}"
+
+    def write(self):
+        if not self.done:
+            print "Work.write(): have nothing to write"
+            return
+        f = open(self.outfile, 'w')
+        f.write(self.text)
+        f.close()
+        print "Work.write(): wrote " + str(len(self.text)) + "B to " + self.outfile
+        return
+
+
+def pwd():
+    l = os.listdir(os.getcwd())
+    l.sort()
+    return l
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
@@ -257,8 +450,7 @@ if __name__ == "__main__":
         fn = sys.argv[1]
         handlefile(fn)
         sys.exit()
-    files = os.listdir(os.getcwd())
-    files.sort()
+    files = pwd()
     for fn in files:
         handlefile(fn)
 

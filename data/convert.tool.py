@@ -139,6 +139,20 @@ class Play:
         self.text = cleanlines(self.text)
 
     def remove_italics(self):
+#        stage_dirs = ["Exit", "exit", "Exeunt", "exeunt", "Enter", "enter", "Re-enter", "re-enter"]
+#        lines = self.text.split('\n')
+#        acc = []
+#        for i in range(len(lines)):
+#            l = lines[i]
+#            if "<i>" in l:
+#                for sd in stage_dirs:
+#                    if sd in l:
+#                        l = snip(l, "<i>", "</i>")
+#                        break
+#                else:
+#                    l = findreplace(l, "<i>", "")
+#                    l = findreplace(l, "</i>", "")
+#                    l = lines[i-1].split(">")[0] + ">" + l + "</a><br>"
         self.text = snip(self.text, "<i>", "</i>")
 
     def one_tag_per_line(self):

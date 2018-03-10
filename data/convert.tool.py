@@ -139,20 +139,6 @@ class Play:
         self.text = cleanlines(self.text)
 
     def remove_italics(self):
-#        stage_dirs = ["Exit", "exit", "Exeunt", "exeunt", "Enter", "enter", "Re-enter", "re-enter"]
-#        lines = self.text.split('\n')
-#        acc = []
-#        for i in range(len(lines)):
-#            l = lines[i]
-#            if "<i>" in l:
-#                for sd in stage_dirs:
-#                    if sd in l:
-#                        l = snip(l, "<i>", "</i>")
-#                        break
-#                else:
-#                    l = findreplace(l, "<i>", "")
-#                    l = findreplace(l, "</i>", "")
-#                    l = lines[i-1].split(">")[0] + ">" + l + "</a><br>"
         self.text = snip(self.text, "<i>", "</i>")
 
     def one_tag_per_line(self):
@@ -180,6 +166,7 @@ class Play:
                         self.text += '\n' + pair[1]
                     else:
                         print "FIX MANUALLY"
+                        print s
 
 class Sonnet:
 
@@ -248,6 +235,16 @@ class Sonnet:
         else:
             print "Sonnet.write(): failed to write: not done processing"
 
+def compile_plays():
+    files = []
+    for fn in pwd():
+        if ".clean" in fn:
+            files.append(fn)
+    for fn in files:
+        w = Work()
+        w.read_html(fn)
+        w.parse_html()
+        w.write()
 
 def compile_sonnets():
     outfilename = "sonnets.html"
@@ -277,11 +274,6 @@ def handlefile(fn):
         s.cleanup()
         s.write()
         return
-    elif ".clean.html" in fn:
-        w = Work()
-        w.read_html(fn)
-        w.parse_html()
-        w.write()
     else:
         p = Play()
         p.readfile(fn)
@@ -459,7 +451,10 @@ def pwd():
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         if sys.argv[1] == "sonnets":
-            compile_sonnets();
+            compile_sonnets()
+            sys.exit()
+        if sys.argv[1] == "compile":
+            compile_plays()
             sys.exit()
         fn = sys.argv[1]
         handlefile(fn)

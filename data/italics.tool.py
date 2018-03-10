@@ -7,16 +7,17 @@ def pwd():
 
 def get_italics(filename):
     f = open(filename, 'r')
-    lines = f.readlines()
+    text = f.read()
     f.close()
     acc = []
+    lines = text.split('\n')
     for l in lines:
         if "<i>" in l:
             acc.append(l)
     return acc
 
 def remove_stage_directions(lines):
-    stage_dirs = ["Enter", "Exit", "Exeunt", "Flourish", "Re-enter"]
+    stage_dirs = ["Aside", "aside","Enter", "Exit", "Exeunt", "Flourish", "Re-enter"]
     acc = []
     for l in lines:
         save = True

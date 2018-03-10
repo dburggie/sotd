@@ -290,7 +290,7 @@ def handlefile(fn):
 
 
 def itoRN(i):
-    translator = ["","I","II","III","IV","V","VI","VII","VIII","IX","X"]
+    translator = ["","I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII","XIV","XV"]
     if i > 0 and i < len(translator):
         return translator[i]
     else:
@@ -321,6 +321,11 @@ class Entry:
 
     def verify(self):
         lines = self.html.split('\n')
+        if not len(lines) > 1:
+            print "Entry.verify(): what is happening"
+            print self.title
+            print self.html
+            return
         verified = True
         verified &= '<a name="speech' in lines[0] and "</a" in lines[0]
         verified &= '<blockquote>' in lines[1]

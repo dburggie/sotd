@@ -274,6 +274,11 @@ def handlefile(fn):
         s.cleanup()
         s.write()
         return
+    elif ".clean.html" in fn:
+        w = Work()
+        w.read_html(fn)
+        w.parse_html()
+        w.write()
     else:
         p = Play()
         p.readfile(fn)
@@ -323,6 +328,7 @@ class Entry:
             verified &= '<a name="' in l and '</a>' in l
         if not verified:
             print "Entry.verify(): doesn't look parsable:"
+            print self.title
             print self.html
 
     def parse_speech(self):
@@ -352,7 +358,10 @@ class Entry:
             print "Entry.get_act_scene(): TITLE: " + self.title + " READ_ERROR"
             return ""
         act, scene, line = asl
-        act = "Act " + itoRN(int(act))
+        if act == "0":
+            act = "PROLOGUE"
+        else:
+            act = "Act " + itoRN(int(act))
         if scene == "0":
             return act + ", PROLOGUE"
         else:
@@ -431,6 +440,7 @@ class Work:
         self.text = "TITLE={" + self.title + "}\n"
         self.text += "COUNT={" + str(len(entries)) + "}\n"
         self.text += "ENTRIES={\n" + '\n'.join(entries) + "\n}"
+        self.done = True
 
     def write(self):
         if not self.done:
@@ -459,9 +469,9 @@ if __name__ == "__main__":
         fn = sys.argv[1]
         handlefile(fn)
         sys.exit()
-    files = pwd()
-    for fn in files:
-        handlefile(fn)
+    for fn in pwd():
+        if not ".clean" in fn:
+            handlefile(fn)
 
 
 

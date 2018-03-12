@@ -24,7 +24,7 @@ namespace sotd {
 		Entry(std::string input_text);
 		~Entry();
 		void read(std::string input_text);
-		std::string toString();
+		std::string toString() const;
 	};
 
 	class Work {

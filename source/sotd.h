@@ -7,7 +7,7 @@
 namespace sotd {
 
 	std::string extract(const std::string &str, const std::string &start, const std::string &end);
-	std::vector<std::string> split(const std::string &str, const std::string &sub);
+	std::vector<std::string> split(const std::string &str, const std::string &sub, const std::string &pre = "");
 
 	class Entry {
 	private:

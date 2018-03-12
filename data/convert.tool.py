@@ -97,7 +97,7 @@ class Data:
         self.works.append(work)
 
     def __str__(self):
-        s = "AUTHOR={" + self.author + "}/n"
+        s = "AUTHOR={" + self.author + "}\n"
         s += "WORK_COUNT={" + str(len(self.works)) + "}\n"
         s += "WORKS={\n"
         for w in self.works:

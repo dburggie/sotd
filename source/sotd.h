@@ -66,6 +66,6 @@ namespace sotd {
 		void read(std::string filename);
 		Work getRandomWork();
 	};
-};
+}
 
 #endif

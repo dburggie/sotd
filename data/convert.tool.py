@@ -247,7 +247,7 @@ def compile_plays():
         w.write()
 
 def compile_sonnets():
-    outfilename = "sonnets.html"
+    outfilename = "sonnets.clean.html"
     files = os.listdir(os.getcwd())
     files.sort()
     s = "<title>The Sonnets</title>\n"
@@ -263,6 +263,7 @@ def compile_sonnets():
     f.write(s)
     f.close()
     print "compile_sonnets(): " + str(len(s)) + "B written to " + outfilename
+    handlefile(outfilename)
 
 def handlefile(fn):
     if not '.html' in fn:
@@ -331,6 +332,8 @@ class Entry:
         verified &= '<blockquote>' in lines[1]
         for l in lines[2:]:
             verified &= '<a name="' in l and '</a>' in l
+        if "Sonnet" in lines[0]:
+            verified = len(lines) == 16
         if not verified:
             print "Entry.verify(): doesn't look parsable:"
             print self.title
@@ -347,6 +350,9 @@ class Entry:
         self.get_length()
         self.get_sonnet_blurb()
         self.get_text()
+
+    def get_sonnet_blurb():
+        return "William Shakespeare - " + self.get_speaker()
 
     def get_speaker(self):
         s = self.html.split('\n')[0]

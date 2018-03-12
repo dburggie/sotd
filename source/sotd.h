@@ -24,10 +24,10 @@ namespace sotd {
 		static const std::string text_end;
 
 		Entry();
-		Entry(const Entry & entry);
-		Entry(std::string input_text);
+		Entry(const Entry &entry);
+		Entry(const std::string &input_text);
 		~Entry();
-		void read(std::string input_text);
+		void read(const std::string &input_text);
 		std::string toString() const;
 	};
 
@@ -44,11 +44,11 @@ namespace sotd {
 		static const std::string entries_end;
 
 		Work();
-		Work(const Work & work);
-		Work(std::string input_text);
+		Work(const Work &work);
+		Work(const std::string &input_text);
 		~Work();
-		void read(std::string input_text);
-		Entry getRandomEntry();
+		void read(const std::string &input_text);
+		const Entry & getRandomEntry() const;
 	};
 
 	class Data {
@@ -64,11 +64,11 @@ namespace sotd {
 		static const std::string works_end;
 
 		Data();
-		Data(const Data & data);
-		Data(std::string filename);
+		Data(const Data &data);
+		Data(const std::string &filename);
 		~Data();
-		void read(std::string filename);
-		Work getRandomWork();
+		void read(const std::string &filename);
+		const Work & getRandomWork() const;
 	};
 }
 

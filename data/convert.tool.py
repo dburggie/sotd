@@ -356,6 +356,8 @@ class Entry:
 
     # get a,s from '<a name="a.s.l"><b>TEXT</b></a>'
     def get_act_scene(self):
+        if "EPILOGUE" in self.html:
+            return "EPILOGUE"
         s = self.html.split('\n')[2]
         s = s.split('"')[1]
         asl = s.split('.')
@@ -380,6 +382,8 @@ class Entry:
         lines = self.html.split('\n')[2:]
         acc = []
         for l in lines:
+            if "EPILOGUE" in l:
+                continue
             l = snip(l, "<a", ">")
             l = findreplace(l, "</a>", "")
             acc.append(l)

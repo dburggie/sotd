@@ -6164,18 +6164,18 @@ TEXT={
 Amen!
 }
 BLURB={KING HENRY V - The Life and Death of Henry the Fifth - Act V, Scene II}
-LENGTH={6}
+LENGTH={5}
 TEXT={
 Prepare we for our marriage--on which day,
 My Lord of Burgundy, we'll take your oath,
 And all the peers', for surety of our leagues.
 Then shall I swear to Kate, and you to me;
 And may our oaths well kept and prosperous be!
-EPILOGUE
 }
 BLURB={Chorus - The Life and Death of Henry the Fifth - Act V, Scene II}
-LENGTH={14}
+LENGTH={15}
 TEXT={
+EPILOGUE
 Thus far, with rough and all-unable pen,
 Our bending author hath pursued the story,
 In little room confining mighty men,

@@ -1,5 +1,5 @@
 TITLE={The Second Part of Henry the Fourth}
-COUNT={843}
+COUNT={844}
 ENTRIES={
 BLURB={RUMOUR - The Second Part of Henry the Fourth - PROLOGUE, PROLOGUE}
 LENGTH={41}
@@ -1862,15 +1862,14 @@ thing the purpose must weigh with the folly.
 Follow me, Ned.
 }
 BLURB={NORTHUMBERLAND - The Second Part of Henry the Fourth - Act II, Scene III}
-LENGTH={5}
+LENGTH={4}
 TEXT={
 I pray thee, loving wife, and gentle daughter,
 Give even way unto my rough affairs:
 Put not you on the visage of the times
 And be like them to Percy troublesome.
-LADY
 }
-BLURB={NORTHUMBERLAND - The Second Part of Henry the Fourth - Act II, Scene III}
+BLURB={LADY NORTHUMBERLAND - The Second Part of Henry the Fourth - Act II, Scene III}
 LENGTH={2}
 TEXT={
 I have given over, I will speak no more:
@@ -1924,7 +1923,7 @@ To-day might I, hanging on Hotspur's neck,
 Have talk'd of Monmouth's grave.
 }
 BLURB={NORTHUMBERLAND - The Second Part of Henry the Fourth - Act II, Scene III}
-LENGTH={7}
+LENGTH={6}
 TEXT={
 Beshrew your heart,
 Fair daughter, you do draw my spirits from me
@@ -1932,9 +1931,8 @@ With new lamenting ancient oversights.
 But I must go and meet with danger there,
 Or it will seek me in another place
 And find me worse provided.
-LADY
 }
-BLURB={NORTHUMBERLAND - The Second Part of Henry the Fourth - Act II, Scene III}
+BLURB={LADY NORTHUMBERLAND - The Second Part of Henry the Fourth - Act II, Scene III}
 LENGTH={3}
 TEXT={
 O, fly to Scotland,
@@ -6585,13 +6583,17 @@ The king hath call'd his parliament, my lord.
 Lord Chief-Justice	He hath.
 }
 BLURB={LANCASTER - The Second Part of Henry the Fourth - Act V, Scene V}
-LENGTH={40}
+LENGTH={5}
 TEXT={
 I will lay odds that, ere this year expire,
 We bear our civil swords and native fire
 As far as France: I beard a bird so sing,
 Whose music, to my thinking, pleased the king.
 Come, will you hence?
+}
+BLURB={Dancer - The Second Part of Henry the Fourth - Act V, Scene V}
+LENGTH={35}
+TEXT={
 EPILOGUE
 First my fear; then my courtesy; last my speech.
 My fear is, your displeasure; my courtesy, my duty;

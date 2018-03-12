@@ -4251,16 +4251,15 @@ Her beauty and the value of her dower,
 He doth intend she shall be England's queen.
 }
 BLURB={KING HENRY VI - The First Part of Henry the Sixth - Act V, Scene I}
-LENGTH={6}
+LENGTH={5}
 TEXT={
 In argument and proof of which contract,
 Bear her this jewel, pledge of my affection.
 And so, my lord protector, see them guarded
 And safely brought to Dover; where inshipp'd
 Commit them to the fortune of the sea.
-CARDINAL
 }
-BLURB={BISHOP OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene I}
+BLURB={CARDINAL OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene I}
 LENGTH={4}
 TEXT={
 Stay, my lord legate: you shall first receive
@@ -4269,12 +4268,11 @@ Should be deliver'd to his holiness
 For clothing me in these grave ornaments.
 }
 BLURB={Legate - The First Part of Henry the Sixth - Act V, Scene I}
-LENGTH={2}
+LENGTH={1}
 TEXT={
 I will attend upon your lordship's leisure.
-CARDINAL
 }
-BLURB={BISHOP OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene I}
+BLURB={CARDINAL OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene I}
 LENGTH={7}
 TEXT={
 [Aside]  Now Winchester will not submit, I trow,
@@ -5014,13 +5012,12 @@ Environ you, till mischief and despair
 Drive you to break your necks or hang yourselves!
 }
 BLURB={YORK - The First Part of Henry the Sixth - Act V, Scene IV}
-LENGTH={3}
+LENGTH={2}
 TEXT={
 Break thou in pieces and consume to ashes,
 Thou foul accursed minister of hell!
-CARDINAL
 }
-BLURB={BISHOP OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene IV}
+BLURB={CARDINAL OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene IV}
 LENGTH={8}
 TEXT={
 Lord regent, I do greet your excellence
@@ -5063,14 +5060,13 @@ We come to be informed by yourselves
 What the conditions of that league must be.
 }
 BLURB={YORK - The First Part of Henry the Sixth - Act V, Scene IV}
-LENGTH={4}
+LENGTH={3}
 TEXT={
 Speak, Winchester; for boiling choler chokes
 The hollow passage of my poison'd voice,
 By sight of these our baleful enemies.
-CARDINAL
 }
-BLURB={BISHOP OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene IV}
+BLURB={CARDINAL OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene IV}
 LENGTH={10}
 TEXT={
 Charles, and the rest, it is enacted thus:

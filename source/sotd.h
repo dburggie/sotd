@@ -9,7 +9,7 @@ namespace sotd {
 	private:
 		std::string blurb;
 		std::string length;
-		std::string text;
+		std::vector<string> lines;
 
 	public:
 		static const std::string blurb_start;

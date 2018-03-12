@@ -5,6 +5,10 @@
 #include <vector>	//std::vector
 
 namespace sotd {
+
+	std::string extract(const std::string &str, const std::string &start, const std::string &end);
+	std::vector<std::string> split(const std::string &str, const std::string &sub);
+
 	class Entry {
 	private:
 		std::string blurb;

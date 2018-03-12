@@ -2,12 +2,8 @@
 #define __SOTD_H
 
 #include <string>    //std::string
-#include <sotd.h>    //sotd::Entry
-
-//		private:
-//			std::string blurb;
-//			std::string text;
-//
+#include <vector>    //std::vector
+#include <sotd.h>    //sotd::Entry,split,extract
 
 const std::string sotd::Entry::blurb_start  ("BLURB={");
 const std::string sotd::Entry::blurb_end    ("}\n");

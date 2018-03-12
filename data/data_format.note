@@ -62,3 +62,30 @@ meanwhile, the compiled data files may leave out a bunch of those entries
 because they're too short or low quality.
 
 
+The full application's data file will look like this:
+
+##### START of sotd.dat
+AUTHOR={William Shakespeare}
+WORK_COUNT={39}
+WORKS={
+TITLE={Pericles, Prince of Tyre}
+ENTRY_COUNT={642}
+ENTRIES={
+BLURB={CHORUS - Pericles, Prince of Tyre - PROLOGUE}
+LENGTH={42}
+TEXT={
+	...
+}
+	...
+}
+TITLE={...
+...
+...
+
+}
+}
+}
+
+
+
+ 

@@ -6646,7 +6646,7 @@ I thank thee: wait on me home, I'll make sport with thee:
 Let thy courtesies alone, they are scurvy ones.
 }
 BLURB={KING - All's Well That Ends Well - Act V, Scene III}
-LENGTH={11}
+LENGTH={10}
 TEXT={
 Let us from point to point this story know,
 To make the even truth in pleasure flow.
@@ -6658,11 +6658,11 @@ Of that and all the progress, more or less,
 Resolvedly more leisure shall express:
 All yet seems well; and if it end so meet,
 The bitter past, more welcome is the sweet.
-EPILOGUE
 }
 BLURB={KING - All's Well That Ends Well - Act V, Scene III}
-LENGTH={6}
+LENGTH={7}
 TEXT={
+EPILOGUE
 The king's a beggar, now the play is done:
 All is well ended, if this suit be won,
 That you express content; which we will pay,

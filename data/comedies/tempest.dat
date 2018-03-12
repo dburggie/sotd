@@ -1,5 +1,5 @@
 TITLE={The Tempest}
-COUNT={640}
+COUNT={641}
 ENTRIES={
 BLURB={Master - The Tempest - Act I, Scene I}
 LENGTH={1}
@@ -4810,7 +4810,7 @@ To hear the story of your life, which must
 Take the ear strangely.
 }
 BLURB={PROSPERO - The Tempest - Act V, Scene I}
-LENGTH={29}
+LENGTH={7}
 TEXT={
 I'll deliver all;
 And promise you calm seas, auspicious gales
@@ -4819,8 +4819,11 @@ Your royal fleet far off.
 My Ariel, chick,
 That is thy charge: then to the elements
 Be free, and fare thou well! Please you, draw near.
+}
+BLURB={PROSPERO - The Tempest - Act V, Scene I}
+LENGTH={21}
+TEXT={
 EPILOGUE
-SPOKEN BY PROSPERO
 Now my charms are all o'erthrown,
 And what strength I have's mine own,
 Which is most faint: now, 'tis true,

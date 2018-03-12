@@ -5892,15 +5892,15 @@ To see no pastime I	what you would have
 I'll stay to know at your abandon'd cave.
 }
 BLURB={DUKE SENIOR - As You Like It - Act V, Scene IV}
-LENGTH={3}
+LENGTH={2}
 TEXT={
 Proceed, proceed: we will begin these rites,
 As we do trust they'll end, in true delights.
-EPILOGUE
 }
 BLURB={ROSALIND - As You Like It - Act V, Scene IV}
-LENGTH={22}
+LENGTH={23}
 TEXT={
+EPILOGUE
 It is not the fashion to see the lady the epilogue;
 but it is no more unhandsome than to see the lord
 the prologue. If it be true that good wine needs

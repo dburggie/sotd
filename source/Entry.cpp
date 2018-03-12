@@ -13,23 +13,23 @@ const std::string sotd::Entry::text_start   ("TEXT={\n");
 const std::string sotd::Entry::text_end     ("\n}");
 
 sotd::Entry() {
-	blurb("");
-	length("");
-	text();
+	blurb = std::string("");
+	length = std::string("");
+	lines = std::vector<std::string>();
 }
 
 sotd::Entry(const Entry & entry)
 {
-	blurb = entry.blurb;
-	length = entry.length;
-	text = entry.text;
+	blurb = std::string(entry.blurb);
+	length = std::string(entry.length);
+	lines = std::vector<std::string>(entry.lines);
 }
 
-sotd::Entry(std::string input_text)
+sotd::Entry(const std::string &input_text)
 {
-	blurb("");
-	length("");
-	text();
+	blurb = std::string("");
+	length = std::string("");
+	lines = std::vector<std::string>();
 	read(input_text);
 }
 
@@ -40,12 +40,20 @@ void sotd::read(std::string input_text)
 	blurb = extract(input_text, sotd::Entry::blurb_start, sotd::Entry::blurb_end);
 	length = extract(input_text, sotd::Entry::length_start, sotd::Entry::length_end);
 	std::string text = sotd::extract(input_text, sotd::Entry::text_start, sotd::Entry::text_end);
-	lines = sotd::split(text, std::string("\n"));
+	lines = sotd::split(text, "\n", "  ");
 }
 
 std::string sotd::toString() const
 {
-	
+	std::string str = "\n" + blurb + "\n\n";
+
+	std::vector<std::string>::iterator i = lines.begin();
+	for (i = lines.begin(); i != lines.end(); i++)
+	{
+		str += *i;
+	}
+
+	str += "\n\n";
 	return str;
 }
 

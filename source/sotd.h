@@ -1,5 +1,5 @@
-#ifndef __SOTD_H
-#define __SOTD_H
+#ifndef SOTD_H
+#define SOTD_H
 
 #include <string>	//std::string
 #include <vector>	//std::vector
@@ -12,11 +12,14 @@ namespace sotd {
 	//split string at $sep substrings of $str
 	std::vector<std::string> split(const std::string &str, const std::string &sep);
 
+	//get a random int
+	int random(int max);
+
 	class Entry {
 	private:
 		std::string blurb;
 		std::string length;
-		std::vector<string> lines;
+		std::vector<std::string> lines;
 
 	public:
 		static const std::string blurb_start;
@@ -70,11 +73,12 @@ namespace sotd {
 
 		Data();
 		Data(const Data &data);
-		Data(const std::string &filename);
+		Data(const char *filename);
 		~Data();
-		void read(const std::string &filename);
+		void read_file(const char * filename);
+		void read_text(const std::string &text);
 		const Work & getRandomWork() const;
 	};
-}
+};
 
 #endif

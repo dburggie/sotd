@@ -1,15 +1,16 @@
-TITLE={The Comedy of Errors}
-COUNT={608}
-ENTRIES={
-BLURB={AEGEON - The Comedy of Errors - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#WORK_TITLE=The Comedy of Errors
+#ENTRY_COUNT=608
+#BEGIN_ENTRIES
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Proceed, Solinus, to procure my fall
 And by the doom of death end woes and all.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act I, Scene I}
-LENGTH={23}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=23
+#BEGIN_ENTRY_TEXT
 Merchant of Syracuse, plead no more;
 I am not partial to infringe our laws:
 The enmity and discord which of late
@@ -33,23 +34,26 @@ To quit the penalty and to ransom him.
 Thy substance, valued at the highest rate,
 Cannot amount unto a hundred marks;
 Therefore by law thou art condemned to die.
-}
-BLURB={AEGEON - The Comedy of Errors - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Yet this my comfort: when your words are done,
 My woes end likewise with the evening sun.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act I, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Well, Syracusian, say in brief the cause
 Why thou departed'st from thy native home
 And for what cause thou camest to Ephesus.
-}
-BLURB={AEGEON - The Comedy of Errors - Act I, Scene I}
-LENGTH={65}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=65
+#BEGIN_ENTRY_TEXT
 A heavier task could not have been imposed
 Than I to speak my griefs unspeakable:
 Yet, that the world may witness that my end
@@ -115,16 +119,18 @@ Two ships from far making amain to us,
 Of Corinth that, of Epidaurus this:
 But ere they came,--O, let me say no more!
 Gather the sequel by that went before.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Nay, forward, old man; do not break off so;
 For we may pity, though not pardon thee.
-}
-BLURB={AEGEON - The Comedy of Errors - Act I, Scene I}
-LENGTH={23}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=23
+#BEGIN_ENTRY_TEXT
 O, had the gods done so, I had not now
 Worthily term'd them merciless to us!
 For, ere the ships could meet by twice five leagues,
@@ -148,17 +154,19 @@ And therefore homeward did they bend their course.
 Thus have you heard me sever'd from my bliss;
 That by misfortunes was my life prolong'd,
 To tell sad stories of my own mishaps.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act I, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 And for the sake of them thou sorrowest for,
 Do me the favour to dilate at full
 What hath befall'n of them and thee till now.
-}
-BLURB={AEGEON - The Comedy of Errors - Act I, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 My youngest boy, and yet my eldest care,
 At eighteen years became inquisitive
 After his brother: and importuned me
@@ -175,10 +183,11 @@ Or that or any place that harbours men.
 But here must end the story of my life;
 And happy were I in my timely death,
 Could all my travels warrant me they live.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act I, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 Hapless AEgeon, whom the fates have mark'd
 To bear the extremity of dire mishap!
 Now, trust me, were it not against our laws,
@@ -195,21 +204,24 @@ Try all the friends thou hast in Ephesus;
 Beg thou, or borrow, to make up the sum,
 And live; if no, then thou art doom'd to die.
 Gaoler, take him to thy custody.
-}
-BLURB={Gaoler - The Comedy of Errors - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Gaoler - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I will, my lord.
-}
-BLURB={AEGEON - The Comedy of Errors - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Hopeless and helpless doth AEgeon wend,
 But to procrastinate his lifeless end.
-}
-BLURB={First Merchant - The Comedy of Errors - Act I, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Merchant - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 Therefore give out you are of Epidamnum,
 Lest that your goods too soon be confiscate.
 This very day a Syracusian merchant
@@ -218,10 +230,11 @@ And not being able to buy out his life
 According to the statute of the town,
 Dies ere the weary sun set in the west.
 There is your money that I had to keep.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 Go bear it to the Centaur, where we host,
 And stay there, Dromio, till I come to thee.
 Within this hour it will be dinner-time:
@@ -230,46 +243,52 @@ Peruse the traders, gaze upon the buildings,
 And then return and sleep within mine inn,
 For with long travel I am stiff and weary.
 Get thee away.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Many a man would take you at your word,
 And go indeed, having so good a mean.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 A trusty villain, sir, that very oft,
 When I am dull with care and melancholy,
 Lightens my humour with his merry jests.
 What, will you walk with me about the town,
 And then go to my inn and dine with me?
-}
-BLURB={First Merchant - The Comedy of Errors - Act I, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Merchant - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 I am invited, sir, to certain merchants,
 Of whom I hope to make much benefit;
 I crave your pardon. Soon at five o'clock,
 Please you, I'll meet with you upon the mart
 And afterward consort you till bed-time:
 My present business calls me from you now.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Farewell till then: I will go lose myself
 And wander up and down to view the city.
-}
-BLURB={First Merchant - The Comedy of Errors - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Merchant - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Sir, I commend you to your own content.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 He that commends me to mine own content
 Commends me to the thing I cannot get.
 I to the world am like a drop of water
@@ -280,10 +299,11 @@ So I, to find a mother and a brother,
 In quest of them, unhappy, lose myself.
 Here comes the almanac of my true date.
 What now? how chance thou art return'd so soon?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Return'd so soon! rather approach'd too late:
 The capon burns, the pig falls from the spit,
 The clock hath strucken twelve upon the bell;
@@ -294,107 +314,122 @@ You come not home because you have no stomach;
 You have no stomach having broke your fast;
 But we that know what 'tis to fast and pray
 Are penitent for your default to-day.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Stop in your wind, sir: tell me this, I pray:
 Where have you left the money that I gave you?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 O,--sixpence, that I had o' Wednesday last
 To pay the saddler for my mistress' crupper?
 The saddler had it, sir; I kept it not.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 I am not in a sportive humour now:
 Tell me, and dally not, where is the money?
 We being strangers here, how darest thou trust
 So great a charge from thine own custody?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 I pray you, air, as you sit at dinner:
 I from my mistress come to you in post;
 If I return, I shall be post indeed,
 For she will score your fault upon my pate.
 Methinks your maw, like mine, should be your clock,
 And strike you home without a messenger.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Come, Dromio, come, these jests are out of season;
 Reserve them till a merrier hour than this.
 Where is the gold I gave in charge to thee?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 To me, sir? why, you gave no gold to me.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Come on, sir knave, have done your foolishness,
 And tell me how thou hast disposed thy charge.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 My charge was but to fetch you from the mart
 Home to your house, the Phoenix, sir, to dinner:
 My mistress and her sister stays for you.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 In what safe place you have bestow'd my money,
 Or I shall break that merry sconce of yours
 That stands on tricks when I am undisposed:
 Where is the thousand marks thou hadst of me?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 I have some marks of yours upon my pate,
 Some of my mistress' marks upon my shoulders,
 But not a thousand marks between you both.
 If I should pay your worship those again,
 Perchance you will not bear them patiently.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thy mistress' marks? what mistress, slave, hast thou?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Your worship's wife, my mistress at the Phoenix;
 She that doth fast till you come home to dinner,
 And prays that you will hie you home to dinner.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What, wilt thou flout me thus unto my face,
 Being forbid? There, take you that, sir knave.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What mean you, sir? for God's sake, hold your hands!
 Nay, and you will not, sir, I'll take my heels.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act I, Scene II
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 Upon my life, by some device or other
 The villain is o'er-raught of all my money.
 They say this town is full of cozenage,
@@ -406,52 +441,60 @@ And many such-like liberties of sin:
 If it prove so, I will be gone the sooner.
 I'll to the Centaur, to go seek this slave:
 I greatly fear my money is not safe.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Neither my husband nor the slave return'd,
 That in such haste I sent to seek his master!
 Sure, Luciana, it is two o'clock.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Perhaps some merchant hath invited him,
 And from the mart he's somewhere gone to dinner.
 Good sister, let us dine and never fret:
 A man is master of his liberty:
 Time is their master, and, when they see time,
 They'll go or come: if so, be patient, sister.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why should their liberty than ours be more?
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Because their business still lies out o' door.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Look, when I serve him so, he takes it ill.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O, know he is the bridle of your will.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 There's none but asses will be bridled so.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 Why, headstrong liberty is lash'd with woe.
 There's nothing situate under heaven's eye
 But hath his bound, in earth, in sea, in sky:
@@ -463,40 +506,47 @@ Indued with intellectual sense and souls,
 Of more preeminence than fish and fowls,
 Are masters to their females, and their lords:
 Then let your will attend on their accords.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 This servitude makes you to keep unwed.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Not this, but troubles of the marriage-bed.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 But, were you wedded, you would bear some sway.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ere I learn love, I'll practise to obey.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How if your husband start some other where?
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Till he come home again, I would forbear.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Patience unmoved! no marvel though she pause;
 They can be meek that have no other cause.
 A wretched soul, bruised with adversity,
@@ -507,66 +557,77 @@ So thou, that hast no unkind mate to grieve thee,
 With urging helpless patience wouldst relieve me,
 But, if thou live to see like right bereft,
 This fool-begg'd patience in thee will be left.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Well, I will marry one day, but to try.
 Here comes your man; now is your husband nigh.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Say, is your tardy master now at hand?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Nay, he's at two hands with me, and that my two ears
 can witness.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Say, didst thou speak with him? know'st thou his mind?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Ay, ay, he told his mind upon mine ear:
 Beshrew his hand, I scarce could understand it.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Spake he so doubtfully, thou couldst not feel his meaning?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Nay, he struck so plainly, I could too well feel his
 blows; and withal so doubtfully that I could scarce
 understand them.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 But say, I prithee, is he coming home? It seems he
 hath great care to please his wife.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, mistress, sure my master is horn-mad.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Horn-mad, thou villain!
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 I mean not cuckold-mad;
 But, sure, he is stark mad.
 When I desired him to come home to dinner,
@@ -578,64 +639,74 @@ He ask'd me for a thousand marks in gold:
 'The pig,' quoth I, 'is burn'd;' 'My gold!' quoth he:
 'My mistress, sir' quoth I; 'Hang up thy mistress!
 I know not thy mistress; out on thy mistress!'
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Quoth who?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Quoth my master:
 'I know,' quoth he, 'no house, no wife, no mistress.'
 So that my errand, due unto my tongue,
 I thank him, I bare home upon my shoulders;
 For, in conclusion, he did beat me there.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Go back again, thou slave, and fetch him home.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Go back again, and be new beaten home?
 For God's sake, send some other messenger.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Back, slave, or I will break thy pate across.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 And he will bless that cross with other beating:
 Between you I shall have a holy head.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Hence, prating peasant! fetch thy master home.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Am I so round with you as you with me,
 That like a football you do spurn me thus?
 You spurn me hence, and he will spurn me hither:
 If I last in this service, you must case me in leather.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Fie, how impatience loureth in your face!
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={15}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=15
+#BEGIN_ENTRY_TEXT
 His company must do his minions grace,
 Whilst I at home starve for a merry look.
 Hath homely age the alluring beauty took
@@ -651,15 +722,17 @@ Of my defeatures. My decayed fair
 A sunny look of his would soon repair
 But, too unruly deer, he breaks the pale
 And feeds from home; poor I am but his stale.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Self-harming jealousy! fie, beat it hence!
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={13}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=13
+#BEGIN_ENTRY_TEXT
 Unfeeling fools can with such wrongs dispense.
 I know his eye doth homage otherwhere,
 Or else what lets it but he would be here?
@@ -673,15 +746,17 @@ Wear gold: and no man that hath a name,
 By falsehood and corruption doth it shame.
 Since that my beauty cannot please his eye,
 I'll weep what's left away, and weeping die.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How many fond fools serve mad jealousy!
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 The gold I gave to Dromio is laid up
 Safe at the Centaur; and the heedful slave
 Is wander'd forth, in care to seek me out
@@ -694,51 +769,59 @@ You know no Centaur? you received no gold?
 Your mistress sent to have me home to dinner?
 My house was at the Phoenix? Wast thou mad,
 That thus so madly thou didst answer me?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What answer, sir? when spake I such a word?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Even now, even here, not half an hour since.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I did not see you since you sent me hence,
 Home to the Centaur, with the gold you gave me.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Villain, thou didst deny the gold's receipt,
 And told'st me of a mistress and a dinner;
 For which, I hope, thou felt'st I was displeased.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I am glad to see you in this merry vein:
 What means this jest? I pray you, master, tell me.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Yea, dost thou jeer and flout me in the teeth?
 Think'st thou I jest? Hold, take thou that, and that.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Hold, sir, for God's sake! now your jest is earnest:
 Upon what bargain do you give it me?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Because that I familiarly sometimes
 Do use you for my fool and chat with you,
 Your sauciness will jest upon my love
@@ -748,255 +831,300 @@ But creep in crannies when he hides his beams.
 If you will jest with me, know my aspect,
 And fashion your demeanor to my looks,
 Or I will beat this method in your sconce.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Sconce call you it? so you would leave battering, I
 had rather have it a head: an you use these blows
 long, I must get a sconce for my head and ensconce
 it too; or else I shall seek my wit in my shoulders.
 But, I pray, sir why am I beaten?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Dost thou not know?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nothing, sir, but that I am beaten.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Shall I tell you why?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Ay, sir, and wherefore; for they say every why hath
 a wherefore.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why, first,--for flouting me; and then, wherefore--
 For urging it the second time to me.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Was there ever any man thus beaten out of season,
 When in the why and the wherefore is neither rhyme
 nor reason?
 Well, sir, I thank you.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thank me, sir, for what?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Marry, sir, for this something that you gave me for nothing.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I'll make you amends next, to give you nothing for
 something. But say, sir, is it dinner-time?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, sir; I think the meat wants that I have.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 In good time, sir; what's that?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Basting.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well, sir, then 'twill be dry.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 If it be, sir, I pray you, eat none of it.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Your reason?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Lest it make you choleric and purchase me another
 dry basting.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Well, sir, learn to jest in good time: there's a
 time for all things.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I durst have denied that, before you were so choleric.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 By what rule, sir?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Marry, sir, by a rule as plain as the plain bald
 pate of father Time himself.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Let's hear it.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 There's no time for a man to recover his hair that
 grows bald by nature.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 May he not do it by fine and recovery?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Yes, to pay a fine for a periwig and recover the
 lost hair of another man.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why is Time such a niggard of hair, being, as it is,
 so plentiful an excrement?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Because it is a blessing that he bestows on beasts;
 and what he hath scanted men in hair he hath given them in wit.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, but there's many a man hath more hair than wit.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Not a man of those but he hath the wit to lose his hair.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, thou didst conclude hairy men plain dealers without wit.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 The plainer dealer, the sooner lost: yet he loseth
 it in a kind of jollity.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 For what reason?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 For two; and sound ones too.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nay, not sound, I pray you.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Sure ones, then.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nay, not sure, in a thing falsing.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Certain ones then.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Name them.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 The one, to save the money that he spends in
 trimming; the other, that at dinner they should not
 drop in his porridge.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You would all this time have proved there is no
 time for all things.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Marry, and did, sir; namely, no time to recover hair
 lost by nature.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 But your reason was not substantial, why there is no
 time to recover.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Thus I mend it: Time himself is bald and therefore
 to the world's end will have bald followers.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I knew 'twould be a bald conclusion:
 But, soft! who wafts us yonder?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={37}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=37
+#BEGIN_ENTRY_TEXT
 Ay, ay, Antipholus, look strange and frown:
 Some other mistress hath thy sweet aspects;
 I am not Adriana nor thy wife.
@@ -1034,71 +1162,82 @@ I do digest the poison of thy flesh,
 Being strumpeted by thy contagion.
 Keep then far league and truce with thy true bed;
 I live unstain'd, thou undishonoured.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Plead you to me, fair dame? I know you not:
 In Ephesus I am but two hours old,
 As strange unto your town as to your talk;
 Who, every word by all my wit being scann'd,
 Want wit in all one word to understand.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Fie, brother! how the world is changed with you!
 When were you wont to use my sister thus?
 She sent for you by Dromio home to dinner.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 By Dromio?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 By me?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 By thee; and this thou didst return from him,
 That he did buffet thee, and, in his blows,
 Denied my house for his, me for his wife.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Did you converse, sir, with this gentlewoman?
 What is the course and drift of your compact?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I, sir? I never saw her till this time.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Villain, thou liest; for even her very words
 Didst thou deliver to me on the mart.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I never spake with her in all my life.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 How can she thus then call us by our names,
 Unless it be by inspiration.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={13}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=13
+#BEGIN_ENTRY_TEXT
 How ill agrees it with your gravity
 To counterfeit thus grossly with your slave,
 Abetting him to thwart me in my mood!
@@ -1112,77 +1251,89 @@ If aught possess thee from me, it is dross,
 Usurping ivy, brier, or idle moss;
 Who, all for want of pruning, with intrusion
 Infect thy sap and live on thy confusion.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 To me she speaks; she moves me for her theme:
 What, was I married to her in my dream?
 Or sleep I now and think I hear all this?
 What error drives our eyes and ears amiss?
 Until I know this sure uncertainty,
 I'll entertain the offer'd fallacy.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Dromio, go bid the servants spread for dinner.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 O, for my beads! I cross me for a sinner.
 This is the fairy land: O spite of spites!
 We talk with goblins, owls and sprites:
 If we obey them not, this will ensue,
 They'll suck our breath, or pinch us black and blue.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why pratest thou to thyself and answer'st not?
 Dromio, thou drone, thou snail, thou slug, thou sot!
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I am transformed, master, am I not?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I think thou art in mind, and so am I.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nay, master, both in mind and in my shape.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thou hast thine own form.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, I am an ape.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 If thou art changed to aught, 'tis to an ass.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 'Tis true; she rides me and I long for grass.
 'Tis so, I am an ass; else it could never be
 But I should know her as well as she knows me.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Come, come, no longer will I be a fool,
 To put the finger in the eye and weep,
 Whilst man and master laugh my woes to scorn.
@@ -1192,34 +1343,39 @@ And shrive you of a thousand idle pranks.
 Sirrah, if any ask you for your master,
 Say he dines forth, and let no creature enter.
 Come, sister. Dromio, play the porter well.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Am I in earth, in heaven, or in hell?
 Sleeping or waking? mad or well-advised?
 Known unto these, and to myself disguised!
 I'll say as they say and persever so,
 And in this mist at all adventures go.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Master, shall I be porter at the gate?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ay; and let none enter, lest I break your pate.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Come, come, Antipholus, we dine too late.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Good Signior Angelo, you must excuse us all;
 My wife is shrewish when I keep not hours:
 Say that I linger'd with you at your shop
@@ -1230,332 +1386,389 @@ He met me on the mart, and that I beat him,
 And charged him with a thousand marks in gold,
 And that I did deny my wife and house.
 Thou drunkard, thou, what didst thou mean by this?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Say what you will, sir, but I know what I know;
 That you beat me at the mart, I have your hand to show:
 If the skin were parchment, and the blows you gave were ink,
 Your own handwriting would tell you what I think.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I think thou art an ass.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Marry, so it doth appear
 By the wrongs I suffer and the blows I bear.
 I should kick, being kick'd; and, being at that pass,
 You would keep from my heels and beware of an ass.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You're sad, Signior Balthazar: pray God our cheer
 May answer my good will and your good welcome here.
-}
-BLURB={BALTHAZAR - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BALTHAZAR - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I hold your dainties cheap, sir, and your
 welcome dear.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 O, Signior Balthazar, either at flesh or fish,
 A table full of welcome make scarce one dainty dish.
-}
-BLURB={BALTHAZAR - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BALTHAZAR - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Good meat, sir, is common; that every churl affords.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And welcome more common; for that's nothing but words.
-}
-BLURB={BALTHAZAR - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BALTHAZAR - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Small cheer and great welcome makes a merry feast.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Ay, to a niggardly host, and more sparing guest:
 But though my cates be mean, take them in good part;
 Better cheer may you have, but not with better heart.
 But, soft! my door is lock'd. Go bid them let us in.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Maud, Bridget, Marian, Cicel, Gillian, Ginn!
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 [Within]  Mome, malt-horse, capon, coxcomb,
 idiot, patch!
 Either get thee from the door, or sit down at the hatch.
 Dost thou conjure for wenches, that thou call'st
 for such store,
 When one is one too many? Go, get thee from the door.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What patch is made our porter? My master stays in
 the street.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  Let him walk from whence he came, lest he
 catch cold on's feet.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Who talks within there? ho, open the door!
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  Right, sir; I'll tell you when, an you tell
 me wherefore.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Wherefore? for my dinner: I have not dined to-day.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  Nor to-day here you must not; come again
 when you may.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What art thou that keepest me out from the house I owe?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  The porter for this time, sir, and my name
 is Dromio.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 O villain! thou hast stolen both mine office and my name.
 The one ne'er got me credit, the other mickle blame.
 If thou hadst been Dromio to-day in my place,
 Thou wouldst have changed thy face for a name or thy
 name for an ass.
-}
-BLURB={LUCE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  What a coil is there, Dromio? who are those
 at the gate?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Let my master in, Luce.
-}
-BLURB={LUCE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  Faith, no; he comes too late;
 And so tell your master.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 O Lord, I must laugh!
 Have at you with a proverb--Shall I set in my staff?
-}
-BLURB={LUCE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  Have at you with another; that's--When?
 can you tell?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  If thy name be call'd Luce--Luce, thou hast
 answered him well.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Do you hear, you minion? you'll let us in, I hope?
-}
-BLURB={LUCE - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Within]  I thought to have asked you.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Within]  And you said no.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 So, come, help: well struck! there was blow for blow.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thou baggage, let me in.
-}
-BLURB={LUCE - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Within]  Can you tell for whose sake?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Master, knock the door hard.
-}
-BLURB={LUCE - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Within]  Let him knock till it ache.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You'll cry for this, minion, if I beat the door down.
-}
-BLURB={LUCE - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Within]  What needs all that, and a pair of stocks in the town?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  Who is that at the door that keeps all
 this noise?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  By my troth, your town is troubled with
 unruly boys.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Are you there, wife? you might have come before.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Within]  Your wife, sir knave! go get you from the door.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 If you went in pain, master, this 'knave' would go sore.
-}
-BLURB={ANGELO - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Here is neither cheer, sir, nor welcome: we would
 fain have either.
-}
-BLURB={BALTHAZAR - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BALTHAZAR - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 In debating which was best, we shall part with neither.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 They stand at the door, master; bid them welcome hither.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 There is something in the wind, that we cannot get in.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 You would say so, master, if your garments were thin.
 Your cake there is warm within; you stand here in the cold:
 It would make a man mad as a buck, to be so bought and sold.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Go fetch me something: I'll break ope the gate.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  Break any breaking here, and I'll break your
 knave's pate.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 A man may break a word with you, sir, and words are but wind,
 Ay, and break it in your face, so he break it not behind.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 [Within]  It seems thou want'st breaking: out upon
 thee, hind!
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Here's too much 'out upon thee!' I pray thee,
 let me in.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Within]  Ay, when fowls have no feathers and fish have no fin.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well, I'll break in: go borrow me a crow.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 A crow without feather? Master, mean you so?
 For a fish without a fin, there's a fowl without a feather;
 If a crow help us in, sirrah, we'll pluck a crow together.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Go get thee gone; fetch me an iron crow.
-}
-BLURB={BALTHAZAR - The Comedy of Errors - Act III, Scene I}
-LENGTH={22}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BALTHAZAR - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=22
+#BEGIN_ENTRY_TEXT
 Have patience, sir; O, let it not be so!
 Herein you war against your reputation
 And draw within the compass of suspect
@@ -1578,10 +1791,11 @@ That may with foul intrusion enter in
 And dwell upon your grave when you are dead;
 For slander lives upon succession,
 For ever housed where it gets possession.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 You have prevailed: I will depart in quiet,
 And, in despite of mirth, mean to be merry.
 I know a wench of excellent discourse,
@@ -1598,20 +1812,23 @@ Be it for nothing but to spite my wife--
 Upon mine hostess there: good sir, make haste.
 Since mine own doors refuse to entertain me,
 I'll knock elsewhere, to see if they'll disdain me.
-}
-BLURB={ANGELO - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I'll meet you at that place some hour hence.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Do so. This jest shall cost me some expense.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={28}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=28
+#BEGIN_ENTRY_TEXT
 And may it be that you have quite forgot
 A husband's office? shall, Antipholus.
 Even in the spring of love, thy love-springs rot?
@@ -1640,10 +1857,11 @@ Then, gentle brother, get you in again;
 Comfort my sister, cheer her, call her wife:
 'Tis holy sport to be a little vain,
 When the sweet breath of flattery conquers strife.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={24}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=24
+#BEGIN_ENTRY_TEXT
 Sweet mistress--what your name is else, I know not,
 Nor by what wonder you do hit of mine,--
 Less in your knowledge and your grace you show not
@@ -1668,273 +1886,320 @@ And as a bed I'll take them and there lie,
 And in that glorious supposition think
 He gains by death that hath such means to die:
 Let Love, being light, be drowned if she sink!
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What, are you mad, that you do reason so?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Not mad, but mated; how, I do not know.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 It is a fault that springeth from your eye.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 For gazing on your beams, fair sun, being by.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Gaze where you should, and that will clear your sight.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 As good to wink, sweet love, as look on night.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why call you me love? call my sister so.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thy sister's sister.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 That's my sister.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 No;
 It is thyself, mine own self's better part,
 Mine eye's clear eye, my dear heart's dearer heart,
 My food, my fortune and my sweet hope's aim,
 My sole earth's heaven and my heaven's claim.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 All this my sister is, or else should be.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Call thyself sister, sweet, for I am thee.
 Thee will I love and with thee lead my life:
 Thou hast no husband yet nor I no wife.
 Give me thy hand.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
                   O, soft, air! hold you still:
 I'll fetch my sister, to get her good will.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, how now, Dromio! where runn'st thou so fast?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Do you know me, sir? am I Dromio? am I your man?
 am I myself?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thou art Dromio, thou art my man, thou art thyself.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I am an ass, I am a woman's man and besides myself.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What woman's man? and how besides thyself? besides thyself?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Marry, sir, besides myself, I am due to a woman; one
 that claims me, one that haunts me, one that will have me.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What claim lays she to thee?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Marry sir, such claim as you would lay to your
 horse; and she would have me as a beast: not that, I
 being a beast, she would have me; but that she,
 being a very beastly creature, lays claim to me.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What is she?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 A very reverent body; ay, such a one as a man may
 not speak of without he say 'Sir-reverence.' I have
 but lean luck in the match, and yet is she a
 wondrous fat marriage.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How dost thou mean a fat marriage?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Marry, sir, she's the kitchen wench and all grease;
 and I know not what use to put her to but to make a
 lamp of her and run from her by her own light. I
 warrant, her rags and the tallow in them will burn a
 Poland winter: if she lives till doomsday,
 she'll burn a week longer than the whole world.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What complexion is she of?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Swart, like my shoe, but her face nothing half so
 clean kept: for why, she sweats; a man may go over
 shoes in the grime of it.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 That's a fault that water will mend.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, sir, 'tis in grain; Noah's flood could not do it.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What's her name?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Nell, sir; but her name and three quarters, that's
 an ell and three quarters, will not measure her from
 hip to hip.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Then she bears some breadth?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 No longer from head to foot than from hip to hip:
 she is spherical, like a globe; I could find out
 countries in her.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 In what part of her body stands Ireland?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Marry, in her buttocks: I found it out by the bogs.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where Scotland?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I found it by the barrenness; hard in the palm of the hand.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where France?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 In her forehead; armed and reverted, making war
 against her heir.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where England?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I looked for the chalky cliffs, but I could find no
 whiteness in them; but I guess it stood in her chin,
 by the salt rheum that ran between France and it.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where Spain?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Faith, I saw it not; but I felt it hot in her breath.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where America, the Indies?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Oh, sir, upon her nose all o'er embellished with
 rubies, carbuncles, sapphires, declining their rich
 aspect to the hot breath of Spain; who sent whole
 armadoes of caracks to be ballast at her nose.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where stood Belgia, the Netherlands?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Oh, sir, I did not look so low. To conclude, this
 drudge, or diviner, laid claim to me, call'd me
 Dromio; swore I was assured to her; told me what
@@ -1945,10 +2210,11 @@ And, I think, if my breast had not been made of
 faith and my heart of steel,
 She had transform'd me to a curtal dog and made
 me turn i' the wheel.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Go hie thee presently, post to the road:
 An if the wind blow any way from shore,
 I will not harbour in this town to-night:
@@ -1956,16 +2222,18 @@ If any bark put forth, come to the mart,
 Where I will walk till thou return to me.
 If every one knows us and we know none,
 'Tis time, I think, to trudge, pack and be gone.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 As from a bear a man would run for life,
 So fly I from her that would be my wife.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 There's none but witches do inhabit here;
 And therefore 'tis high time that I were hence.
 She that doth call me husband, even my soul
@@ -1975,61 +2243,71 @@ Of such enchanting presence and discourse,
 Hath almost made me traitor to myself:
 But, lest myself be guilty to self-wrong,
 I'll stop mine ears against the mermaid's song.
-}
-BLURB={ANGELO - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Master Antipholus,--
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ay, that's my name.
-}
-BLURB={ANGELO - The Comedy of Errors - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I know it well, sir, lo, here is the chain.
 I thought to have ta'en you at the Porpentine:
 The chain unfinish'd made me stay thus long.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What is your will that I shall do with this?
-}
-BLURB={ANGELO - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What please yourself, sir: I have made it for you.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Made it for me, sir! I bespoke it not.
-}
-BLURB={ANGELO - The Comedy of Errors - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Not once, nor twice, but twenty times you have.
 Go home with it and please your wife withal;
 And soon at supper-time I'll visit you
 And then receive my money for the chain.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I pray you, sir, receive the money now,
 For fear you ne'er see chain nor money more.
-}
-BLURB={ANGELO - The Comedy of Errors - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You are a merry man, sir: fare you well.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act III, Scene II
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 What I should think of this, I cannot tell:
 But this I think, there's no man is so vain
 That would refuse so fair an offer'd chain.
@@ -2037,20 +2315,22 @@ I see a man here needs not live by shifts,
 When in the streets he meets such golden gifts.
 I'll to the mart, and there for Dromio stay
 If any ship put out, then straight away.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act IV, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 You know since Pentecost the sum is due,
 And since I have not much importuned you;
 Nor now I had not, but that I am bound
 To Persia, and want guilders for my voyage:
 Therefore make present satisfaction,
 Or I'll attach you by this officer.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Even just the sum that I do owe to you
 Is growing to me by Antipholus,
 And in the instant that I met with you
@@ -2058,39 +2338,44 @@ He had of me a chain: at five o'clock
 I shall receive the money for the same.
 Pleaseth you walk with me down to his house,
 I will discharge my bond and thank you too.
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 That labour may you save: see where he comes.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 While I go to the goldsmith's house, go thou
 And buy a rope's end: that will I bestow
 Among my wife and her confederates,
 For locking me out of my doors by day.
 But, soft! I see the goldsmith. Get thee gone;
 Buy thou a rope and bring it home to me.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I buy a thousand pound a year: I buy a rope.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 A man is well holp up that trusts to you:
 I promised your presence and the chain;
 But neither chain nor goldsmith came to me.
 Belike you thought our love would last too long,
 If it were chain'd together, and therefore came not.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Saving your merry humour, here's the note
 How much your chain weighs to the utmost carat,
 The fineness of the gold and chargeful fashion.
@@ -2098,169 +2383,197 @@ Which doth amount to three odd ducats more
 Than I stand debted to this gentleman:
 I pray you, see him presently discharged,
 For he is bound to sea and stays but for it.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 I am not furnish'd with the present money;
 Besides, I have some business in the town.
 Good signior, take the stranger to my house
 And with you take the chain and bid my wife
 Disburse the sum on the receipt thereof:
 Perchance I will be there as soon as you.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Then you will bring the chain to her yourself?
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No; bear it with you, lest I come not time enough.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well, sir, I will. Have you the chain about you?
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 An if I have not, sir, I hope you have;
 Or else you may return without your money.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Nay, come, I pray you, sir, give me the chain:
 Both wind and tide stays for this gentleman,
 And I, to blame, have held him here too long.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Good Lord! you use this dalliance to excuse
 Your breach of promise to the Porpentine.
 I should have chid you for not bringing it,
 But, like a shrew, you first begin to brawl.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 The hour steals on; I pray you, sir, dispatch.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You hear how he importunes me;--the chain!
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, give it to my wife and fetch your money.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Come, come, you know I gave it you even now.
 Either send the chain or send me by some token.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Fie, now you run this humour out of breath,
 where's the chain? I pray you, let me see it.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 My business cannot brook this dalliance.
 Good sir, say whether you'll answer me or no:
 If not, I'll leave him to the officer.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I answer you! what should I answer you?
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 The money that you owe me for the chain.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I owe you none till I receive the chain.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You know I gave it you half an hour since.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You gave me none: you wrong me much to say so.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You wrong me more, sir, in denying it:
 Consider how it stands upon my credit.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well, officer, arrest him at my suit.
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I do; and charge you in the duke's name to obey me.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 This touches me in reputation.
 Either consent to pay this sum for me
 Or I attach you by this officer.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Consent to pay thee that I never had!
 Arrest me, foolish fellow, if thou darest.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Here is thy fee; arrest him, officer,
 I would not spare my brother in this case,
 If he should scorn me so apparently.
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I do arrest you, sir: you hear the suit.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I do obey thee till I give thee bail.
 But, sirrah, you shall buy this sport as dear
 As all the metal in your shop will answer.
-}
-BLURB={ANGELO - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Sir, sir, I will have law in Ephesus,
 To your notorious shame; I doubt it not.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 Master, there is a bark of Epidamnum
 That stays but till her owner comes aboard,
 And then, sir, she bears away. Our fraughtage, sir,
@@ -2269,33 +2582,38 @@ The oil, the balsamum and aqua-vitae.
 The ship is in her trim; the merry wind
 Blows fair from land: they stay for nought at all
 But for their owner, master, and yourself.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 How now! a madman! Why, thou peevish sheep,
 What ship of Epidamnum stays for me?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 A ship you sent me to, to hire waftage.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Thou drunken slave, I sent thee for a rope;
 And told thee to what purpose and what end.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You sent me for a rope's end as soon:
 You sent me to the bay, sir, for a bark.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 I will debate this matter at more leisure
 And teach your ears to list me with more heed.
 To Adriana, villain, hie thee straight:
@@ -2305,129 +2623,150 @@ There is a purse of ducats; let her send it:
 Tell her I am arrested in the street
 And that shall bail me; hie thee, slave, be gone!
 On, officer, to prison till it come.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 To Adriana! that is where we dined,
 Where Dowsabel did claim me for her husband:
 She is too big, I hope, for me to compass.
 Thither I must, although against my will,
 For servants must their masters' minds fulfil.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Ah, Luciana, did he tempt thee so?
 Mightst thou perceive austerely in his eye
 That he did plead in earnest? yea or no?
 Look'd he or red or pale, or sad or merrily?
 What observation madest thou in this case
 Of his heart's meteors tilting in his face?
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 First he denied you had in him no right.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 He meant he did me none; the more my spite.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Then swore he that he was a stranger here.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And true he swore, though yet forsworn he were.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Then pleaded I for you.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And what said he?
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 That love I begg'd for you he begg'd of me.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 With what persuasion did he tempt thy love?
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 With words that in an honest suit might move.
 First he did praise my beauty, then my speech.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Didst speak him fair?
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Have patience, I beseech.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 I cannot, nor I will not, hold me still;
 My tongue, though not my heart, shall have his will.
 He is deformed, crooked, old and sere,
 Ill-faced, worse bodied, shapeless everywhere;
 Vicious, ungentle, foolish, blunt, unkind;
 Stigmatical in making, worse in mind.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Who would be jealous then of such a one?
 No evil lost is wail'd when it is gone.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Ah, but I think him better than I say,
 And yet would herein others' eyes were worse.
 Far from her nest the lapwing cries away:
 My heart prays for him, though my tongue do curse.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Here! go; the desk, the purse! sweet, now, make haste.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How hast thou lost thy breath?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 By running fast.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where is thy master, Dromio? is he well?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 No, he's in Tartar limbo, worse than hell.
 A devil in an everlasting garment hath him;
 One whose hard heart is button'd up with steel;
@@ -2438,92 +2777,106 @@ countermands
 The passages of alleys, creeks and narrow lands;
 A hound that runs counter and yet draws dryfoot well;
 One that before the judgement carries poor souls to hell.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, man, what is the matter?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I do not know the matter: he is 'rested on the case.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What, is he arrested? Tell me at whose suit.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I know not at whose suit he is arrested well;
 But he's in a suit of buff which 'rested him, that can I tell.
 Will you send him, mistress, redemption, the money in his desk?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Go fetch it, sister.
 This I wonder at,
 That he, unknown to me, should be in debt.
 Tell me, was he arrested on a band?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Not on a band, but on a stronger thing;
 A chain, a chain! Do you not hear it ring?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What, the chain?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 No, no, the bell: 'tis time that I were gone:
 It was two ere I left him, and now the clock
 strikes one.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 The hours come back! that did I never hear.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 O, yes; if any hour meet a sergeant, a' turns back for
 very fear.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 As if Time were in debt! how fondly dost thou reason!
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Time is a very bankrupt, and owes more than he's
 worth, to season.
 Nay, he's a thief too: have you not heard men say
 That Time comes stealing on by night and day?
 If Time be in debt and theft, and a sergeant in the way,
 Hath he not reason to turn back an hour in a day?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Go, Dromio; there's the money, bear it straight;
 And bring thy master home immediately.
 Come, sister: I am press'd down with conceit--
 Conceit, my comfort and my injury.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 There's not a man I meet but doth salute me
 As if I were their well-acquainted friend;
 And every one doth call me by my name.
@@ -2535,35 +2888,40 @@ And show'd me silks that he had bought for me,
 And therewithal took measure of my body.
 Sure, these are but imaginary wiles
 And Lapland sorcerers inhabit here.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Master, here's the gold you sent me for. What, have
 you got the picture of old Adam new-apparelled?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What gold is this? what Adam dost thou mean?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Not that Adam that kept the Paradise but that Adam
 that keeps the prison: he that goes in the calf's
 skin that was killed for the Prodigal; he that came
 behind you, sir, like an evil angel, and bid you
 forsake your liberty.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I understand thee not.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 No? why, 'tis a plain case: he that went, like a
 bass-viol, in a case of leather; the man, sir,
 that, when gentlemen are tired, gives them a sob
@@ -2571,66 +2929,76 @@ and 'rests them; he, sir, that takes pity on decayed
 men and gives them suits of durance; he that sets up
 his rest to do more exploits with his mace than a
 morris-pike.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What, thou meanest an officer?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Ay, sir, the sergeant of the band, he that brings
 any man to answer it that breaks his band; one that
 thinks a man always going to bed, and says, 'God
 give you good rest!'
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well, sir, there rest in your foolery. Is there any
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Why, sir, I brought you word an hour since that the
 bark Expedition put forth to-night; and then were
 you hindered by the sergeant, to tarry for the hoy
 Delay. Here are the angels that you sent for to
 deliver you.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 The fellow is distract, and so am I;
 And here we wander in illusions:
 Some blessed power deliver us from hence!
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene III}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Well met, well met, Master Antipholus.
 I see, sir, you have found the goldsmith now:
 Is that the chain you promised me to-day?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Satan, avoid! I charge thee, tempt me not.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Master, is this Mistress Satan?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 It is the devil.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Nay, she is worse, she is the devil's dam; and here
 she comes in the habit of a light wench: and thereof
 comes that the wenches say 'God damn me;' that's as
@@ -2638,73 +3006,84 @@ much to say 'God make me a light wench.' It is
 written, they appear to men like angels of light:
 light is an effect of fire, and fire will burn;
 ergo, light wenches will burn. Come not near her.
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene III}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Your man and you are marvellous merry, sir.
 Will you go with me? We'll mend our dinner here?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Master, if you do, expect spoon-meat; or bespeak a
 long spoon.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, Dromio?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Marry, he must have a long spoon that must eat with
 the devil.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Avoid then, fiend! what tell'st thou me of supping?
 Thou art, as you are all, a sorceress:
 I conjure thee to leave me and be gone.
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene III}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Give me the ring of mine you had at dinner,
 Or, for my diamond, the chain you promised,
 And I'll be gone, sir, and not trouble you.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Some devils ask but the parings of one's nail,
 A rush, a hair, a drop of blood, a pin,
 A nut, a cherry-stone;
 But she, more covetous, would have a chain.
 Master, be wise: an if you give it her,
 The devil will shake her chain and fright us with it.
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene III}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I pray you, sir, my ring, or else the chain:
 I hope you do not mean to cheat me so.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Avaunt, thou witch! Come, Dromio, let us go.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 'Fly pride,' says the peacock: mistress, that you know.
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene III}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene III
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 Now, out of doubt Antipholus is mad,
 Else would he never so demean himself.
 A ring he hath of mine worth forty ducats,
@@ -2721,10 +3100,11 @@ And tell his wife that, being lunatic,
 He rush'd into my house and took perforce
 My ring away. This course I fittest choose;
 For forty ducats is too much to lose.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Fear me not, man; I will not break away:
 I'll give thee, ere I leave thee, so much money,
 To warrant thee, as I am 'rested for.
@@ -2734,87 +3114,103 @@ That I should be attach'd in Ephesus,
 I tell you, 'twill sound harshly in her ears.
 Here comes my man; I think he brings the money.
 How now, sir! have you that I sent you for?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Here's that, I warrant you, will pay them all.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 But where's the money?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, sir, I gave the money for the rope.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Five hundred ducats, villain, for a rope?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I'll serve you, sir, five hundred at the rate.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 To what end did I bid thee hie thee home?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 To a rope's-end, sir; and to that end am I returned.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And to that end, sir, I will welcome you.
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Good sir, be patient.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nay, 'tis for me to be patient; I am in adversity.
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Good, now, hold thy tongue.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nay, rather persuade him to hold his hands.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thou whoreson, senseless villain!
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I would I were senseless, sir, that I might not feel
 your blows.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Thou art sensible in nothing but blows, and so is an
 ass.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 I am an ass, indeed; you may prove it by my long
 ears. I have served him from the hour of my
 nativity to this instant, and have nothing at his
@@ -2826,437 +3222,512 @@ it when I go from home; welcomed home with it when
 I return; nay, I bear it on my shoulders, as a
 beggar wont her brat; and, I think when he hath
 lamed me, I shall beg with it from door to door.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Come, go along; my wife is coming yonder.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Mistress, 'respice finem,' respect your end; or
 rather, the prophecy like the parrot, 'beware the
 rope's-end.'
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Wilt thou still talk?
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How say you now? is not your husband mad?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 His incivility confirms no less.
 Good Doctor Pinch, you are a conjurer;
 Establish him in his true sense again,
 And I will please you what you will demand.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Alas, how fiery and how sharp he looks!
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Mark how he trembles in his ecstasy!
-}
-BLURB={PINCH - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PINCH - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Give me your hand and let me feel your pulse.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 There is my hand, and let it feel your ear.
-}
-BLURB={PINCH - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PINCH - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 I charge thee, Satan, housed within this man,
 To yield possession to my holy prayers
 And to thy state of darkness hie thee straight:
 I conjure thee by all the saints in heaven!
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Peace, doting wizard, peace! I am not mad.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O, that thou wert not, poor distressed soul!
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 You minion, you, are these your customers?
 Did this companion with the saffron face
 Revel and feast it at my house to-day,
 Whilst upon me the guilty doors were shut
 And I denied to enter in my house?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 O husband, God doth know you dined at home;
 Where would you had remain'd until this time,
 Free from these slanders and this open shame!
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Dined at home! Thou villain, what sayest thou?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Sir, sooth to say, you did not dine at home.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Were not my doors lock'd up and I shut out?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Perdie, your doors were lock'd and you shut out.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And did not she herself revile me there?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Sans fable, she herself reviled you there.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Did not her kitchen-maid rail, taunt, and scorn me?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Certes, she did; the kitchen-vestal scorn'd you.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And did not I in rage depart from thence?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 In verity you did; my bones bear witness,
 That since have felt the vigour of his rage.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Is't good to soothe him in these contraries?
-}
-BLURB={PINCH - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PINCH - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 It is no shame: the fellow finds his vein,
 And yielding to him humours well his frenzy.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thou hast suborn'd the goldsmith to arrest me.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Alas, I sent you money to redeem you,
 By Dromio here, who came in haste for it.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Money by me! heart and goodwill you might;
 But surely master, not a rag of money.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Went'st not thou to her for a purse of ducats?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 He came to me and I deliver'd it.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And I am witness with her that she did.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 God and the rope-maker bear me witness
 That I was sent for nothing but a rope!
-}
-BLURB={PINCH - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PINCH - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Mistress, both man and master is possess'd;
 I know it by their pale and deadly looks:
 They must be bound and laid in some dark room.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Say, wherefore didst thou lock me forth to-day?
 And why dost thou deny the bag of gold?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I did not, gentle husband, lock thee forth.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 And, gentle master, I received no gold;
 But I confess, sir, that we were lock'd out.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Dissembling villain, thou speak'st false in both.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Dissembling harlot, thou art false in all;
 And art confederate with a damned pack
 To make a loathsome abject scorn of me:
 But with these nails I'll pluck out these false eyes
 That would behold in me this shameful sport.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O, bind him, bind him! let him not come near me.
-}
-BLURB={PINCH - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PINCH - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 More company! The fiend is strong within him.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ay me, poor man, how pale and wan he looks!
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 What, will you murder me? Thou gaoler, thou,
 I am thy prisoner: wilt thou suffer them
 To make a rescue?
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
                   Masters, let him go
 He is my prisoner, and you shall not have him.
-}
-BLURB={PINCH - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PINCH - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Go bind this man, for he is frantic too.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 What wilt thou do, thou peevish officer?
 Hast thou delight to see a wretched man
 Do outrage and displeasure to himself?
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 He is my prisoner: if I let him go,
 The debt he owes will be required of me.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 I will discharge thee ere I go from thee:
 Bear me forthwith unto his creditor,
 And, knowing how the debt grows, I will pay it.
 Good master doctor, see him safe convey'd
 Home to my house. O most unhappy day!
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O most unhappy strumpet!
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Master, I am here entered in bond for you.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Out on thee, villain! wherefore dost thou mad me?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Will you be bound for nothing? be mad, good master:
 cry 'The devil!'
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 God help, poor souls, how idly do they talk!
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Go bear him hence. Sister, go you with me.
 Say now, whose suit is he arrested at?
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 One Angelo, a goldsmith: do you know him?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I know the man. What is the sum he owes?
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Two hundred ducats.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Say, how grows it due?
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Due for a chain your husband had of him.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 He did bespeak a chain for me, but had it not.
-}
-BLURB={Courtezan - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 When as your husband all in rage to-day
 Came to my house and took away my ring--
 The ring I saw upon his finger now--
 Straight after did I meet him with a chain.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 It may be so, but I did never see it.
 Come, gaoler, bring me where the goldsmith is:
 I long to know the truth hereof at large.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 God, for thy mercy! they are loose again.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 And come with naked swords.
 Let's call more help to have them bound again.
-}
-BLURB={Officer - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Away! they'll kill us.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I see these witches are afraid of swords.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 She that would be your wife now ran from you.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Come to the Centaur; fetch our stuff from thence:
 I long that we were safe and sound aboard.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Faith, stay here this night; they will surely do us
 no harm: you saw they speak us fair, give us gold:
 methinks they are such a gentle nation that, but for
 the mountain of mad flesh that claims marriage of
 me, I could find in my heart to stay here still and
 turn witch.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act IV, Scene IV
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I will not stay to-night for all the town;
 Therefore away, to get our stuff aboard.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I am sorry, sir, that I have hinder'd you;
 But, I protest, he had the chain of me,
 Though most dishonestly he doth deny it.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How is the man esteemed here in the city?
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Of very reverend reputation, sir,
 Of credit infinite, highly beloved,
 Second to none that lives here in the city:
 His word might bear my wealth at any time.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Speak softly; yonder, as I think, he walks.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={13}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=13
+#BEGIN_ENTRY_TEXT
 'Tis so; and that self chain about his neck
 Which he forswore most monstrously to have.
 Good sir, draw near to me, I'll speak to him.
@@ -3270,153 +3741,178 @@ You have done wrong to this my honest friend,
 Who, but for staying on our controversy,
 Had hoisted sail and put to sea to-day:
 This chain you had of me; can you deny it?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I think I had; I never did deny it.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Yes, that you did, sir, and forswore it too.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Who heard me to deny it or forswear it?
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 These ears of mine, thou know'st did hear thee.
 Fie on thee, wretch! 'tis pity that thou livest
 To walk where any honest man resort.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Thou art a villain to impeach me thus:
 I'll prove mine honour and mine honesty
 Against thee presently, if thou darest stand.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I dare, and do defy thee for a villain.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Hold, hurt him not, for God's sake! he is mad.
 Some get within him, take his sword away:
 Bind Dromio too, and bear them to my house.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Run, master, run; for God's sake, take a house!
 This is some priory. In, or we are spoil'd!
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Be quiet, people. Wherefore throng you hither?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 To fetch my poor distracted husband hence.
 Let us come in, that we may bind him fast
 And bear him home for his recovery.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I knew he was not in his perfect wits.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I am sorry now that I did draw on him.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How long hath this possession held the man?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 This week he hath been heavy, sour, sad,
 And much different from the man he was;
 But till this afternoon his passion
 Ne'er brake into extremity of rage.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Hath he not lost much wealth by wreck of sea?
 Buried some dear friend? Hath not else his eye
 Stray'd his affection in unlawful love?
 A sin prevailing much in youthful men,
 Who give their eyes the liberty of gazing.
 Which of these sorrows is he subject to?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 To none of these, except it be the last;
 Namely, some love that drew him oft from home.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You should for that have reprehended him.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, so I did.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
                   Ay, but not rough enough.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 As roughly as my modesty would let me.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Haply, in private.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And in assemblies too.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ay, but not enough.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 It was the copy of our conference:
 In bed he slept not for my urging it;
 At board he fed not for my urging it;
 Alone, it was the subject of my theme;
 In company I often glanced it;
 Still did I tell him it was vile and bad.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={19}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=19
+#BEGIN_ENTRY_TEXT
 And thereof came it that the man was mad.
 The venom clamours of a jealous woman
 Poisons more deadly than a mad dog's tooth.
@@ -3436,49 +3932,56 @@ In food, in sport and life-preserving rest
 To be disturb'd, would mad or man or beast:
 The consequence is then thy jealous fits
 Have scared thy husband from the use of wits.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 She never reprehended him but mildly,
 When he demean'd himself rough, rude and wildly.
 Why bear you these rebukes and answer not?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 She did betray me to my own reproof.
 Good people enter and lay hold on him.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, not a creature enters in my house.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Then let your servants bring my husband forth.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Neither: he took this place for sanctuary,
 And it shall privilege him from your hands
 Till I have brought him to his wits again,
 Or lose my labour in assaying it.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 I will attend my husband, be his nurse,
 Diet his sickness, for it is my office,
 And will have no attorney but myself;
 And therefore let me have him home with me.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Be patient; for I will not let him stir
 Till I have used the approved means I have,
 With wholesome syrups, drugs and holy prayers,
@@ -3486,85 +3989,98 @@ To make of him a formal man again:
 It is a branch and parcel of mine oath,
 A charitable duty of my order.
 Therefore depart and leave him here with me.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I will not hence and leave my husband here:
 And ill it doth beseem your holiness
 To separate the husband and the wife.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Be quiet and depart: thou shalt not have him.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Complain unto the duke of this indignity.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Come, go: I will fall prostrate at his feet
 And never rise until my tears and prayers
 Have won his grace to come in person hither
 And take perforce my husband from the abbess.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 By this, I think, the dial points at five:
 Anon, I'm sure, the duke himself in person
 Comes this way to the melancholy vale,
 The place of death and sorry execution,
 Behind the ditches of the abbey here.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Upon what cause?
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 To see a reverend Syracusian merchant,
 Who put unluckily into this bay
 Against the laws and statutes of this town,
 Beheaded publicly for his offence.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 See where they come: we will behold his death.
-}
-BLURB={LUCIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Kneel to the duke before he pass the abbey.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Yet once again proclaim it publicly,
 If any friend will pay the sum for him,
 He shall not die; so much we tender him.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Justice, most sacred duke, against the abbess!
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 She is a virtuous and a reverend lady:
 It cannot be that she hath done thee wrong.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={25}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=25
+#BEGIN_ENTRY_TEXT
 May it please your grace, Antipholus, my husband,
 Whom I made lord of me and all I had,
 At your important letters,--this ill day
@@ -3590,10 +4106,11 @@ And will not suffer us to fetch him out,
 Nor send him forth that we may bear him hence.
 Therefore, most gracious duke, with thy command
 Let him be brought forth and borne hence for help.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Long since thy husband served me in my wars,
 And I to thee engaged a prince's word,
 When thou didst make him master of thy bed,
@@ -3601,10 +4118,11 @@ To do him all the grace and good I could.
 Go, some of you, knock at the abbey-gate
 And bid the lady abbess come to me.
 I will determine this before I stir.
-}
-BLURB={Servant - The Comedy of Errors - Act V, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Servant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 O mistress, mistress, shift and save yourself!
 My master and his man are both broke loose,
 Beaten the maids a-row and bound the doctor
@@ -3615,98 +4133,112 @@ My master preaches patience to him and the while
 His man with scissors nicks him like a fool,
 And sure, unless you send some present help,
 Between them they will kill the conjurer.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Peace, fool! thy master and his man are here,
 And that is false thou dost report to us.
-}
-BLURB={Servant - The Comedy of Errors - Act V, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Servant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Mistress, upon my life, I tell you true;
 I have not breathed almost since I did see it.
 He cries for you, and vows, if he can take you,
 To scorch your face and to disfigure you.
 Hark, hark! I hear him, mistress. fly, be gone!
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Come, stand by me; fear nothing. Guard with halberds!
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Ay me, it is my husband! Witness you,
 That he is borne about invisible:
 Even now we housed him in the abbey here;
 And now he's there, past thought of human reason.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Justice, most gracious duke, O, grant me justice!
 Even for the service that long since I did thee,
 When I bestrid thee in the wars and took
 Deep scars to save thy life; even for the blood
 That then I lost for thee, now grant me justice.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Unless the fear of death doth make me dote,
 I see my son Antipholus and Dromio.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Justice, sweet prince, against that woman there!
 She whom thou gavest to me to be my wife,
 That hath abused and dishonour'd me
 Even in the strength and height of injury!
 Beyond imagination is the wrong
 That she this day hath shameless thrown on me.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Discover how, and thou shalt find me just.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 This day, great duke, she shut the doors upon me,
 While she with harlots feasted in my house.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 A grievous fault! Say, woman, didst thou so?
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 No, my good lord: myself, he and my sister
 To-day did dine together. So befall my soul
 As this is false he burdens me withal!
-}
-BLURB={LUCIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Ne'er may I look on day, nor sleep on night,
 But she tells to your highness simple truth!
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 O perjured woman! They are both forsworn:
 In this the madman justly chargeth them.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={41}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=41
+#BEGIN_ENTRY_TEXT
 My liege, I am advised what I say,
 Neither disturbed with the effect of wine,
 Nor heady-rash, provoked with raging ire,
@@ -3748,167 +4280,194 @@ I gain'd my freedom, and immediately
 Ran hither to your grace; whom I beseech
 To give me ample satisfaction
 For these deep shames and great indignities.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 My lord, in truth, thus far I witness with him,
 That he dined not at home, but was lock'd out.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 But had he such a chain of thee or no?
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 He had, my lord: and when he ran in here,
 These people saw the chain about his neck.
-}
-BLURB={Second Merchant - The Comedy of Errors - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Merchant - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Besides, I will be sworn these ears of mine
 Heard you confess you had the chain of him
 After you first forswore it on the mart:
 And thereupon I drew my sword on you;
 And then you fled into this abbey here,
 From whence, I think, you are come by miracle.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 I never came within these abbey-walls,
 Nor ever didst thou draw thy sword on me:
 I never saw the chain, so help me Heaven!
 And this is false you burden me withal.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Why, what an intricate impeach is this!
 I think you all have drunk of Circe's cup.
 If here you housed him, here he would have been;
 If he were mad, he would not plead so coldly:
 You say he dined at home; the goldsmith here
 Denies that saying. Sirrah, what say you?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Sir, he dined with her there, at the Porpentine.
-}
-BLURB={Courtezan - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 He did, and from my finger snatch'd that ring.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 'Tis true, my liege; this ring I had of her.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Saw'st thou him enter at the abbey here?
-}
-BLURB={Courtezan - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 As sure, my liege, as I do see your grace.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why, this is strange. Go call the abbess hither.
 I think you are all mated or stark mad.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Most mighty duke, vouchsafe me speak a word:
 Haply I see a friend will save my life
 And pay the sum that may deliver me.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Speak freely, Syracusian, what thou wilt.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Is not your name, sir, call'd Antipholus?
 And is not that your bondman, Dromio?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Within this hour I was his bondman sir,
 But he, I thank him, gnaw'd in two my cords:
 Now am I Dromio and his man unbound.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I am sure you both of you remember me.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Ourselves we do remember, sir, by you;
 For lately we were bound, as you are now
 You are not Pinch's patient, are you, sir?
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why look you strange on me? you know me well.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I never saw you in my life till now.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 O, grief hath changed me since you saw me last,
 And careful hours with time's deformed hand
 Have written strange defeatures in my face:
 But tell me yet, dost thou not know my voice?
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Neither.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Dromio, nor thou?
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
                   No, trust me, sir, nor I.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I am sure thou dost.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Ay, sir, but I am sure I do not; and whatsoever a
 man denies, you are now bound to believe him.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 Not know my voice! O time's extremity,
 Hast thou so crack'd and splitted my poor tongue
 In seven short years, that here my only son
@@ -3921,74 +4480,86 @@ My wasting lamps some fading glimmer left,
 My dull deaf ears a little use to hear:
 All these old witnesses--I cannot err--
 Tell me thou art my son Antipholus.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I never saw my father in my life.
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 But seven years since, in Syracusa, boy,
 Thou know'st we parted: but perhaps, my son,
 Thou shamest to acknowledge me in misery.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 The duke and all that know me in the city
 Can witness with me that it is not so
 I ne'er saw Syracusa in my life.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 I tell thee, Syracusian, twenty years
 Have I been patron to Antipholus,
 During which time he ne'er saw Syracusa:
 I see thy age and dangers make thee dote.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Most mighty duke, behold a man much wrong'd.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I see two husbands, or mine eyes deceive me.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 One of these men is Genius to the other;
 And so of these. Which is the natural man,
 And which the spirit? who deciphers them?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I, sir, am Dromio; command him away.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I, sir, am Dromio; pray, let me stay.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 AEgeon art thou not? or else his ghost?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O, my old master! who hath bound him here?
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Whoever bound him, I will loose his bonds
 And gain a husband by his liberty.
 Speak, old AEgeon, if thou be'st the man
@@ -3996,17 +4567,19 @@ That hadst a wife once call'd AEmilia
 That bore thee at a burden two fair sons:
 O, if thou be'st the same AEgeon, speak,
 And speak unto the same AEmilia!
-}
-BLURB={AEGEON - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 If I dream not, thou art AEmilia:
 If thou art she, tell me where is that son
 That floated with thee on the fatal raft?
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 By men of Epidamnum he and I
 And the twin Dromio all were taken up;
 But by and by rude fishermen of Corinth
@@ -4014,10 +4587,11 @@ By force took Dromio and my son from them
 And me they left with those of Epidamnum.
 What then became of them I cannot tell
 I to this fortune that you see me in.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Why, here begins his morning story right;
 These two Antipholuses, these two so like,
 And these two Dromios, one in semblance,--
@@ -4025,126 +4599,148 @@ Besides her urging of her wreck at sea,--
 These are the parents to these children,
 Which accidentally are met together.
 Antipholus, thou camest from Corinth first?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, sir, not I; I came from Syracuse.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Stay, stand apart; I know not which is which.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I came from Corinth, my most gracious lord,--
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And I with him.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Brought to this town by that most famous warrior,
 Duke Menaphon, your most renowned uncle.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Which of you two did dine with me to-day?
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I, gentle mistress.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And are not you my husband?
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No; I say nay to that.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 And so do I; yet did she call me so:
 And this fair gentlewoman, her sister here,
 Did call me brother.
 What I told you then,
 I hope I shall have leisure to make good;
 If this be not a dream I see and hear.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 That is the chain, sir, which you had of me.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I think it be, sir; I deny it not.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And you, sir, for this chain arrested me.
-}
-BLURB={ANGELO - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANGELO - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I think I did, sir; I deny it not.
-}
-BLURB={ADRIANA - The Comedy of Errors - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I sent you money, sir, to be your bail,
 By Dromio; but I think he brought it not.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, none by me.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 This purse of ducats I received from you,
 And Dromio, my man, did bring them me.
 I see we still did meet each other's man,
 And I was ta'en for him, and he for me,
 And thereupon these errors are arose.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 These ducats pawn I for my father here.
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 It shall not need; thy father hath his life.
-}
-BLURB={Courtezan - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Courtezan - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Sir, I must have that diamond from you.
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 There, take it; and much thanks for my good cheer.
-}
-BLURB={AEMELIA - The Comedy of Errors - Act V, Scene I}
-LENGTH={14}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=14
+#BEGIN_ENTRY_TEXT
 Renowned duke, vouchsafe to take the pains
 To go with us into the abbey here
 And hear at large discoursed all our fortunes:
@@ -4159,68 +4755,79 @@ The duke, my husband and my children both,
 And you the calendars of their nativity,
 Go to a gossips' feast and go with me;
 After so long grief, such festivity!
-}
-BLURB={DUKE SOLINUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DUKE SOLINUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 With all my heart, I'll gossip at this feast.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Master, shall I fetch your stuff from shipboard?
-}
-BLURB={ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Dromio, what stuff of mine hast thou embark'd?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Your goods that lay at host, sir, in the Centaur.
-}
-BLURB={ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ANTIPHOLUS OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 He speaks to me. I am your master, Dromio:
 Come, go with us; we'll look to that anon:
 Embrace thy brother there; rejoice with him.
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 There is a fat friend at your master's house,
 That kitchen'd me for you to-day at dinner:
 She now shall be my sister, not my wife.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Methinks you are my glass, and not my brother:
 I see by you I am a sweet-faced youth.
 Will you walk in to see their gossiping?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Not I, sir; you are my elder.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 That's a question: how shall we try it?
-}
-BLURB={DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 We'll draw cuts for the senior: till then lead thou first.
-}
-BLURB={DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Nay, then, thus:
 We came into the world like brother and brother;
 And now let's go hand in hand, not one before another.
-}
-}
+#END_ENTRY_TEXT
+#END_ENTRIES

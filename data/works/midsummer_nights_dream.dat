@@ -1,28 +1,30 @@
-TITLE={A Midsummer Night's Dream}
-COUNT={500}
-ENTRIES={
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={6}
-TEXT={
+#WORK_TITLE=A Midsummer Night's Dream
+#ENTRY_COUNT=500
+#BEGIN_ENTRIES
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Now, fair Hippolyta, our nuptial hour
 Draws on apace; four happy days bring in
 Another moon: but, O, methinks, how slow
 This old moon wanes! she lingers my desires,
 Like to a step-dame or a dowager
 Long withering out a young man revenue.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Four days will quickly steep themselves in night;
 Four nights will quickly dream away the time;
 And then the moon, like to a silver bow
 New-bent in heaven, shall behold the night
 Of our solemnities.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Go, Philostrate,
 Stir up the Athenian youth to merriments;
 Awake the pert and nimble spirit of mirth;
@@ -32,20 +34,23 @@ Hippolyta, I woo'd thee with my sword,
 And won thy love, doing thee injuries;
 But I will wed thee in another key,
 With pomp, with triumph and with revelling.
-}
-BLURB={EGEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=EGEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Happy be Theseus, our renowned duke!
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thanks, good Egeus: what's the news with thee?
-}
-BLURB={EGEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={24}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=EGEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=24
+#BEGIN_ENTRY_TEXT
 Full of vexation come I, with complaint
 Against my child, my daughter Hermia.
 Stand forth, Demetrius. My noble lord,
@@ -70,10 +75,11 @@ As she is mine, I may dispose of her:
 Which shall be either to this gentleman
 Or to her death, according to our law
 Immediately provided in that case.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 What say you, Hermia? be advised fair maid:
 To you your father should be as a god;
 One that composed your beauties, yea, and one
@@ -81,32 +87,37 @@ To whom you are but as a form in wax
 By him imprinted and within his power
 To leave the figure or disfigure it.
 Demetrius is a worthy gentleman.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 So is Lysander.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
                   In himself he is;
 But in this kind, wanting your father's voice,
 The other must be held the worthier.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I would my father look'd but with my eyes.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Rather your eyes must with his judgment look.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 I do entreat your grace to pardon me.
 I know not by what power I am made bold,
 Nor how it may concern my modesty,
@@ -114,10 +125,11 @@ In such a presence here to plead my thoughts;
 But I beseech your grace that I may know
 The worst that may befall me in this case,
 If I refuse to wed Demetrius.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={14}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=14
+#BEGIN_ENTRY_TEXT
 Either to die the death or to abjure
 For ever the society of men.
 Therefore, fair Hermia, question your desires;
@@ -132,18 +144,20 @@ To undergo such maiden pilgrimage;
 But earthlier happy is the rose distill'd,
 Than that which withering on the virgin thorn
 Grows, lives and dies in single blessedness.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 So will I grow, so live, so die, my lord,
 Ere I will my virgin patent up
 Unto his lordship, whose unwished yoke
 My soul consents not to give sovereignty.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 Take time to pause; and, by the next new moon--
 The sealing-day betwixt my love and me,
 For everlasting bond of fellowship--
@@ -152,30 +166,34 @@ For disobedience to your father's will,
 Or else to wed Demetrius, as he would;
 Or on Diana's altar to protest
 For aye austerity and single life.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Relent, sweet Hermia: and, Lysander, yield
 Thy crazed title to my certain right.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You have her father's love, Demetrius;
 Let me have Hermia's: do you marry him.
-}
-BLURB={EGEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=EGEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Scornful Lysander! true, he hath my love,
 And what is mine my love shall render him.
 And she is mine, and all my right of her
 I do estate unto Demetrius.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 I am, my lord, as well derived as he,
 As well possess'd; my love is more than his;
 My fortunes every way as fairly rank'd,
@@ -188,10 +206,11 @@ Made love to Nedar's daughter, Helena,
 And won her soul; and she, sweet lady, dotes,
 Devoutly dotes, dotes in idolatry,
 Upon this spotted and inconstant man.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 I must confess that I have heard so much,
 And with Demetrius thought to have spoke thereof;
 But, being over-full of self-affairs,
@@ -208,60 +227,70 @@ Demetrius and Egeus, go along:
 I must employ you in some business
 Against our nuptial and confer with you
 Of something nearly that concerns yourselves.
-}
-BLURB={EGEUS - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=EGEUS - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 With duty and desire we follow you.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 How now, my love! why is your cheek so pale?
 How chance the roses there do fade so fast?
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Belike for want of rain, which I could well
 Beteem them from the tempest of my eyes.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Ay me! for aught that I could ever read,
 Could ever hear by tale or history,
 The course of true love never did run smooth;
 But, either it was different in blood,--
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O cross! too high to be enthrall'd to low.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Or else misgraffed in respect of years,--
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O spite! too old to be engaged to young.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Or else it stood upon the choice of friends,--
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O hell! to choose love by another's eyes.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Or, if there were a sympathy in choice,
 War, death, or sickness did lay siege to it,
 Making it momentany as a sound,
@@ -271,20 +300,22 @@ That, in a spleen, unfolds both heaven and earth,
 And ere a man hath power to say 'Behold!'
 The jaws of darkness do devour it up:
 So quick bright things come to confusion.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 If then true lovers have been ever cross'd,
 It stands as an edict in destiny:
 Then let us teach our trial patience,
 Because it is a customary cross,
 As due to love as thoughts and dreams and sighs,
 Wishes and tears, poor fancy's followers.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={13}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=13
+#BEGIN_ENTRY_TEXT
 A good persuasion: therefore, hear me, Hermia.
 I have a widow aunt, a dowager
 Of great revenue, and she hath no child:
@@ -298,10 +329,11 @@ And in the wood, a league without the town,
 Where I did meet thee once with Helena,
 To do observance to a morn of May,
 There will I stay for thee.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 My good Lysander!
 I swear to thee, by Cupid's strongest bow,
 By his best arrow with the golden head,
@@ -313,20 +345,23 @@ By all the vows that ever men have broke,
 In number more than ever women spoke,
 In that same place thou hast appointed me,
 To-morrow truly will I meet with thee.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Keep promise, love. Look, here comes Helena.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 God speed fair Helena! whither away?
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={13}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=13
+#BEGIN_ENTRY_TEXT
 Call you me fair? that fair again unsay.
 Demetrius loves your fair: O happy fair!
 Your eyes are lode-stars; and your tongue's sweet air
@@ -340,70 +375,81 @@ Were the world mine, Demetrius being bated,
 The rest I'd give to be to you translated.
 O, teach me how you look, and with what art
 You sway the motion of Demetrius' heart.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I frown upon him, yet he loves me still.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O that your frowns would teach my smiles such skill!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I give him curses, yet he gives me love.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O that my prayers could such affection move!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 The more I hate, the more he follows me.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 The more I love, the more he hateth me.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 His folly, Helena, is no fault of mine.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 None, but your beauty: would that fault were mine!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Take comfort: he no more shall see my face;
 Lysander and myself will fly this place.
 Before the time I did Lysander see,
 Seem'd Athens as a paradise to me:
 O, then, what graces in my love do dwell,
 That he hath turn'd a heaven unto a hell!
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Helen, to you our minds we will unfold:
 To-morrow night, when Phoebe doth behold
 Her silver visage in the watery glass,
 Decking with liquid pearl the bladed grass,
 A time that lovers' flights doth still conceal,
 Through Athens' gates have we devised to steal.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 And in the wood, where often you and I
 Upon faint primrose-beds were wont to lie,
 Emptying our bosoms of their counsel sweet,
@@ -414,17 +460,19 @@ Farewell, sweet playfellow: pray thou for us;
 And good luck grant thee thy Demetrius!
 Keep word, Lysander: we must starve our sight
 From lovers' food till morrow deep midnight.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I will, my Hermia.
 Helena, adieu:
 As you on him, Demetrius dote on you!
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act I, Scene I}
-LENGTH={26}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act I, Scene I
+#ENTRY_LENGTH=26
+#BEGIN_ENTRY_TEXT
 How happy some o'er other some can be!
 Through Athens I am thought as fair as she.
 But what of that? Demetrius thinks not so;
@@ -451,74 +499,86 @@ Pursue her; and for this intelligence
 If I have thanks, it is a dear expense:
 But herein mean I to enrich my pain,
 To have his sight thither and back again.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Is all our company here?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You were best to call them generally, man by man,
 according to the scrip.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Here is the scroll of every man's name, which is
 thought fit, through all Athens, to play in our
 interlude before the duke and the duchess, on his
 wedding-day at night.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 First, good Peter Quince, say what the play treats
 on, then read the names of the actors, and so grow
 to a point.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Marry, our play is, The most lamentable comedy, and
 most cruel death of Pyramus and Thisby.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 A very good piece of work, I assure you, and a
 merry. Now, good Peter Quince, call forth your
 actors by the scroll. Masters, spread yourselves.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Answer as I call you. Nick Bottom, the weaver.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ready. Name what part I am for, and proceed.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You, Nick Bottom, are set down for Pyramus.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What is Pyramus? a lover, or a tyrant?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 A lover, that kills himself most gallant for love.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={17}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=17
+#BEGIN_ENTRY_TEXT
 That will ask some tears in the true performing of
 it: if I do it, let the audience look to their
 eyes; I will move storms, I will condole in some
@@ -536,160 +596,186 @@ The foolish Fates.
 This was lofty! Now name the rest of the players.
 This is Ercles' vein, a tyrant's vein; a lover is
 more condoling.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Francis Flute, the bellows-mender.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Here, Peter Quince.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Flute, you must take Thisby on you.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What is Thisby? a wandering knight?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 It is the lady that Pyramus must love.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nay, faith, let me not play a woman; I have a beard coming.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 That's all one: you shall play it in a mask, and
 you may speak as small as you will.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 An I may hide my face, let me play Thisby too, I'll
 speak in a monstrous little voice. 'Thisne,
 Thisne;' 'Ah, Pyramus, lover dear! thy Thisby dear,
 and lady dear!'
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, no; you must play Pyramus: and, Flute, you Thisby.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well, proceed.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Robin Starveling, the tailor.
-}
-BLURB={STARVELING - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=STARVELING - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Here, Peter Quince.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Robin Starveling, you must play Thisby's mother.
 Tom Snout, the tinker.
-}
-BLURB={SNOUT - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNOUT - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Here, Peter Quince.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 You, Pyramus' father: myself, Thisby's father:
 Snug, the joiner; you, the lion's part: and, I
 hope, here is a play fitted.
-}
-BLURB={SNUG - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNUG - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Have you the lion's part written? pray you, if it
 be, give it me, for I am slow of study.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You may do it extempore, for it is nothing but roaring.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Let me play the lion too: I will roar, that I will
 do any man's heart good to hear me; I will roar,
 that I will make the duke say 'Let him roar again,
 let him roar again.'
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 An you should do it too terribly, you would fright
 the duchess and the ladies, that they would shriek;
 and that were enough to hang us all.
-}
-BLURB={ALL - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ALL - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 That would hang us, every mother's son.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 I grant you, friends, if that you should fright the
 ladies out of their wits, they would have no more
 discretion but to hang us: but I will aggravate my
 voice so that I will roar you as gently as any
 sucking dove; I will roar you an 'twere any
 nightingale.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 You can play no part but Pyramus; for Pyramus is a
 sweet-faced man; a proper man, as one shall see in a
 summer's day; a most lovely gentleman-like man:
 therefore you must needs play Pyramus.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Well, I will undertake it. What beard were I best
 to play it in?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, what you will.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 I will discharge it in either your straw-colour
 beard, your orange-tawny beard, your purple-in-grain
 beard, or your French-crown-colour beard, your
 perfect yellow.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Some of your French crowns have no hair at all, and
 then you will play bare-faced. But, masters, here
 are your parts: and I am to entreat you, request
@@ -700,31 +786,36 @@ we meet in the city, we shall be dogged with
 company, and our devices known. In the meantime I
 will draw a bill of properties, such as our play
 wants. I pray you, fail me not.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 We will meet; and there we may rehearse most
 obscenely and courageously. Take pains; be perfect: adieu.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 At the duke's oak we meet.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act I, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act I, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Enough; hold or cut bow-strings.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How now, spirit! whither wander you?
-}
-BLURB={Fairy - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Fairy - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
      Over hill, over dale,
 Thorough bush, thorough brier,
 Over park, over pale,
@@ -741,10 +832,11 @@ I must go seek some dewdrops here
 And hang a pearl in every cowslip's ear.
 Farewell, thou lob of spirits; I'll be gone:
 Our queen and all our elves come here anon.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={14}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=14
+#BEGIN_ENTRY_TEXT
 The king doth keep his revels here to-night:
 Take heed the queen come not within his sight;
 For Oberon is passing fell and wrath,
@@ -759,10 +851,11 @@ And now they never meet in grove or green,
 By fountain clear, or spangled starlight sheen,
 But, they do square, that all their elves for fear
 Creep into acorn-cups and hide them there.
-}
-BLURB={Fairy - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Fairy - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 Either I mistake your shape and making quite,
 Or else you are that shrewd and knavish sprite
 Call'd Robin Goodfellow: are not you he
@@ -774,10 +867,11 @@ Mislead night-wanderers, laughing at their harm?
 Those that Hobgoblin call you and sweet Puck,
 You do their work, and they shall have good luck:
 Are not you he?
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={17}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=17
+#BEGIN_ENTRY_TEXT
                   Thou speak'st aright;
 I am that merry wanderer of the night.
 I jest to Oberon and make him smile
@@ -795,31 +889,36 @@ And then the whole quire hold their hips and laugh,
 And waxen in their mirth and neeze and swear
 A merrier hour was never wasted there.
 But, room, fairy! here comes Oberon.
-}
-BLURB={Fairy - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Fairy - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And here my mistress. Would that he were gone!
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ill met by moonlight, proud Titania.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What, jealous Oberon! Fairies, skip hence:
 I have forsworn his bed and company.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Tarry, rash wanton: am not I thy lord?
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Then I must be thy lady: but I know
 When thou hast stolen away from fairy land,
 And in the shape of Corin sat all day,
@@ -830,10 +929,11 @@ But that, forsooth, the bouncing Amazon,
 Your buskin'd mistress and your warrior love,
 To Theseus must be wedded, and you come
 To give their bed joy and prosperity.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 How canst thou thus for shame, Titania,
 Glance at my credit with Hippolyta,
 Knowing I know thy love to Theseus?
@@ -841,10 +941,11 @@ Didst thou not lead him through the glimmering night
 From Perigenia, whom he ravished?
 And make him with fair AEgle break his faith,
 With Ariadne and Antiopa?
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={37}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=37
+#BEGIN_ENTRY_TEXT
 These are the forgeries of jealousy:
 And never, since the middle summer's spring,
 Met we on hill, in dale, forest or mead,
@@ -882,18 +983,20 @@ By their increase, now knows not which is which:
 And this same progeny of evils comes
 From our debate, from our dissension;
 We are their parents and original.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Do you amend it then; it lies in you:
 Why should Titania cross her Oberon?
 I do but beg a little changeling boy,
 To be my henchman.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={17}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=17
+#BEGIN_ENTRY_TEXT
                   Set your heart at rest:
 The fairy land buys not the child of me.
 His mother was a votaress of my order:
@@ -911,34 +1014,39 @@ As from a voyage, rich with merchandise.
 But she, being mortal, of that boy did die;
 And for her sake do I rear up her boy,
 And for her sake I will not part with him.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 How long within this wood intend you stay?
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Perchance till after Theseus' wedding-day.
 If you will patiently dance in our round
 And see our moonlight revels, go with us;
 If not, shun me, and I will spare your haunts.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Give me that boy, and I will go with thee.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Not for thy fairy kingdom. Fairies, away!
 We shall chide downright, if I longer stay.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Well, go thy way: thou shalt not from this grove
 Till I torment thee for this injury.
 My gentle Puck, come hither. Thou rememberest
@@ -948,15 +1056,17 @@ Uttering such dulcet and harmonious breath
 That the rude sea grew civil at her song
 And certain stars shot madly from their spheres,
 To hear the sea-maid's music.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I remember.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={20}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=20
+#BEGIN_ENTRY_TEXT
 That very time I saw, but thou couldst not,
 Flying between the cold moon and the earth,
 Cupid all arm'd: a certain aim he took
@@ -977,16 +1087,18 @@ Will make or man or woman madly dote
 Upon the next live creature that it sees.
 Fetch me this herb; and be thou here again
 Ere the leviathan can swim a league.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I'll put a girdle round about the earth
 In forty minutes.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
                   Having once this juice,
 I'll watch Titania when she is asleep,
 And drop the liquor of it in her eyes.
@@ -999,10 +1111,11 @@ As I can take it with another herb,
 I'll make her render up her page to me.
 But who comes here? I am invisible;
 And I will overhear their conference.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 I love thee not, therefore pursue me not.
 Where is Lysander and fair Hermia?
 The one I'll slay, the other slayeth me.
@@ -1010,25 +1123,28 @@ Thou told'st me they were stolen unto this wood;
 And here am I, and wode within this wood,
 Because I cannot meet my Hermia.
 Hence, get thee gone, and follow me no more.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 You draw me, you hard-hearted adamant;
 But yet you draw not iron, for my heart
 Is true as steel: leave you your power to draw,
 And I shall have no power to follow you.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Do I entice you? do I speak you fair?
 Or, rather, do I not in plainest truth
 Tell you, I do not, nor I cannot love you?
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 And even for that do I love you the more.
 I am your spaniel; and, Demetrius,
 The more you beat me, I will fawn on you:
@@ -1038,31 +1154,35 @@ Unworthy as I am, to follow you.
 What worser place can I beg in your love,--
 And yet a place of high respect with me,--
 Than to be used as you use your dog?
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Tempt not too much the hatred of my spirit;
 For I am sick when I do look on thee.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And I am sick when I look not on you.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 You do impeach your modesty too much,
 To leave the city and commit yourself
 Into the hands of one that loves you not;
 To trust the opportunity of night
 And the ill counsel of a desert place
 With the rich worth of your virginity.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Your virtue is my privilege: for that
 It is not night when I do see your face,
 Therefore I think I am not in the night;
@@ -1070,33 +1190,37 @@ Nor doth this wood lack worlds of company,
 For you in my respect are all the world:
 Then how can it be said I am alone,
 When all the world is here to look on me?
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I'll run from thee and hide me in the brakes,
 And leave thee to the mercy of wild beasts.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 The wildest hath not such a heart as you.
 Run when you will, the story shall be changed:
 Apollo flies, and Daphne holds the chase;
 The dove pursues the griffin; the mild hind
 Makes speed to catch the tiger; bootless speed,
 When cowardice pursues and valour flies.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I will not stay thy questions; let me go:
 Or, if thou follow me, do not believe
 But I shall do thee mischief in the wood.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Ay, in the temple, in the town, the field,
 You do me mischief. Fie, Demetrius!
 Your wrongs do set a scandal on my sex:
@@ -1104,22 +1228,25 @@ We cannot fight for love, as men may do;
 We should be wood and were not made to woo.
 I'll follow thee and make a heaven of hell,
 To die upon the hand I love so well.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Fare thee well, nymph: ere he do leave this grove,
 Thou shalt fly him and he shall seek thy love.
 Hast thou the flower there? Welcome, wanderer.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ay, there it is.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={20}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=20
+#BEGIN_ENTRY_TEXT
 I pray thee, give it me.
 I know a bank where the wild thyme blows,
 Where oxlips and the nodding violet grows,
@@ -1140,15 +1267,17 @@ By the Athenian garments he hath on.
 Effect it with some care, that he may prove
 More fond on her than she upon her love:
 And look thou meet me ere the first cock crow.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Fear not, my lord, your servant shall do so.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={24}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=24
+#BEGIN_ENTRY_TEXT
 Come, now a roundel and a fairy song;
 Then, for the third part of a minute, hence;
 Some to kill cankers in the musk-rose buds,
@@ -1173,16 +1302,18 @@ Hence, you long-legg'd spinners, hence!
 Beetles black, approach not near;
 Worm nor snail, do no offence.
 Philomel, with melody,  & c.
-}
-BLURB={Fairy - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Fairy - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Hence, away! now all is well:
 One aloof stand sentinel.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 What thou seest when thou dost wake,
 Do it for thy true-love take,
 Love and languish for his sake:
@@ -1191,36 +1322,41 @@ Pard, or boar with bristled hair,
 In thy eye that shall appear
 When thou wakest, it is thy dear:
 Wake when some vile thing is near.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Fair love, you faint with wandering in the wood;
 And to speak troth, I have forgot our way:
 We'll rest us, Hermia, if you think it good,
 And tarry for the comfort of the day.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Be it so, Lysander: find you out a bed;
 For I upon this bank will rest my head.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 One turf shall serve as pillow for us both;
 One heart, one bed, two bosoms and one troth.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Nay, good Lysander; for my sake, my dear,
 Lie further off yet, do not lie so near.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 O, take the sense, sweet, of my innocence!
 Love takes the meaning in love's conference.
 I mean, that my heart unto yours is knit
@@ -1229,10 +1365,11 @@ Two bosoms interchained with an oath;
 So then two bosoms and a single troth.
 Then by your side no bed-room me deny;
 For lying so, Hermia, I do not lie.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Lysander riddles very prettily:
 Now much beshrew my manners and my pride,
 If Hermia meant to say Lysander lied.
@@ -1242,22 +1379,25 @@ Such separation as may well be said
 Becomes a virtuous bachelor and a maid,
 So far be distant; and, good night, sweet friend:
 Thy love ne'er alter till thy sweet life end!
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Amen, amen, to that fair prayer, say I;
 And then end life when I end loyalty!
 Here is my bed: sleep give thee all his rest!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 With half that wish the wisher's eyes be press'd!
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={18}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=18
+#BEGIN_ENTRY_TEXT
 Through the forest have I gone.
 But Athenian found I none,
 On whose eyes I might approve
@@ -1276,30 +1416,35 @@ When thou wakest, let love forbid
 Sleep his seat on thy eyelid:
 So awake when I am gone;
 For I must now to Oberon.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Stay, though thou kill me, sweet Demetrius.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I charge thee, hence, and do not haunt me thus.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O, wilt thou darkling leave me? do not so.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Stay, on thy peril: I alone will go.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={15}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=15
+#BEGIN_ENTRY_TEXT
 O, I am out of breath in this fond chase!
 The more my prayer, the lesser is my grace.
 Happy is Hermia, wheresoe'er she lies;
@@ -1315,26 +1460,29 @@ Made me compare with Hermia's sphery eyne?
 But who is here? Lysander! on the ground!
 Dead? or asleep? I see no blood, no wound.
 Lysander if you live, good sir, awake.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 [Awaking]  And run through fire I will for thy sweet sake.
 Transparent Helena! Nature shows art,
 That through thy bosom makes me see thy heart.
 Where is Demetrius? O, how fit a word
 Is that vile name to perish on my sword!
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Do not say so, Lysander; say not so
 What though he love your Hermia? Lord, what though?
 Yet Hermia still loves you: then be content.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 Content with Hermia! No; I do repent
 The tedious minutes I with her have spent.
 Not Hermia but Helena I love:
@@ -1347,10 +1495,11 @@ And touching now the point of human skill,
 Reason becomes the marshal to my will
 And leads me to your eyes, where I o'erlook
 Love's stories written in love's richest book.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 Wherefore was I to this keen mockery born?
 When at your hands did I deserve this scorn?
 Is't not enough, is't not enough, young man,
@@ -1363,10 +1512,11 @@ But fare you well: perforce I must confess
 I thought you lord of more true gentleness.
 O, that a lady, of one man refused.
 Should of another therefore be abused!
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 She sees not Hermia. Hermia, sleep thou there:
 And never mayst thou come Lysander near!
 For as a surfeit of the sweetest things
@@ -1377,10 +1527,11 @@ So thou, my surfeit and my heresy,
 Of all be hated, but the most of me!
 And, all my powers, address your love and might
 To honour Helen and to be her knight!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act II, Scene II}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act II, Scene II
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 [Awaking]  Help me, Lysander, help me! do thy best
 To pluck this crawling serpent from my breast!
 Ay me, for pity! what a dream was here!
@@ -1393,51 +1544,59 @@ Alack, where are you speak, an if you hear;
 Speak, of all loves! I swoon almost with fear.
 No? then I well perceive you all not nigh
 Either death or you I'll find immediately.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Are we all met?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Pat, pat; and here's a marvellous convenient place
 for our rehearsal. This green plot shall be our
 stage, this hawthorn-brake our tiring-house; and we
 will do it in action as we will do it before the duke.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Peter Quince,--
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What sayest thou, bully Bottom?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 There are things in this comedy of Pyramus and
 Thisby that will never please. First, Pyramus must
 draw a sword to kill himself; which the ladies
 cannot abide. How answer you that?
-}
-BLURB={SNOUT - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNOUT - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 By'r lakin, a parlous fear.
-}
-BLURB={STARVELING - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=STARVELING - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I believe we must leave the killing out, when all is done.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Not a whit: I have a device to make all well.
 Write me a prologue; and let the prologue seem to
 say, we will do no harm with our swords, and that
@@ -1445,45 +1604,52 @@ Pyramus is not killed indeed; and, for the more
 better assurance, tell them that I, Pyramus, am not
 Pyramus, but Bottom the weaver: this will put them
 out of fear.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Well, we will have such a prologue; and it shall be
 written in eight and six.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, make it two more; let it be written in eight and eight.
-}
-BLURB={SNOUT - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNOUT - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Will not the ladies be afeard of the lion?
-}
-BLURB={STARVELING - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=STARVELING - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I fear it, I promise you.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Masters, you ought to consider with yourselves: to
 bring in--God shield us!--a lion among ladies, is a
 most dreadful thing; for there is not a more fearful
 wild-fowl than your lion living; and we ought to
 look to 't.
-}
-BLURB={SNOUT - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNOUT - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Therefore another prologue must tell he is not a lion.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Nay, you must name his name, and half his face must
 be seen through the lion's neck: and he himself
 must speak through, saying thus, or to the same
@@ -1494,187 +1660,215 @@ for yours. If you think I come hither as a lion, it
 were pity of my life: no I am no such thing; I am a
 man as other men are;' and there indeed let him name
 his name, and tell them plainly he is Snug the joiner.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Well it shall be so. But there is two hard things;
 that is, to bring the moonlight into a chamber; for,
 you know, Pyramus and Thisby meet by moonlight.
-}
-BLURB={SNOUT - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNOUT - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Doth the moon shine that night we play our play?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 A calendar, a calendar! look in the almanac; find
 out moonshine, find out moonshine.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Yes, it doth shine that night.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Why, then may you leave a casement of the great
 chamber window, where we play, open, and the moon
 may shine in at the casement.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Ay; or else one must come in with a bush of thorns
 and a lanthorn, and say he comes to disfigure, or to
 present, the person of Moonshine. Then, there is
 another thing: we must have a wall in the great
 chamber; for Pyramus and Thisby says the story, did
 talk through the chink of a wall.
-}
-BLURB={SNOUT - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNOUT - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You can never bring in a wall. What say you, Bottom?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Some man or other must present Wall: and let him
 have some plaster, or some loam, or some rough-cast
 about him, to signify wall; and let him hold his
 fingers thus, and through that cranny shall Pyramus
 and Thisby whisper.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 If that may be, then all is well. Come, sit  down,
 every mother's son, and rehearse your parts.
 Pyramus, you begin: when you have spoken your
 speech, enter into that brake: and so every one
 according to his cue.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 What hempen home-spuns have we swaggering here,
 So near the cradle of the fairy queen?
 What, a play toward! I'll be an auditor;
 An actor too, perhaps, if I see cause.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Speak, Pyramus. Thisby, stand forth.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thisby, the flowers of odious savours sweet,--
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Odours, odours.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 --odours savours sweet:
 So hath thy breath, my dearest Thisby dear.
 But hark, a voice! stay thou but here awhile,
 And by and by I will to thee appear.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 A stranger Pyramus than e'er played here.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Must I speak now?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Ay, marry, must you; for you must understand he goes
 but to see a noise that he heard, and is to come again.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Most radiant Pyramus, most lily-white of hue,
 Of colour like the red rose on triumphant brier,
 Most brisky juvenal and eke most lovely Jew,
 As true as truest horse that yet would never tire,
 I'll meet thee, Pyramus, at Ninny's tomb.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 'Ninus' tomb,' man: why, you must not speak that
 yet; that you answer to Pyramus: you speak all your
 part at once, cues and all Pyramus enter: your cue
 is past; it is, 'never tire.'
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 O,--As true as truest horse, that yet would
 never tire.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 If I were fair, Thisby, I were only thine.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 O monstrous! O strange! we are haunted. Pray,
 masters! fly, masters! Help!
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 I'll follow you, I'll lead you about a round,
 Through bog, through bush, through brake, through brier:
 Sometime a horse I'll be, sometime a hound,
 A hog, a headless bear, sometime a fire;
 And neigh, and bark, and grunt, and roar, and burn,
 Like horse, hound, hog, bear, fire, at every turn.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why do they run away? this is a knavery of them to
 make me afeard.
-}
-BLURB={SNOUT - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNOUT - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O Bottom, thou art changed! what do I see on thee?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What do you see? you see an asshead of your own, do
 you?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Bless thee, Bottom! bless thee! thou art
 translated.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 I see their knavery: this is to make an ass of me;
 to fright me, if they could. But I will not stir
 from this place, do what they can: I will walk up
@@ -1685,15 +1879,17 @@ The ousel cock so black of hue,
 With orange-tawny bill,
 The throstle with his note so true,
 The wren with little quill,--
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Awaking]  What angel wakes me from my flowery bed?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 [Sings]
 The finch, the sparrow and the lark,
 The plain-song cuckoo gray,
@@ -1702,39 +1898,44 @@ And dares not answer nay;--
 for, indeed, who would set his wit to so foolish
 a bird? who would give a bird the lie, though he cry
 'cuckoo' never so?
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 I pray thee, gentle mortal, sing again:
 Mine ear is much enamour'd of thy note;
 So is mine eye enthralled to thy shape;
 And thy fair virtue's force perforce doth move me
 On the first view to say, to swear, I love thee.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Methinks, mistress, you should have little reason
 for that: and yet, to say the truth, reason and
 love keep little company together now-a-days; the
 more the pity that some honest neighbours will not
 make them friends. Nay, I can gleek upon occasion.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Thou art as wise as thou art beautiful.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Not so, neither: but if I had wit enough to get out
 of this wood, I have enough to serve mine own turn.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 Out of this wood do not desire to go:
 Thou shalt remain here, whether thou wilt or no.
 I am a spirit of no common rate;
@@ -1746,35 +1947,41 @@ And sing while thou on pressed flowers dost sleep;
 And I will purge thy mortal grossness so
 That thou shalt like an airy spirit go.
 Peaseblossom! Cobweb! Moth! and Mustardseed!
-}
-BLURB={PEASEBLOSSOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PEASEBLOSSOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ready.
-}
-BLURB={COBWEB - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=COBWEB - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
      And I.
-}
-BLURB={MOTH - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=MOTH - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
           And I.
-}
-BLURB={MUSTARDSEED - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=MUSTARDSEED - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
                   And I.
-}
-BLURB={ALL - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=ALL - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where shall we go?
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={11}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=11
+#BEGIN_ENTRY_TEXT
 Be kind and courteous to this gentleman;
 Hop in his walks and gambol in his eyes;
 Feed him with apricocks and dewberries,
@@ -1786,95 +1993,109 @@ To have my love to bed and to arise;
 And pluck the wings from Painted butterflies
 To fan the moonbeams from his sleeping eyes:
 Nod to him, elves, and do him courtesies.
-}
-BLURB={PEASEBLOSSOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PEASEBLOSSOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Hail, mortal!
-}
-BLURB={COBWEB - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=COBWEB - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Hail!
-}
-BLURB={MOTH - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=MOTH - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Hail!
-}
-BLURB={MUSTARDSEED - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=MUSTARDSEED - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Hail!
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I cry your worship's mercy, heartily: I beseech your
 worship's name.
-}
-BLURB={COBWEB - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=COBWEB - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Cobweb.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I shall desire you of more acquaintance, good Master
 Cobweb: if I cut my finger, I shall make bold with
 you. Your name, honest gentleman?
-}
-BLURB={PEASEBLOSSOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PEASEBLOSSOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Peaseblossom.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 I pray you, commend me to Mistress Squash, your
 mother, and to Master Peascod, your father. Good
 Master Peaseblossom, I shall desire you of more
 acquaintance too. Your name, I beseech you, sir?
-}
-BLURB={MUSTARDSEED - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=MUSTARDSEED - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Mustardseed.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Good Master Mustardseed, I know your patience well:
 that same cowardly, giant-like ox-beef hath
 devoured many a gentleman of your house: I promise
 you your kindred had made my eyes water ere now. I
 desire your more acquaintance, good Master
 Mustardseed.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act III, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act III, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Come, wait upon him; lead him to my bower.
 The moon methinks looks with a watery eye;
 And when she weeps, weeps every little flower,
 Lamenting some enforced chastity.
 Tie up my love's tongue bring him silently.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 I wonder if Titania be awaked;
 Then, what it was that next came in her eye,
 Which she must dote on in extremity.
 Here comes my messenger.
 How now, mad spirit!
 What night-rule now about this haunted grove?
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={31}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=31
+#BEGIN_ENTRY_TEXT
 My mistress with a monster is in love.
 Near to her close and consecrated bower,
 While she was in her dull and sleeping hour,
@@ -1906,40 +2127,46 @@ I led them on in this distracted fear,
 And left sweet Pyramus translated there:
 When in that moment, so it came to pass,
 Titania waked and straightway loved an ass.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 This falls out better than I could devise.
 But hast thou yet latch'd the Athenian's eyes
 With the love-juice, as I did bid thee do?
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I took him sleeping,--that is finish'd too,--
 And the Athenian woman by his side:
 That, when he waked, of force she must be eyed.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Stand close: this is the same Athenian.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 This is the woman, but not this the man.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 O, why rebuke you him that loves you so?
 Lay breath so bitter on your bitter foe.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={13}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=13
+#BEGIN_ENTRY_TEXT
 Now I but chide; but I should use thee worse,
 For thou, I fear, hast given me cause to curse,
 If thou hast slain Lysander in his sleep,
@@ -1953,29 +2180,33 @@ May through the centre creep and so displease
 Her brother's noontide with Antipodes.
 It cannot be but thou hast murder'd him;
 So should a murderer look, so dead, so grim.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 So should the murder'd look, and so should I,
 Pierced through the heart with your stern cruelty:
 Yet you, the murderer, look as bright, as clear,
 As yonder Venus in her glimmering sphere.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What's this to my Lysander? where is he?
 Ah, good Demetrius, wilt thou give him me?
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I had rather give his carcass to my hounds.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Out, dog! out, cur! thou drivest me past the bounds
 Of maiden's patience. Hast thou slain him, then?
 Henceforth be never number'd among men!
@@ -1985,74 +2216,84 @@ And hast thou kill'd him sleeping? O brave touch!
 Could not a worm, an adder, do so much?
 An adder did it; for with doubler tongue
 Than thine, thou serpent, never adder stung.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 You spend your passion on a misprised mood:
 I am not guilty of Lysander's blood;
 Nor is he dead, for aught that I can tell.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I pray thee, tell me then that he is well.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 An if I could, what should I get therefore?
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 A privilege never to see me more.
 And from thy hated presence part I so:
 See me no more, whether he be dead or no.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 There is no following her in this fierce vein:
 Here therefore for a while I will remain.
 So sorrow's heaviness doth heavier grow
 For debt that bankrupt sleep doth sorrow owe:
 Which now in some slight measure it will pay,
 If for his tender here I make some stay.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 What hast thou done? thou hast mistaken quite
 And laid the love-juice on some true-love's sight:
 Of thy misprision must perforce ensue
 Some true love turn'd and not a false turn'd true.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Then fate o'er-rules, that, one man holding troth,
 A million fail, confounding oath on oath.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 About the wood go swifter than the wind,
 And Helena of Athens look thou find:
 All fancy-sick she is and pale of cheer,
 With sighs of love, that costs the fresh blood dear:
 By some illusion see thou bring her here:
 I'll charm his eyes against she do appear.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I go, I go; look how I go,
 Swifter than arrow from the Tartar's bow.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
    Flower of this purple dye,
 Hit with Cupid's archery,
 Sink in apple of his eye.
@@ -2061,69 +2302,78 @@ Let her shine as gloriously
 As the Venus of the sky.
 When thou wakest, if she be by,
 Beg of her for remedy.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
    Captain of our fairy band,
 Helena is here at hand;
 And the youth, mistook by me,
 Pleading for a lover's fee.
 Shall we their fond pageant see?
 Lord, what fools these mortals be!
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Stand aside: the noise they make
 Will cause Demetrius to awake.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Then will two at once woo one;
 That must needs be sport alone;
 And those things do best please me
 That befal preposterously.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Why should you think that I should woo in scorn?
 Scorn and derision never come in tears:
 Look, when I vow, I weep; and vows so born,
 In their nativity all truth appears.
 How can these things in me seem scorn to you,
 Bearing the badge of faith, to prove them true?
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 You do advance your cunning more and more.
 When truth kills truth, O devilish-holy fray!
 These vows are Hermia's: will you give her o'er?
 Weigh oath with oath, and you will nothing weigh:
 Your vows to her and me, put in two scales,
 Will even weigh, and both as light as tales.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I had no judgment when to her I swore.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Nor none, in my mind, now you give her o'er.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Demetrius loves her, and he loves not you.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 [Awaking]  O Helena, goddess, nymph, perfect, divine!
 To what, my love, shall I compare thine eyne?
 Crystal is muddy. O, how ripe in show
@@ -2132,10 +2382,11 @@ That pure congealed white, high Taurus snow,
 Fann'd with the eastern wind, turns to a crow
 When thou hold'st up thy hand: O, let me kiss
 This princess of pure white, this seal of bliss!
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={17}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=17
+#BEGIN_ENTRY_TEXT
 O spite! O hell! I see you all are bent
 To set against me for your merriment:
 If you we re civil and knew courtesy,
@@ -2153,46 +2404,52 @@ To conjure tears up in a poor maid's eyes
 With your derision! none of noble sort
 Would so offend a virgin, and extort
 A poor soul's patience, all to make you sport.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 You are unkind, Demetrius; be not so;
 For you love Hermia; this you know I know:
 And here, with all good will, with all my heart,
 In Hermia's love I yield you up my part;
 And yours of Helena to me bequeath,
 Whom I do love and will do till my death.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Never did mockers waste more idle breath.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Lysander, keep thy Hermia; I will none:
 If e'er I loved her, all that love is gone.
 My heart to her but as guest-wise sojourn'd,
 And now to Helen is it home return'd,
 There to remain.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
                   Helen, it is not so.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Disparage not the faith thou dost not know,
 Lest, to thy peril, thou aby it dear.
 Look, where thy love comes; yonder is thy dear.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Dark night, that from the eye his function takes,
 The ear more quick of apprehension makes;
 Wherein it doth impair the seeing sense,
@@ -2200,34 +2457,39 @@ It pays the hearing double recompense.
 Thou art not by mine eye, Lysander, found;
 Mine ear, I thank it, brought me to thy sound
 But why unkindly didst thou leave me so?
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why should he stay, whom love doth press to go?
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What love could press Lysander from my side?
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Lysander's love, that would not let him bide,
 Fair Helena, who more engilds the night
 Than all you fiery oes and eyes of light.
 Why seek'st thou me? could not this make thee know,
 The hate I bear thee made me leave thee so?
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 You speak not as you think: it cannot be.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={28}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=28
+#BEGIN_ENTRY_TEXT
 Lo, she is one of this confederacy!
 Now I perceive they have conjoin'd all three
 To fashion this false sport, in spite of me.
@@ -2256,16 +2518,18 @@ To join with men in scorning your poor friend?
 It is not friendly, 'tis not maidenly:
 Our sex, as well as I, may chide you for it,
 Though I alone do feel the injury.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I am amazed at your passionate words.
 I scorn you not: it seems that you scorn me.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={14}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=14
+#BEGIN_ENTRY_TEXT
 Have you not set Lysander, as in scorn,
 To follow me and praise my eyes and face?
 And made your other love, Demetrius,
@@ -2280,15 +2544,17 @@ What thought I be not so in grace as you,
 So hung upon with love, so fortunate,
 But miserable most, to love unloved?
 This you should pity rather than despise.
-}
-BLURB={HERNIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERNIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I understand not what you mean by this.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 Ay, do, persever, counterfeit sad looks,
 Make mouths upon me when I turn my back;
 Wink each at other; hold the sweet jest up:
@@ -2297,117 +2563,137 @@ If you have any pity, grace, or manners,
 You would not make me such an argument.
 But fare ye well: 'tis partly my own fault;
 Which death or absence soon shall remedy.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Stay, gentle Helena; hear my excuse:
 My love, my life my soul, fair Helena!
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O excellent!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
                   Sweet, do not scorn her so.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 If she cannot entreat, I can compel.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Thou canst compel no more than she entreat:
 Thy threats have no more strength than her weak prayers.
 Helen, I love thee; by my life, I do:
 I swear by that which I will lose for thee,
 To prove him false that says I love thee not.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I say I love thee more than he can do.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 If thou say so, withdraw, and prove it too.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Quick, come!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Lysander, whereto tends all this?
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Away, you Ethiope!
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
                   No, no; he'll [        ]
 Seem to break loose; take on as you would follow,
 But yet come not: you are a tame man, go!
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Hang off, thou cat, thou burr! vile thing, let loose,
 Or I will shake thee from me like a serpent!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why are you grown so rude? what change is this?
 Sweet love,--
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Thy love! out, tawny Tartar, out!
 Out, loathed medicine! hated potion, hence!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Do you not jest?
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Yes, sooth; and so do you.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Demetrius, I will keep my word with thee.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I would I had your bond, for I perceive
 A weak bond holds you: I'll not trust your word.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What, should I hurt her, strike her, kill her dead?
 Although I hate her, I'll not harm her so.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 What, can you do me greater harm than hate?
 Hate me! wherefore? O me! what news, my love!
 Am not I Hermia? are not you Lysander?
@@ -2416,35 +2702,39 @@ Since night you loved me; yet since night you left
 me:
 Why, then you left me--O, the gods forbid!--
 In earnest, shall I say?
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Ay, by my life;
 And never did desire to see thee more.
 Therefore be out of hope, of question, of doubt;
 Be certain, nothing truer; 'tis no jest
 That I do hate thee and love Helena.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 O me! you juggler! you canker-blossom!
 You thief of love! what, have you come by night
 And stolen my love's heart from him?
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Fine, i'faith!
 Have you no modesty, no maiden shame,
 No touch of bashfulness? What, will you tear
 Impatient answers from my gentle tongue?
 Fie, fie! you counterfeit, you puppet, you!
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Puppet? why so? ay, that way goes the game.
 Now I perceive that she hath made compare
 Between our statures; she hath urged her height;
@@ -2455,10 +2745,11 @@ Because I am so dwarfish and so low?
 How low am I, thou painted maypole? speak;
 How low am I? I am not yet so low
 But that my nails can reach unto thine eyes.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 I pray you, though you mock me, gentlemen,
 Let her not hurt me: I was never curst;
 I have no gift at all in shrewishness;
@@ -2466,15 +2757,17 @@ I am a right maid for my cowardice:
 Let her not strike me. You perhaps may think,
 Because she is something lower than myself,
 That I can match her.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Lower! hark, again.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 Good Hermia, do not be so bitter with me.
 I evermore did love you, Hermia,
 Did ever keep your counsels, never wrong'd you;
@@ -2487,108 +2780,125 @@ And now, so you will let me quiet go,
 To Athens will I bear my folly back
 And follow you no further: let me go:
 You see how simple and how fond I am.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, get you gone: who is't that hinders you?
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 A foolish heart, that I leave here behind.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What, with Lysander?
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 With Demetrius.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Be not afraid; she shall not harm thee, Helena.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No, sir, she shall not, though you take her part.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 O, when she's angry, she is keen and shrewd!
 She was a vixen when she went to school;
 And though she be but little, she is fierce.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 'Little' again! nothing but 'low' and 'little'!
 Why will you suffer her to flout me thus?
 Let me come to her.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Get you gone, you dwarf;
 You minimus, of hindering knot-grass made;
 You bead, you acorn.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 You are too officious
 In her behalf that scorns your services.
 Let her alone: speak not of Helena;
 Take not her part; for, if thou dost intend
 Never so little show of love to her,
 Thou shalt aby it.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
                   Now she holds me not;
 Now follow, if thou darest, to try whose right,
 Of thine or mine, is most in Helena.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Follow! nay, I'll go with thee, cheek by jole.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You, mistress, all this coil is 'long of you:
 Nay, go not back.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
                   I will not trust you, I,
 Nor longer stay in your curst company.
 Your hands than mine are quicker for a fray,
 My legs are longer though, to run away.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I am amazed, and know not what to say.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 This is thy negligence: still thou mistakest,
 Or else committ'st thy knaveries wilfully.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Believe me, king of shadows, I mistook.
 Did not you tell me I should know the man
 By the Athenian garment be had on?
@@ -2596,10 +2906,11 @@ And so far blameless proves my enterprise,
 That I have 'nointed an Athenian's eyes;
 And so far am I glad it so did sort
 As this their jangling I esteem a sport.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={24}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=24
+#BEGIN_ENTRY_TEXT
 Thou see'st these lovers seek a place to fight:
 Hie therefore, Robin, overcast the night;
 The starry welkin cover thou anon
@@ -2624,10 +2935,11 @@ Whiles I in this affair do thee employ,
 I'll to my queen and beg her Indian boy;
 And then I will her charmed eye release
 From monster's view, and all things shall be peace.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 My fairy lord, this must be done with haste,
 For night's swift dragons cut the clouds full fast,
 And yonder shines Aurora's harbinger;
@@ -2638,10 +2950,11 @@ Already to their wormy beds are gone;
 For fear lest day should look their shames upon,
 They willfully themselves exile from light
 And must for aye consort with black-brow'd night.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 But we are spirits of another sort:
 I with the morning's love have oft made sport,
 And, like a forester, the groves may tread,
@@ -2650,66 +2963,76 @@ Opening on Neptune with fair blessed beams,
 Turns into yellow gold his salt green streams.
 But, notwithstanding, haste; make no delay:
 We may effect this business yet ere day.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
    Up and down, up and down,
 I will lead them up and down:
 I am fear'd in field and town:
 Goblin, lead them up and down.
 Here comes one.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where art thou, proud Demetrius? speak thou now.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Here, villain; drawn and ready. Where art thou?
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I will be with thee straight.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Follow me, then,
 To plainer ground.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
                   Lysander! speak again:
 Thou runaway, thou coward, art thou fled?
 Speak! In some bush? Where dost thou hide thy head?
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Thou coward, art thou bragging to the stars,
 Telling the bushes that thou look'st for wars,
 And wilt not come? Come, recreant; come, thou child;
 I'll whip thee with a rod: he is defiled
 That draws a sword on thee.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Yea, art thou there?
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Follow my voice: we'll try no manhood here.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 He goes before me and still dares me on:
 When I come where he calls, then he is gone.
 The villain is much lighter-heel'd than I:
@@ -2719,66 +3042,74 @@ And here will rest me.
 Come, thou gentle day!
 For if but once thou show me thy grey light,
 I'll find Demetrius and revenge this spite.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ho, ho, ho! Coward, why comest thou not?
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Abide me, if thou darest; for well I wot
 Thou runn'st before me, shifting every place,
 And darest not stand, nor look me in the face.
 Where art thou now?
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Come hither: I am here.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Nay, then, thou mock'st me. Thou shalt buy this dear,
 If ever I thy face by daylight see:
 Now, go thy way. Faintness constraineth me
 To measure out my length on this cold bed.
 By day's approach look to be visited.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 O weary night, O long and tedious night,
 Abate thy hour! Shine comforts from the east,
 That I may back to Athens by daylight,
 From these that my poor company detest:
 And sleep, that sometimes shuts up sorrow's eye,
 Steal me awhile from mine own company.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Yet but three? Come one more;
 Two of both kinds make up four.
 Here she comes, curst and sad:
 Cupid is a knavish lad,
 Thus to make poor females mad.
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Never so weary, never so in woe,
 Bedabbled with the dew and torn with briers,
 I can no further crawl, no further go;
 My legs can keep no pace with my desires.
 Here will I rest me till the break of day.
 Heavens shield Lysander, if they mean a fray!
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act III, Scene II}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act III, Scene II
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
                   On the ground
 Sleep sound:
 I'll apply
@@ -2795,38 +3126,44 @@ In your waking shall be shown:
 Jack shall have Jill;
 Nought shall go ill;
 The man shall have his mare again, and all shall be well.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Come, sit thee down upon this flowery bed,
 While I thy amiable cheeks do coy,
 And stick musk-roses in thy sleek smooth head,
 And kiss thy fair large ears, my gentle joy.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where's Peaseblossom?
-}
-BLURB={PEASEBLOSSOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PEASEBLOSSOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ready.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Scratch my head Peaseblossom. Where's Mounsieur Cobweb?
-}
-BLURB={COBWEB - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=COBWEB - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ready.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 Mounsieur Cobweb, good mounsieur, get you your
 weapons in your hand, and kill me a red-hipped
 humble-bee on the top of a thistle; and, good
@@ -2835,82 +3172,94 @@ yourself too much in the action, mounsieur; and,
 good mounsieur, have a care the honey-bag break not;
 I would be loath to have you overflown with a
 honey-bag, signior. Where's Mounsieur Mustardseed?
-}
-BLURB={MUSTARDSEED - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=MUSTARDSEED - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ready.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Give me your neaf, Mounsieur Mustardseed. Pray you,
 leave your courtesy, good mounsieur.
-}
-BLURB={MUSTARDSEED - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=MUSTARDSEED - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What's your Will?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 Nothing, good mounsieur, but to help Cavalery Cobweb
 to scratch. I must to the barber's, monsieur; for
 methinks I am marvellous hairy about the face; and I
 am such a tender ass, if my hair do but tickle me,
 I must scratch.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 What, wilt thou hear some music,
 my sweet love?
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I have a reasonable good ear in music. Let's have
 the tongs and the bones.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Or say, sweet love, what thou desirest to eat.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Truly, a peck of provender: I could munch your good
 dry oats. Methinks I have a great desire to a bottle
 of hay: good hay, sweet hay, hath no fellow.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I have a venturous fairy that shall seek
 The squirrel's hoard, and fetch thee new nuts.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 I had rather have a handful or two of dried peas.
 But, I pray you, let none of your people stir me: I
 have an exposition of sleep come upon me.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Sleep thou, and I will wind thee in my arms.
 Fairies, begone, and be all ways away.
 So doth the woodbine the sweet honeysuckle
 Gently entwist; the female ivy so
 Enrings the barky fingers of the elm.
 O, how I love thee! how I dote on thee!
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={31}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=31
+#BEGIN_ENTRY_TEXT
 [Advancing]  Welcome, good Robin.
 See'st thou this sweet sight?
 Her dotage now I do begin to pity:
@@ -2942,45 +3291,52 @@ See as thou wast wont to see:
 Dian's bud o'er Cupid's flower
 Hath such force and blessed power.
 Now, my Titania; wake you, my sweet queen.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 My Oberon! what visions have I seen!
 Methought I was enamour'd of an ass.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 There lies your love.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 How came these things to pass?
 O, how mine eyes do loathe his visage now!
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Silence awhile. Robin, take off this head.
 Titania, music call; and strike more dead
 Than common sleep of all these five the sense.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Music, ho! music, such as charmeth sleep!
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Now, when thou wakest, with thine
 own fool's eyes peep.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 Sound, music! Come, my queen, take hands with me,
 And rock the ground whereon these sleepers be.
 Now thou and I are new in amity,
@@ -2989,32 +3345,36 @@ Dance in Duke Theseus' house triumphantly,
 And bless it to all fair prosperity:
 There shall the pairs of faithful lovers be
 Wedded, with Theseus, all in jollity.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Fairy king, attend, and mark:
 I do hear the morning lark.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Then, my queen, in silence sad,
 Trip we after the night's shade:
 We the globe can compass soon,
 Swifter than the wandering moon.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Come, my lord, and in our flight
 Tell me how it came this night
 That I sleeping here was found
 With these mortals on the ground.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 Go, one of you, find out the forester;
 For now our observation is perform'd;
 And since we have the vaward of the day,
@@ -3024,10 +3384,11 @@ Dispatch, I say, and find the forester.
 We will, fair queen, up to the mountain's top,
 And mark the musical confusion
 Of hounds and echo in conjunction.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 I was with Hercules and Cadmus once,
 When in a wood of Crete they bay'd the bear
 With hounds of Sparta: never did I hear
@@ -3035,10 +3396,11 @@ Such gallant chiding: for, besides the groves,
 The skies, the fountains, every region near
 Seem'd all one mutual cry: I never heard
 So musical a discord, such sweet thunder.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={9}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=9
+#BEGIN_ENTRY_TEXT
 My hounds are bred out of the Spartan kind,
 So flew'd, so sanded, and their heads are hung
 With ears that sweep away the morning dew;
@@ -3048,53 +3410,60 @@ Each under each. A cry more tuneable
 Was never holla'd to, nor cheer'd with horn,
 In Crete, in Sparta, nor in Thessaly:
 Judge when you hear. But, soft! what nymphs are these?
-}
-BLURB={EGEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=EGEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 My lord, this is my daughter here asleep;
 And this, Lysander; this Demetrius is;
 This Helena, old Nedar's Helena:
 I wonder of their being here together.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 No doubt they rose up early to observe
 The rite of May, and hearing our intent,
 Came here in grace our solemnity.
 But speak, Egeus; is not this the day
 That Hermia should give answer of her choice?
-}
-BLURB={EGEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=EGEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 It is, my lord.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Go, bid the huntsmen wake them with their horns.
 Good morrow, friends. Saint Valentine is past:
 Begin these wood-birds but to couple now?
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Pardon, my lord.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
                   I pray you all, stand up.
 I know you two are rival enemies:
 How comes this gentle concord in the world,
 That hatred is so far from jealousy,
 To sleep by hate, and fear no enmity?
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 My lord, I shall reply amazedly,
 Half sleep, half waking: but as yet, I swear,
 I cannot truly say how I came here;
@@ -3103,20 +3472,22 @@ And now do I bethink me, so it is,--
 I came with Hermia hither: our intent
 Was to be gone from Athens, where we might,
 Without the peril of the Athenian law.
-}
-BLURB={EGEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=EGEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 Enough, enough, my lord; you have enough:
 I beg the law, the law, upon his head.
 They would have stolen away; they would, Demetrius,
 Thereby to have defeated you and me,
 You of your wife and me of my consent,
 Of my consent that she should be your wife.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={17}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=17
+#BEGIN_ENTRY_TEXT
 My lord, fair Helen told me of their stealth,
 Of this their purpose hither to this wood;
 And I in fury hither follow'd them,
@@ -3134,10 +3505,11 @@ But, like in sickness, did I loathe this food;
 But, as in health, come to my natural taste,
 Now I do wish it, love it, long for it,
 And will for evermore be true to it.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 Fair lovers, you are fortunately met:
 Of this discourse we more will hear anon.
 Egeus, I will overbear your will;
@@ -3148,57 +3520,66 @@ Our purposed hunting shall be set aside.
 Away with us to Athens; three and three,
 We'll hold a feast in great solemnity.
 Come, Hippolyta.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 These things seem small and undistinguishable,
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Methinks I see these things with parted eye,
 When every thing seems double.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 So methinks:
 And I have found Demetrius like a jewel,
 Mine own, and not mine own.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Are you sure
 That we are awake? It seems to me
 That yet we sleep, we dream. Do not you think
 The duke was here, and bid us follow him?
-}
-BLURB={HERMIA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HERMIA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Yea; and my father.
-}
-BLURB={HELENA - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HELENA - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And Hippolyta.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And he did bid us follow to the temple.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why, then, we are awake: let's follow him
 And by the way let us recount our dreams.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene I}
-LENGTH={20}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene I
+#ENTRY_LENGTH=20
+#BEGIN_ENTRY_TEXT
 [Awaking]  When my cue comes, call me, and I will
 answer: my next is, 'Most fair Pyramus.' Heigh-ho!
 Peter Quince! Flute, the bellows-mender! Snout,
@@ -3219,91 +3600,105 @@ because it hath no bottom; and I will sing it in the
 latter end of a play, before the duke:
 peradventure, to make it the more gracious, I shall
 sing it at her death.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Have you sent to Bottom's house ? is he come home yet?
-}
-BLURB={STARVELING - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=STARVELING - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 He cannot be heard of. Out of doubt he is
 transported.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 If he come not, then the play is marred: it goes
 not forward, doth it?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 It is not possible: you have not a man in all
 Athens able to discharge Pyramus but he.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 No, he hath simply the best wit of any handicraft
 man in Athens.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Yea and the best person too; and he is a very
 paramour for a sweet voice.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 You must say 'paragon:' a paramour is, God bless us,
 a thing of naught.
-}
-BLURB={SNUG - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=SNUG - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Masters, the duke is coming from the temple, and
 there is two or three lords and ladies more married:
 if our sport had gone forward, we had all been made
 men.
-}
-BLURB={FLUTE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=FLUTE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 O sweet bully Bottom! Thus hath he lost sixpence a
 day during his life; he could not have 'scaped
 sixpence a day: an the duke had not given him
 sixpence a day for playing Pyramus, I'll be hanged;
 he would have deserved it: sixpence a day in
 Pyramus, or nothing.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Where are these lads? where are these hearts?
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Bottom! O most courageous day! O most happy hour!
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Masters, I am to discourse wonders: but ask me not
 what; for if I tell you, I am no true Athenian. I
 will tell you every thing, right as it fell out.
-}
-BLURB={QUINCE - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=QUINCE - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Let us hear, sweet Bottom.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act IV, Scene II}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act IV, Scene II
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 Not a word of me. All that I will tell you is, that
 the duke hath dined. Get your apparel together,
 good strings to your beards, new ribbons to your
@@ -3316,16 +3711,18 @@ lion's claws. And, most dear actors, eat no onions
 nor garlic, for we are to utter sweet breath; and I
 do not doubt but to hear them say, it is a sweet
 comedy. No more words: away! go, away!
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 'Tis strange my Theseus, that these
 lovers speak of.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={21}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=21
+#BEGIN_ENTRY_TEXT
 More strange than true: I never may believe
 These antique fables, nor these fairy toys.
 Lovers and madmen have such seething brains,
@@ -3347,32 +3744,36 @@ That if it would but apprehend some joy,
 It comprehends some bringer of that joy;
 Or in the night, imagining some fear,
 How easy is a bush supposed a bear!
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={5}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=5
+#BEGIN_ENTRY_TEXT
 But all the story of the night told over,
 And all their minds transfigured so together,
 More witnesseth than fancy's images
 And grows to something of great constancy;
 But, howsoever, strange and admirable.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Here come the lovers, full of joy and mirth.
 Joy, gentle friends! joy and fresh days of love
 Accompany your hearts!
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 More than to us
 Wait in your royal walks, your board, your bed!
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={7}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=7
+#BEGIN_ENTRY_TEXT
 Come now; what masques, what dances shall we have,
 To wear away this long age of three hours
 Between our after-supper and bed-time?
@@ -3380,28 +3781,32 @@ Where is our usual manager of mirth?
 What revels are in hand? Is there no play,
 To ease the anguish of a torturing hour?
 Call Philostrate.
-}
-BLURB={PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
                   Here, mighty Theseus.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 Say, what abridgement have you for this evening?
 What masque? what music? How shall we beguile
 The lazy time, if not with some delight?
-}
-BLURB={PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 There is a brief how many sports are ripe:
 Make choice of which your highness will see first.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={17}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=17
+#BEGIN_ENTRY_TEXT
 [Reads]  'The battle with the Centaurs, to be sung
 By an Athenian eunuch to the harp.'
 We'll none of that: that have I told my love,
@@ -3419,10 +3824,11 @@ And his love Thisbe; very tragical mirth.'
 Merry and tragical! tedious and brief!
 That is, hot ice and wondrous strange snow.
 How shall we find the concord of this discord?
-}
-BLURB={PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 A play there is, my lord, some ten words long,
 Which is as brief as I have known a play;
 But by ten words, my lord, it is too long,
@@ -3433,62 +3839,71 @@ For Pyramus therein doth kill himself.
 Which, when I saw rehearsed, I must confess,
 Made mine eyes water; but more merry tears
 The passion of loud laughter never shed.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 What are they that do play it?
-}
-BLURB={PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 Hard-handed men that work in Athens here,
 Which never labour'd in their minds till now,
 And now have toil'd their unbreathed memories
 With this same play, against your nuptial.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And we will hear it.
-}
-BLURB={PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
 No, my noble lord;
 It is not for you: I have heard it over,
 And it is nothing, nothing in the world;
 Unless you can find sport in their intents,
 Extremely stretch'd and conn'd with cruel pain,
 To do you service.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
                   I will hear that play;
 For never anything can be amiss,
 When simpleness and duty tender it.
 Go, bring them in: and take your places, ladies.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I love not to see wretchedness o'er charged
 And duty in his service perishing.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Why, gentle sweet, you shall see no such thing.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 He says they can do nothing in this kind.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={17}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=17
+#BEGIN_ENTRY_TEXT
 The kinder we, to give them thanks for nothing.
 Our sport shall be to take what they mistake:
 And what poor duty cannot do, noble respect
@@ -3506,20 +3921,23 @@ I read as much as from the rattling tongue
 Of saucy and audacious eloquence.
 Love, therefore, and tongue-tied simplicity
 In least speak most, to my capacity.
-}
-BLURB={PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PHILOSTRATE - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 So please your grace, the Prologue is address'd.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Let him approach.
-}
-BLURB={Prologue - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Prologue - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 If we offend, it is with our good will.
 That you should think, we come not to offend,
 But with good will. To show our simple skill,
@@ -3530,34 +3948,39 @@ Our true intent is. All for your delight
 We are not here. That you should here repent you,
 The actors are at hand and by their show
 You shall know all that you are like to know.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 This fellow doth not stand upon points.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 He hath rid his prologue like a rough colt; he knows
 not the stop. A good moral, my lord: it is not
 enough to speak, but to speak true.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Indeed he hath played on his prologue like a child
 on a recorder; a sound, but not in government.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 His speech, was like a tangled chain; nothing
 impaired, but all disordered. Who is next?
-}
-BLURB={Prologue - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={25}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Prologue - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=25
+#BEGIN_ENTRY_TEXT
 Gentles, perchance you wonder at this show;
 But wonder on, till truth make all things plain.
 This man is Pyramus, if you would know;
@@ -3583,20 +4006,23 @@ And Thisby, tarrying in mulberry shade,
 His dagger drew, and died. For all the rest,
 Let Lion, Moonshine, Wall, and lovers twain
 At large discourse, while here they do remain.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I wonder if the lion be to speak.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No wonder, my lord: one lion may, when many asses do.
-}
-BLURB={Wall - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={10}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Wall - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=10
+#BEGIN_ENTRY_TEXT
 In this same interlude it doth befall
 That I, one Snout by name, present a wall;
 And such a wall, as I would have you think,
@@ -3607,26 +4033,30 @@ This loam, this rough-cast and this stone doth show
 That I am that same wall; the truth is so:
 And this the cranny is, right and sinister,
 Through which the fearful lovers are to whisper.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Would you desire lime and hair to speak better?
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 It is the wittiest partition that ever I heard
 discourse, my lord.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Pyramus draws near the wall: silence!
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={12}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=12
+#BEGIN_ENTRY_TEXT
 O grim-look'd night! O night with hue so black!
 O night, which ever art when day is not!
 O night, O night! alack, alack, alack,
@@ -3639,123 +4069,144 @@ Thanks, courteous wall: Jove shield thee well for this!
 But what see I? No Thisby do I see.
 O wicked wall, through whom I see no bliss!
 Cursed be thy stones for thus deceiving me!
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 The wall, methinks, being sensible, should curse again.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 No, in truth, sir, he should not. 'Deceiving me'
 is Thisby's cue: she is to enter now, and I am to
 spy her through the wall. You shall see, it will
 fall pat as I told you. Yonder she comes.
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 O wall, full often hast thou heard my moans,
 For parting my fair Pyramus and me!
 My cherry lips have often kiss'd thy stones,
 Thy stones with lime and hair knit up in thee.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 I see a voice: now will I to the chink,
 To spy an I can hear my Thisby's face. Thisby!
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 My love thou art, my love I think.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Think what thou wilt, I am thy lover's grace;
 And, like Limander, am I trusty still.
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And I like Helen, till the Fates me kill.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Not Shafalus to Procrus was so true.
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 As Shafalus to Procrus, I to you.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 O kiss me through the hole of this vile wall!
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I kiss the wall's hole, not your lips at all.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Wilt thou at Ninny's tomb meet me straightway?
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 'Tide life, 'tide death, I come without delay.
-}
-BLURB={Wall - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Wall - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Thus have I, Wall, my part discharged so;
 And, being done, thus Wall away doth go.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Now is the mural down between the two neighbours.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 No remedy, my lord, when walls are so wilful to hear
 without warning.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 This is the silliest stuff that ever I heard.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 The best in this kind are but shadows; and the worst
 are no worse, if imagination amend them.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 It must be your imagination then, and not theirs.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 If we imagine no worse of them than they of
 themselves, they may pass for excellent men. Here
 come two noble beasts in, a man and a lion.
-}
-BLURB={Lion - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={8}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Lion - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
 You, ladies, you, whose gentle hearts do fear
 The smallest monstrous mouse that creeps on floor,
 May now perchance both quake and tremble here,
@@ -3764,149 +4215,175 @@ Then know that I, one Snug the joiner, am
 A lion-fell, nor else no lion's dam;
 For, if I should as lion come in strife
 Into this place, 'twere pity on my life.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 A very gentle beast, of a good conscience.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 The very best at a beast, my lord, that e'er I saw.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 This lion is a very fox for his valour.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 True; and a goose for his discretion.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Not so, my lord; for his valour cannot carry his
 discretion; and the fox carries the goose.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 His discretion, I am sure, cannot carry his valour;
 for the goose carries not the fox. It is well:
 leave it to his discretion, and let us listen to the moon.
-}
-BLURB={Moonshine - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Moonshine - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 This lanthorn doth the horned moon present;--
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 He should have worn the horns on his head.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 He is no crescent, and his horns are
 invisible within the circumference.
-}
-BLURB={Moonshine - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Moonshine - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 This lanthorn doth the horned moon present;
 Myself the man i' the moon do seem to be.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 This is the greatest error of all the rest: the man
 should be put into the lanthorn. How is it else the
 man i' the moon?
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 He dares not come there for the candle; for, you
 see, it is already in snuff.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 I am aweary of this moon: would he would change!
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 It appears, by his small light of discretion, that
 he is in the wane; but yet, in courtesy, in all
 reason, we must stay the time.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Proceed, Moon.
-}
-BLURB={Moonshine - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Moonshine - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 All that I have to say, is, to tell you that the
 lanthorn is the moon; I, the man in the moon; this
 thorn-bush, my thorn-bush; and this dog, my dog.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Why, all these should be in the lanthorn; for all
 these are in the moon. But, silence! here comes Thisbe.
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 This is old Ninny's tomb. Where is my love?
-}
-BLURB={Lion - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Lion - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 [Roaring]  Oh--
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well roared, Lion.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well run, Thisbe.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Well shone, Moon. Truly, the moon shines with a
 good grace.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Well moused, Lion.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And so the lion vanished.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And then came Pyramus.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 Sweet Moon, I thank thee for thy sunny beams;
 I thank thee, Moon, for shining now so bright;
 For, by thy gracious, golden, glittering gleams,
@@ -3923,21 +4400,24 @@ Approach, ye Furies fell!
 O Fates, come, come,
 Cut thread and thrum;
 Quail, crush, conclude, and quell!
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 This passion, and the death of a dear friend, would
 go near to make a man look sad.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Beshrew my heart, but I pity the man.
-}
-BLURB={Pyramus - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={20}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Pyramus - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=20
+#BEGIN_ENTRY_TEXT
 O wherefore, Nature, didst thou lions frame?
 Since lion vile hath here deflower'd my dear:
 Which is--no, no--which was the fairest dame
@@ -3958,61 +4438,71 @@ Moon take thy flight:
 [Exit Moonshine]
 Now die, die, die, die, die.
 [Dies]
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 No die, but an ace, for him; for he is but one.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Less than an ace, man; for he is dead; he is nothing.
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 With the help of a surgeon he might yet recover, and
 prove an ass.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 How chance Moonshine is gone before Thisbe comes
 back and finds her lover?
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 She will find him by starlight. Here she comes; and
 her passion ends the play.
-}
-BLURB={HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={2}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=HIPPOLYTA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
 Methinks she should not use a long one for such a
 Pyramus: I hope she will be brief.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={3}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=3
+#BEGIN_ENTRY_TEXT
 A mote will turn the balance, which Pyramus, which
 Thisbe, is the better; he for a man, God warrant us;
 she for a woman, God bless us.
-}
-BLURB={LYSANDER - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=LYSANDER - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 She hath spied him already with those sweet eyes.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 And thus she means, videlicet:--
-}
-BLURB={Thisbe - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={26}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Thisbe - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=26
+#BEGIN_ENTRY_TEXT
           Asleep, my love?
 What, dead, my dove?
 O Pyramus, arise!
@@ -4039,28 +4529,32 @@ And, farewell, friends;
 Thus Thisby ends:
 Adieu, adieu, adieu.
 [Dies]
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Moonshine and Lion are left to bury the dead.
-}
-BLURB={DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={1}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=DEMETRIUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
 Ay, and Wall too.
-}
-BLURB={BOTTOM - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=BOTTOM - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 [Starting up]  No assure you; the wall is down that
 parted their fathers. Will it please you to see the
 epilogue, or to hear a Bergomask dance between two
 of our company?
-}
-BLURB={THESEUS - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=THESEUS - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 No epilogue, I pray you; for your play needs no
 excuse. Never excuse; for when the players are all
 dead, there needs none to be blamed. Marry, if he
@@ -4077,10 +4571,11 @@ This palpable-gross play hath well beguiled
 The heavy gait of night. Sweet friends, to bed.
 A fortnight hold we this solemnity,
 In nightly revels and new jollity.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={20}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=20
+#BEGIN_ENTRY_TEXT
      Now the hungry lion roars,
 And the wolf behowls the moon;
 Whilst the heavy ploughman snores,
@@ -4101,28 +4596,31 @@ Now are frolic: not a mouse
 Shall disturb this hallow'd house:
 I am sent with broom before,
 To sweep the dust behind the door.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={6}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=6
+#BEGIN_ENTRY_TEXT
      Through the house give gathering light,
 By the dead and drowsy fire:
 Every elf and fairy sprite
 Hop as light as bird from brier;
 And this ditty, after me,
 Sing, and dance it trippingly.
-}
-BLURB={TITANIA - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={4}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=TITANIA - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
 First, rehearse your song by rote
 To each word a warbling note:
 Hand in hand, with fairy grace,
 Will we sing, and bless this place.
-}
-BLURB={OBERON - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={23}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=OBERON - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=23
+#BEGIN_ENTRY_TEXT
 [Song and dance]
 Now, until the break of day,
 Through this house each fairy stray.
@@ -4146,10 +4644,11 @@ And the owner of it blest
 Ever shall in safety rest.
 Trip away; make no stay;
 Meet me all by break of day.
-}
-BLURB={PUCK - A Midsummer Night's Dream - Act V, Scene I}
-LENGTH={16}
-TEXT={
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=PUCK - A Midsummer Night's Dream - Act V, Scene I
+#ENTRY_LENGTH=16
+#BEGIN_ENTRY_TEXT
 If we shadows have offended,
 Think but this, and all is mended,
 That you have but slumber'd here
@@ -4166,5 +4665,5 @@ Else the Puck a liar call;
 So, good night unto you all.
 Give me your hands, if we be friends,
 And Robin shall restore amends.
-}
-}
+#END_ENTRY_TEXT
+#END_ENTRIES

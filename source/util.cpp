@@ -1,7 +1,9 @@
-#include <string>  //std::string
-#include <vector>  //std::vector
-#include <cstdlib> //std::srand,rand
-#include <ctime>   //std::time
+#include <string>   //std::string
+#include <vector>   //std::vector
+#include <cstdlib>  //std::srand,rand
+#include <ctime>    //std::time
+#include <iostream> //std::cerr,endl
+#include <fstream>  //std::ifstream
 
 #include <sotd.h>
 
@@ -13,22 +15,22 @@ std::string sotd::extract(const std::string &str, const std::string &start, cons
 	i += start.length();
 
 	j = str.find(start,i);
-	if (j == std::string::npos) return strobj.substring(i,str.length() - i);
+	if (j == std::string::npos) return str.substr(i, str.length() - i);
 
 	return str.substr(i,j - i);
 }
 
 std::vector<std::string> sotd::split(const std::string &str, const std::string &sep) {
-	std::vector<std::string> v();
+	std::vector<std::string> v;
 	std::size_t i = 0, j = str.find(sep), l = sep.length();
 
-	v.push_back(pre + str.substr(i,j - i));
+	v.push_back(str.substr(i,j - i));
 
 	while (j != std::string::npos)
 	{
 		i = j + l;
-		j = str.find(sub,i);
-		v.push_back(pre + str.substr(i,j - i));
+		j = str.find(sep,i);
+		v.push_back(str.substr(i,j - i));
 	}
 
 	return v;
@@ -47,3 +49,35 @@ int sotd::random(int max)
 	if (!random_initialized) init_random();
 	return std::rand() % max;
 }
+
+
+std::string sotd::readfile(const char * path)
+{
+	std::ifstream is (path, std::ifstream::in);
+
+	//get file length
+	is.seekg(0, is.end);
+	unsigned long int length = is.tellg();
+	is.seekg(0, is.beg);
+
+	char * buffer = new char [length + 1];
+	buffer[length] = '\0';
+
+	sotd::log("sotd::readfile(): trying to read");
+	is.read(buffer,length);
+
+	if (is) log("sotd::readfile(): read successful");
+	else    log("sotd::readfile(): read failed early");
+
+	std::string text = buffer;
+
+	delete buffer;
+
+	return text;
+}
+
+void sotd::log(const char * msg)
+{
+	std::cerr << msg << std::endl;
+}
+

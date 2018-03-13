@@ -19,7 +19,7 @@ TMR = sotd.timer
 SRV = sotd.service
 
 # header file
-HDR = ${INC}/sotd.h
+HDR = ${ID}/sotd.h
 
 # object files to build
 OBJ = ${BD}/Entry.o
@@ -29,9 +29,9 @@ OBJ += ${BD}/util.o
 OBJ += ${BD}/main.o
 
 # compiler and options
-CDEF = -D${INSTALL_MACRO_NAME}="${DID}/${DAT}"
+CDEF = -D${INSTALL_MACRO_NAME}=\"${DID}/${DAT}\"
 CFLG = -std=c++11 -Wall
-CINC = -I${INC}
+CINC = -I${ID}
 COPT = ${CFLG} ${CINC}
 CC   = g++ ${COPT}
 
@@ -67,7 +67,7 @@ uninstall:
 ${BD}:
 	mkdir -p $@
 
-${BD}/${EXE}: ${BD} ${OBJ} ${HDR}
+${EXE}: ${BD} ${OBJ} ${HDR}
 	${CC} -o $@ ${OBJ}
 
 
@@ -84,5 +84,5 @@ ${BD}/util.o: ${SD}/util.cpp ${HDR}
 	${CC} -o $@ -c $<
 
 ${BD}/main.o: ${SD}/main.cpp ${HDR}
-	${CC} -o $@ -c $<
+	${CC} ${CDEF} -o $@ -c $<
 

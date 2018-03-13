@@ -15,6 +15,9 @@ namespace sotd {
 	//get a random int
 	int random(int max);
 
+	std::string readfile(const char * path);
+	void log(const char * msg);
+
 	class Entry {
 	private:
 		std::string blurb;
@@ -73,10 +76,9 @@ namespace sotd {
 
 		Data();
 		Data(const Data &data);
-		Data(const char *filename);
+		Data(const std::string &text);
 		~Data();
-		void read_file(const char * filename);
-		void read_text(const std::string &text);
+		void read(const std::string &text);
 		const Work & getRandomWork() const;
 	};
 };

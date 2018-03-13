@@ -38,14 +38,13 @@ void sotd::Work::read(const std::string &input_text)
 	std::string text = sotd::extract(input_text, sotd::Work::entries_start, sotd::Work::entries_end);
 	std::vector<std::string> entry_text_vector = sotd::split(text, sotd::Work::entries_sep);
 
-	std::vector<std::string>::iterator i;
-	for (i = entry_text_vector.begin(); i != entry_text_vector.end(); i++)
+	for (auto i = entry_text_vector.begin(); i != entry_text_vector.end(); ++i)
 	{
-		entries.push_back(sotd::Entry(entry_text_vector[i]));
+		entries.push_back(sotd::Entry(*i));
 	}
 }
 
 const sotd::Entry & sotd::Work::getRandomEntry() const
 {
-	return entries[sotd::random(entries.length())];
+	return entries[sotd::random(entries.size())];
 }

@@ -35,10 +35,10 @@ sotd::Entry::Entry(const std::string &input_text)
 	read(input_text);
 }
 
+sotd::Entry::~Entry() { }
+
 void sotd::Entry::read(const std::string &input_text)
 {
-	std::size_t start, end;
-
 	blurb = sotd::extract(input_text, sotd::Entry::blurb_start, sotd::Entry::blurb_end);
 	length = sotd::extract(input_text, sotd::Entry::length_start, sotd::Entry::length_end);
 	std::string text = sotd::extract(input_text, sotd::Entry::text_start, sotd::Entry::text_end);

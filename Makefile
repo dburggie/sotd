@@ -1,31 +1,50 @@
 
-SOURCE_DIR = source
-INCLUDE_DIR = include
-DATA_DIR = data
-BUILD_DIR = build
+INSTALL_MACRO_NAME=DATA_PATH
 
-UNIT_DIR = /etc/systemd/system
-BIN_INSTALL_DIR = /usr/bin
-DATA_INSTALL_DIR = /usr/share/sotd
+# source directories
+SD = source
+ID = source
+DD = data
+BD = build
 
+# install directories
+UID = /etc/systemd/system
+BID = /usr/bin
+DID = /usr/share/sotd
+
+# files to install
 EXE = sotd
 DAT = sotd.dat
 TMR = sotd.timer
 SRV = sotd.service
 
-CFLG = -std=c++11 -Wall -ggdb -Llib
+# header file
+HDR = ${INC}/sotd.h
+
+# object files to build
+OBJ = ${BD}/Entry.o
+OBJ += ${BD}/Work.o
+OBJ += ${BD}/Data.o
+OBJ += ${BD}/util.o
+OBJ += ${BD}/main.o
+
+# compiler and options
+CDEF = -D${INSTALL_MACRO_NAME}="${DID}/${DAT}"
+CFLG = -std=c++11 -Wall
 CINC = -I${INC}
 COPT = ${CFLG} ${CINC}
 CC   = g++ ${COPT}
 
-all: ${BUILD_DIR}/${EXE}
 
-install: ${BUILD_DIR}/${EXE}
-	mkdir -p ${DATA_INSTALL_DIR}
-	cp ${DATA_DIR}/${DAT} ${DATA_INSTALL_DIR}/
-	cp ${BUILD_DIR}/${EXE} ${BIN_INSTALL_DIR}/
-	cp ${SOURCE_DIR}/${SRV} ${UNIT_DIR}/${SRV}
-	cp ${SOURCE_DIR}/${TMR} ${UNIT_DIR}/${TMR}
+
+all: ${EXE}
+
+install: ${EXE}
+	mkdir -p ${DID}
+	cp ${DD}/${DAT} ${DID}/
+	cp ${EXE} ${BID}/
+	cp ${SD}/${SRV} ${UID}/${SRV}
+	cp ${SD}/${TMR} ${UID}/${TMR}
 	systemctl enable ${TMR}
 	systemctl start ${TMR}
 	${EXE}
@@ -35,13 +54,35 @@ disable:
 	systemctl stop ${TMR}
 
 uninstall:
-	rm --preserve-root -rf ${DATA_INSTALL_DIR}
-	rm -f ${BIN_INSTALL_DIR}/${EXE}
-	rm -f ${UNIT_DIR}/${SRV}
-	rm -f ${UNIT_DIR}/${TMR}
-	
+	rm -f ${DID}/${DAT}
+	rm -f ${BID}/${EXE}
+	rm -f ${UID}/${SRV}
+	rm -f ${UID}/${TMR}
+	rmdir ${DID}
 
 
-${BUILD_DIR}/${EXE}: ${SOURCE_DIR}/sotd.sh
-	cp $< $@
-	chmod +x $@
+
+# RECIPES
+
+${BD}:
+	mkdir -p $@
+
+${BD}/${EXE}: ${BD} ${OBJ} ${HDR}
+	${CC} -o $@ ${OBJ}
+
+
+${BD}/Entry.o: ${SD}/Entry.cpp ${HDR}
+	${CC} -o $@ -c $<
+
+${BD}/Work.o: ${SD}/Work.cpp ${HDR}
+	${CC} -o $@ -c $<
+
+${BD}/Data.o: ${SD}/Data.cpp ${HDR}
+	${CC} -o $@ -c $<
+
+${BD}/util.o: ${SD}/util.cpp ${HDR}
+	${CC} -o $@ -c $<
+
+${BD}/main.o: ${SD}/main.cpp ${HDR}
+	${CC} -o $@ -c $<
+

@@ -5,12 +5,12 @@
 #include <vector>    //std::vector
 #include <sotd.h>    //sotd::Entry,split,extract
 
-const std::string sotd::Entry::blurb_start  ("BLURB={");
-const std::string sotd::Entry::blurb_end    ("}\n");
-const std::string sotd::Entry::length_start ("LENGTH={");
-const std::string sotd::Entry::length_end   ("}\n")
-const std::string sotd::Entry::text_start   ("TEXT={\n");
-const std::string sotd::Entry::text_end     ("\n}");
+const std::string sotd::Entry::blurb_start  ("#ENTRY_BLURB=");
+const std::string sotd::Entry::blurb_end    ("\n");
+const std::string sotd::Entry::length_start ("#ENTRY_LENGTH=");
+const std::string sotd::Entry::length_end   ("\n")
+const std::string sotd::Entry::text_start   ("#BEGIN_ENTRY_TEXT=\n");
+const std::string sotd::Entry::text_end     ("\n#END_ENTRY_TEXT");
 
 sotd::Entry() {
 	blurb = std::string("");

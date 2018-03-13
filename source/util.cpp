@@ -3,18 +3,22 @@
 
 #include <sotd.h>
 
-std::string sotd::extract(const std::string & strobj, const std::string & start, const std::string & end) {
+std::string sotd::extract(const std::string &str, const std::string &start, const std::string &end) {
 	std::size_t i = 0, j = 0;
-	i = strobj.find(start);
+
+	i = str.find(start);
 	if (i == std::string::npos) return std::string("");
-	j = strobj.find(start,i);
-	if (j == std::string::npos) return strobj.substring(i,strobj.length() - i);
-	return strobj.substr(i,j - i);
+	i += start.length();
+
+	j = str.find(start,i);
+	if (j == std::string::npos) return strobj.substring(i,str.length() - i);
+
+	return str.substr(i,j - i);
 }
 
-std::vector<std::string> sotd::split(const std::string &str, const std::string &sub, const std::string pre = "") {
+std::vector<std::string> sotd::split(const std::string &str, const std::string &sep) {
 	std::vector<std::string> v();
-	std::size_t i = 0, j = str.find(sub), l = sub.length();
+	std::size_t i = 0, j = str.find(sep), l = sep.length();
 
 	v.push_back(pre + str.substr(i,j - i));
 

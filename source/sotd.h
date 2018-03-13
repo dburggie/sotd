@@ -6,8 +6,11 @@
 
 namespace sotd {
 
+	//get string between $start and $end inside $str
 	std::string extract(const std::string &str, const std::string &start, const std::string &end);
-	std::vector<std::string> split(const std::string &str, const std::string &sub, const std::string &pre = "");
+
+	//split string at $sep substrings of $str
+	std::vector<std::string> split(const std::string &str, const std::string &sep);
 
 	class Entry {
 	private:
@@ -41,6 +44,7 @@ namespace sotd {
 		static const std::string count_start;
 		static const std::string count_end;
 		static const std::string entries_start;
+		static const std::string entries_sep;
 		static const std::string entries_end;
 
 		Work();
@@ -61,6 +65,7 @@ namespace sotd {
 		static const std::string count_start;
 		static const std::string count_end;
 		static const std::string works_start;
+		static const std::string works_sep;
 		static const std::string works_end;
 
 		Data();

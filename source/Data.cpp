@@ -3,12 +3,13 @@
 #include <sotd.h>
 //		std::string author;
 //		std::vector<Work> works;
-const std::string sotd::Data::author_start = std::string("AUTHOR={");
-const std::string sotd::Data::author_end = std::string("}\n");
-const std::string sotd::Data::count_start = std::string("WORK_COUNT={");
-const std::string sotd::Data::count_end = std::string("}\n");
-const std::string sotd::Data::works_start = std::string("WORKS={\n");
-const std::string sotd::Data::works_end = std::string("\n}");
+const std::string sotd::Data::author_start ("#AUTHOR=");
+const std::string sotd::Data::author_end   ("\n");
+const std::string sotd::Data::count_start  ("#WORK_COUNT=");
+const std::string sotd::Data::count_end    ("\n");
+const std::string sotd::Data::works_start  ("#BEGIN_WORKS=\n");
+const std::string sotd::Data::works_sep    ("\n#NEW_WORK\n");
+const std::string sotd::Data::works_end    ("\n#END_WORKS");
 
 sotd::Data::Data()
 {

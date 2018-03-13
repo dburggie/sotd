@@ -2,12 +2,13 @@
 #include <vector>
 #include <sotd.h>
 
-const std::string sotd::Work::title_start   ("TITLE={");
-const std::string sotd::Work::title_end     ("}\n");
-const std::string sotd::Work::count_start   ("COUNT={");
-const std::string sotd::Work::count_end     ("}\n");
-const std::string sotd::Work::entries_start ("ENTRIES={\n");
-const std::string sotd::Work::entries_end   ("\n}");
+const std::string sotd::Work::title_start   ("#WORK_TITLE=");
+const std::string sotd::Work::title_end     ("\n");
+const std::string sotd::Work::count_start   ("#ENTRY_COUNT=");
+const std::string sotd::Work::count_end     ("\n");
+const std::string sotd::Work::entries_start ("#BEGIN_ENTRIES=\n");
+const std::string sotd::Work::entries_sep   ("\n#NEW_ENTRY\n");
+const std::string sotd::Work::entries_end   ("\n#END_ENTRIES");
 
 sotd::Work::Work()
 {

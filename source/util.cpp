@@ -1,5 +1,7 @@
-#include <string>
-#include <vector>
+#include <string>  //std::string
+#include <vector>  //std::vector
+#include <cstdlib> //std::srand,rand
+#include <ctime>   //std::time
 
 #include <sotd.h>
 
@@ -30,4 +32,18 @@ std::vector<std::string> sotd::split(const std::string &str, const std::string &
 	}
 
 	return v;
+}
+
+static bool random_initialized = false;
+
+static void init_random()
+{
+	std::srand(std::time(NULL));
+	random_initialized = true;
+}
+
+int sotd::random(int max)
+{
+	if (!random_initialized) init_random();
+	return std::rand() % max;
 }

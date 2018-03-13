@@ -7,7 +7,7 @@ int main(void)
 	sotd::Data data(DATA_PATH);
 	sotd::Work work = data.getRandomWork();
 	sotd::Entry entry = work.getRandomEntry();
-	std::cout << entry;
+	std::cout << entry.toString();
 
 	return 0;
 }

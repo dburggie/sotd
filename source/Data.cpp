@@ -1,5 +1,6 @@
 #include <string>
 #include <vector>
+#include <fstream>
 #include <sotd.h>
 //		std::string author;
 //		std::vector<Work> works;
@@ -23,20 +24,62 @@ sotd::Data::Data(const sotd::Data &data)
 	works = std::vector<sotd::Work>(data.works);
 }
 
-sotd::Data::Data(const std::string &filename)
+sotd::Data::Data(const char * filename)
 {
 	author = std::string("");
 	works = std::vector<sotd::Work>();
-	read(filename);
+	read_file(filename);
 }
 
 sotd::Data::~Data() { }
 
-void sotd::Data::read(const std::string &filename)
+void sotd::Data::read_file(const char * filename)
 {
+	std::ifstream is (filename, std::ifstream::in);
+
+	//get file length
+	is.seekg (0,end);
+	int length = is.tellg();
+	is.seekg (, is.beg);
+
+
+	char * buffer = new char [length + 1];
+	buffer[length] = '\0';
+
+	is.read(buffer,length);
+	std::string text (buffer);
+	delete buffer;
+
+	sotd::Data::read_text(text);
+}
+
+void sotd::Data::read_text(const std::string &text)
+{
+	author = sotd::extract(
+			text,
+			sotd::Data::author_start,
+			sotd::Data::author_end
+		);
+
+	std::string works_text = sotd::extract(
+			text,
+			sotd::Data::works_start,
+			sotd::Data::works_end
+		);
+
+	std::vector<std::string> work_text_vector = sotd::split(
+			works_text,
+			sotd::Data::works_sep
+		);
+
+	std::vector<std::string>::iterator it;
+	for (it = work_text_vector.begin(); it != work_text_vector.end(); it++)
+	{
+		works.push_back(sotd::Work(*it));
+	}
 }
 
 const sotd::Work & sotd::Data::getRandomWork() const
 {
-	return works[0];
+	return works[sotd::random(works.length())];
 }

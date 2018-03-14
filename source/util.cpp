@@ -7,6 +7,9 @@
 
 #include <sotd.h>
 
+const std::string sotd::servicemode_option ("-s");
+const std::string sotd::servicemode_path   ("/etc/motd");
+
 std::string sotd::extract(
 		const std::string &str,
 		const std::string &start,
@@ -19,22 +22,22 @@ std::string sotd::extract(
 	//end early if not found
 	//adjust index by $start length
 	i = str.find(start);
-	
+
 	if (i == std::string::npos)
 	{
 		return std::string("");
 	}
-	
+
 	i += start.length();
 
 	//get index of $end and return
 	j = str.find(end,i);
-	
+
 	if (j == std::string::npos)
 	{
 		return str.substr(i, str.length() - i);
 	}
-	
+
 	return str.substr(i,j - i);
 }
 
@@ -104,6 +107,41 @@ std::string sotd::readfile(const char * path)
 	delete buffer;
 
 	return contents;
+}
+
+bool sotd::writefile(const char *path, const char *msg)
+{
+	return writefile(std::string(path),std::string(msg));
+}
+
+bool sotd::writefile(const std::string &path, const char *msg)
+{
+	return writefile(path,std::string(msg));
+}
+
+bool sotd::writefile(const char *path, const std::string &msg)
+{
+	return writefile(std::string(path),msg);
+}
+
+bool sotd::writefile(const std::string &path, const std::string &msg)
+{
+	bool fail = false;
+	std::ofstream outfile;
+	outfile.open(path, std::ios::out | std::ios::trunc);
+
+	if (!outfile.is_open())
+	{
+		fail = true;
+	}
+
+	else
+	{
+		outfile << msg;
+		outfile.close();
+	}
+
+	return fail;
 }
 
 void sotd::log(const char * msg)

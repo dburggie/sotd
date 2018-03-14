@@ -14,6 +14,12 @@
 
 namespace sotd {
 
+	enum runmode { cmdline, service };
+
+	//defined in: util.cpp
+	extern const std::string servicemode_option;
+	extern const std::string servicemode_path;
+
 	//implemented in: util.cpp
 	//get string between $start and $end inside $str
 	std::string extract(
@@ -33,16 +39,24 @@ namespace sotd {
 	//get a random int in [0,max)
 	int random(int max);
 
-	//implemented in util.cpp
+	//implemented in: util.cpp
 	//return file contents as a string
 	std::string readfile(const char * path);
 
-	//implemented in util.cpp
+	//implemented in: util.cpp
+	//write string to file
+	//returns true on fail
+	bool writefile(const char *path, const char *msg);
+	bool writefile(const char *path, const std::string &msg);
+	bool writefile(const std::string &path, const char *msg);
+	bool writefile(const std::string &path, const std::string &msg);
+
+	//implemented in: util.cpp
 	//i think we can remove these now, but it can wait
 	void log(const char * msg);
 	void log(const std::string &msg);
 
-	//implemented in Entry.cpp
+	//implemented in: Entry.cpp
 	class Entry {
 	private:
 		std::string blurb;
@@ -110,6 +124,6 @@ namespace sotd {
 		void read(const std::string &text);
 		const Work & getRandomWork() const;
 	};
-};
+}
 
 #endif

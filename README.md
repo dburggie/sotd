@@ -21,7 +21,6 @@ a systemd service and writes it's output to `/etc/motd` once each day as well.
       With repetition of my Romeo's name.
     
     
-
     $ sotd
     
     CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
@@ -36,7 +35,6 @@ a systemd service and writes it's output to `/etc/motd` once each day as well.
       And throw their power i' the dust.
     
     
-
     $ sotd
     
     GONERIL - The Tragedy of King Lear - Act I, Scene III

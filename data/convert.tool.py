@@ -2,24 +2,20 @@
 import os
 import sys
 
-def findreplace(string, find, replace):
-    segments = string.split(find)
-    acc = segments[0]
-    for segment in segments[1:]:
-        acc += replace + segment
-    return acc
-
 def extract(string, start, end):
     if not start in string:
-        print "extract(): couldn't find '" + start + "' in '" + string + "'"
-        print ""
-        return ""
-    s = string.split(start,1)[1]
+        print("extract(): couldn't find '" + start + "' in '" + string + "'")
+        print("")
+        return "" 
+    i = string.find(start)
+    i += len(start)
+    s = string[i:]
     if not end in s:
-        print "extract(): couldn't find '" + end + "' in '" + s + "' of '" + string + "'"
-        print ""
-        return ""
-    return s.split(end,1)[0]
+        print("extract(): couldn't find '" + end + "' in '" + s + "' of '" + string + "'")
+        print("")
+        return s
+    j = s.find(end)
+    return s[:j]
 
 def pwd(substring = None):
     l = os.listdir(os.getcwd())
@@ -39,7 +35,7 @@ class Data:
     _count_end    = "\n"
     _works_start  = "#BEGIN_WORKS\n"
     _works_sep    = "\n#NEW_WORK\n"
-    _works_end    = "\n#END_WORKS"
+    _works_end    = "\n#END_WORKS\n"
 
     def __init__(self, author):
         self.author = author
@@ -113,9 +109,9 @@ class Entry:
     def verify(self):
         lines = len(self.text.split('\n'))
         if lines != self.length:
-            print "Entry.verify(): length " + str(self.length) + " didn't match line count in:"
-            print self.text
-            print ""
+            print("Entry.verify(): length " + str(self.length) + " didn't match line count in:")
+            print(self.text)
+            print("")
 
     def read_text(self, text):
         self.blurb = extract(text, Entry._blurb_start, Entry._blurb_end)
@@ -130,7 +126,7 @@ class Entry:
         return s
 
 def compile_data(min_length):
-    ofn = "sotd.dat"
+    ofn = "sotd.clean.dat"
 
     files = pwd(".dat")
     if ofn in files:

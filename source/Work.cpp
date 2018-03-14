@@ -50,7 +50,6 @@ void sotd::Work::read(const std::string &input_text)
 	//split work body into entries and collect
 	std::vector<std::string> entry_text_vector
 			= sotd::split(text, sotd::Work::entries_sep);
-01234567890123456789012345678901234567890123456789012345678901234567890123456789
 	for (auto i = entry_text_vector.begin(); 
 	     i != entry_text_vector.end(); 
 	     ++i)

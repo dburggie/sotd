@@ -75,17 +75,23 @@ std::string sotd::readfile(const char * path)
 	char * buffer = new char [length + 1];
 	buffer[length] = '\0';
 
-//	sotd::log("sotd::readfile(): trying to read");
 	is.read(buffer,length);
 
-//	if (is) log("sotd::readfile(): read successful");
-//	else    log("sotd::readfile(): read failed early");
+	std::string contents;
 
-	std::string text = buffer;
+	if (is)
+	{
+		contents = buffer;
+	}
+
+	else
+	{
+		contents = "";
+	}
 
 	delete buffer;
 
-	return text;
+	return contents;
 }
 
 void sotd::log(const char * msg)

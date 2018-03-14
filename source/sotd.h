@@ -4,6 +4,14 @@
 #include <string>	//std::string
 #include <vector>	//std::vector
 
+#ifndef DATA_PATH
+#define DATA_PATH "/usr/share/sotd/sotd.dat"
+#endif
+
+#ifndef DATA_FALLBACK
+#define DATA_FALLBACK "./data/sotd.dat"
+#endif
+
 namespace sotd {
 
 	//get string between $start and $end inside $str

@@ -2,5 +2,5 @@
 Description=sotd
 
 [Service]
-ExecStart=/usr/bin/sotd
+ExecStart=/usr/bin/sotd > /etc/motd
 

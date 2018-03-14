@@ -1,6 +1,4 @@
 
-INSTALL_MACRO_NAME=DATA_PATH
-
 # source directories
 SD = source
 ID = source
@@ -28,11 +26,15 @@ OBJ += ${BD}/Data.o
 OBJ += ${BD}/util.o
 OBJ += ${BD}/main.o
 
+INSTALL_MACRO_NAME=DATA_PATH
+INSTALL_MACRO_FALLBACK=DATA_FALLBACK
+
 # compiler and options
 CDEF = -D${INSTALL_MACRO_NAME}=\"${DID}/${DAT}\"
+CDEF += -D${INSTALL_MACRO_FALLBACK}=\"./${DD}/${DAT}\"
 CFLG = -std=c++11 -Wall
 CINC = -I${ID}
-COPT = ${CFLG} ${CINC}
+COPT = ${CFLG} ${CINC} ${CDEF}
 CC   = g++ ${COPT}
 
 
@@ -47,19 +49,21 @@ install: ${EXE}
 	cp ${SD}/${TMR} ${UID}/${TMR}
 	systemctl enable ${TMR}
 	systemctl start ${TMR}
-	${EXE}
+	${EXE} > /etc/motd
 
 disable:
 	systemctl disable ${TMR}
 	systemctl stop ${TMR}
 
 uninstall:
-	rm -f ${DID}/${DAT}
+	rm --preserve-root -rf ${DID}
 	rm -f ${BID}/${EXE}
 	rm -f ${UID}/${SRV}
 	rm -f ${UID}/${TMR}
-	rmdir ${DID}
 
+clean:
+	rm -f ${OBJ}
+	rm -f ${EXE}
 
 
 # RECIPES
@@ -84,5 +88,5 @@ ${BD}/util.o: ${SD}/util.cpp ${HDR}
 	${CC} -o $@ -c $<
 
 ${BD}/main.o: ${SD}/main.cpp ${HDR}
-	${CC} ${CDEF} -o $@ -c $<
+	${CC} -o $@ -c $<
 

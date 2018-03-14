@@ -26,19 +26,20 @@ OBJ += ${BD}/Data.o
 OBJ += ${BD}/util.o
 OBJ += ${BD}/main.o
 
+# compile-time macros
 INSTALL_MACRO_NAME=DATA_PATH
 INSTALL_MACRO_FALLBACK=DATA_FALLBACK
-
-# compiler and options
 CDEF = -D${INSTALL_MACRO_NAME}=\"${DID}/${DAT}\"
 CDEF += -D${INSTALL_MACRO_FALLBACK}=\"./${DD}/${DAT}\"
+
+# compiler and options
 CFLG = -std=c++11 -Wall
 CINC = -I${ID}
 COPT = ${CFLG} ${CINC} ${CDEF}
 CC   = g++ ${COPT}
 
 
-
+# recipes
 all: ${EXE}
 
 install: ${EXE}
@@ -47,9 +48,11 @@ install: ${EXE}
 	cp ${EXE} ${BID}/
 	cp ${SD}/${SRV} ${UID}/${SRV}
 	cp ${SD}/${TMR} ${UID}/${TMR}
-	systemctl enable ${TMR}
+
+enable:
 	systemctl start ${TMR}
-	${EXE} > /etc/motd
+	systemctl enable ${TMR}
+	sotd > /etc/motd
 
 disable:
 	systemctl disable ${TMR}
@@ -65,15 +68,11 @@ clean:
 	rm -f ${OBJ}
 	rm -f ${EXE}
 
-
-# RECIPES
-
 ${BD}:
 	mkdir -p $@
 
 ${EXE}: ${BD} ${OBJ} ${HDR}
 	${CC} -o $@ ${OBJ}
-
 
 ${BD}/Entry.o: ${SD}/Entry.cpp ${HDR}
 	${CC} -o $@ -c $<
@@ -89,4 +88,3 @@ ${BD}/util.o: ${SD}/util.cpp ${HDR}
 
 ${BD}/main.o: ${SD}/main.cpp ${HDR}
 	${CC} -o $@ -c $<
-

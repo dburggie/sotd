@@ -6,9 +6,9 @@ const std::string sotd::Data::author_start ("#AUTHOR=");
 const std::string sotd::Data::author_end   ("\n");
 const std::string sotd::Data::count_start  ("#WORK_COUNT=");
 const std::string sotd::Data::count_end    ("\n");
-const std::string sotd::Data::works_start  ("#BEGIN_WORKS=\n");
+const std::string sotd::Data::works_start  ("#BEGIN_WORKS\n");
 const std::string sotd::Data::works_sep    ("\n#NEW_WORK\n");
-const std::string sotd::Data::works_end    ("\n#END_WORKS\n");
+const std::string sotd::Data::works_end    ("\n#END_WORKS");
 
 sotd::Data::Data()
 {
@@ -38,6 +38,14 @@ void sotd::Data::read(const std::string &text)
 			sotd::Data::author_start,
 			sotd::Data::author_end
 		);
+
+//	log("sotd::Data::read(): author \'" + author + "\'");
+	std::string count = sotd::extract(
+			text,
+			sotd::Data::count_start,
+			sotd::Data::count_end
+		);
+//	log("sotd::Data::read(): count \'" + count + "\'");
 
 	std::string works_text = sotd::extract(
 			text,

@@ -4,6 +4,7 @@ bld/
 notes/
 tmp/
 
+sotd
 *.log
 *.o
 *.swp

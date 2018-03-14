@@ -17,6 +17,7 @@ namespace sotd {
 
 	std::string readfile(const char * path);
 	void log(const char * msg);
+	void log(const std::string &msg);
 
 	class Entry {
 	private:

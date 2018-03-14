@@ -7,15 +7,27 @@
 
 #include <sotd.h>
 
-std::string sotd::extract(const std::string &str, const std::string &start, const std::string &end) {
+std::string sotd::extract(const std::string &str, const std::string &start, const std::string &end)
+{
 	std::size_t i = 0, j = 0;
 
 	i = str.find(start);
-	if (i == std::string::npos) return std::string("");
+	if (i == std::string::npos)
+	{
+//		log("sotd::extract(): could not find start string");
+//		log(start);
+		return std::string("");
+	}
+
 	i += start.length();
 
-	j = str.find(start,i);
-	if (j == std::string::npos) return str.substr(i, str.length() - i);
+	j = str.find(end,i);
+	if (j == std::string::npos)
+	{
+//		log("sotd::extract(): could not find end string");
+//		log(end);
+		return str.substr(i, str.length() - i);
+	}
 
 	return str.substr(i,j - i);
 }
@@ -63,11 +75,11 @@ std::string sotd::readfile(const char * path)
 	char * buffer = new char [length + 1];
 	buffer[length] = '\0';
 
-	sotd::log("sotd::readfile(): trying to read");
+//	sotd::log("sotd::readfile(): trying to read");
 	is.read(buffer,length);
 
-	if (is) log("sotd::readfile(): read successful");
-	else    log("sotd::readfile(): read failed early");
+//	if (is) log("sotd::readfile(): read successful");
+//	else    log("sotd::readfile(): read failed early");
 
 	std::string text = buffer;
 
@@ -77,6 +89,11 @@ std::string sotd::readfile(const char * path)
 }
 
 void sotd::log(const char * msg)
+{
+	std::cerr << msg << std::endl;
+}
+
+void sotd::log(const std::string &msg)
 {
 	std::cerr << msg << std::endl;
 }

@@ -1,9 +1,6 @@
 #ifndef SOTD_H
 #define SOTD_H
 
-#include <string>	//std::string
-#include <vector>	//std::vector
-
 #ifndef DATA_PATH
 #define DATA_PATH "/usr/share/sotd/sotd.dat"
 #endif
@@ -12,21 +9,40 @@
 #define DATA_FALLBACK "./data/sotd.dat"
 #endif
 
+#include <string>	//std::string
+#include <vector>	//std::vector
+
 namespace sotd {
 
+	//implemented in: util.cpp
 	//get string between $start and $end inside $str
-	std::string extract(const std::string &str, const std::string &start, const std::string &end);
+	std::string extract(
+			const std::string &str,
+			const std::string &start,
+			const std::string &end
+		);
 
+	//implemented in: util.cpp
 	//split string at $sep substrings of $str
-	std::vector<std::string> split(const std::string &str, const std::string &sep);
+	std::vector<std::string> split(
+			const std::string &str,
+			const std::string &sep
+		);
 
-	//get a random int
+	//implemented in: util.cpp
+	//get a random int in [0,max)
 	int random(int max);
 
+	//implemented in util.cpp
+	//return file contents as a string
 	std::string readfile(const char * path);
+
+	//implemented in util.cpp
+	//i think we can remove these now, but it can wait
 	void log(const char * msg);
 	void log(const std::string &msg);
 
+	//implemented in Entry.cpp
 	class Entry {
 	private:
 		std::string blurb;
@@ -46,9 +62,12 @@ namespace sotd {
 		Entry(const std::string &input_text);
 		~Entry();
 		void read(const std::string &input_text);
+
+		//returns entry formatted for final displaying
 		std::string toString() const;
 	};
 
+	//implemented in: Work.cpp
 	class Work {
 	private:
 		std::string title;
@@ -70,6 +89,7 @@ namespace sotd {
 		const Entry & getRandomEntry() const;
 	};
 
+	//implemented in: Data.cpp
 	class Data {
 	private:
 		std::string author;

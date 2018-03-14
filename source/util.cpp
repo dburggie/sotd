@@ -7,32 +7,42 @@
 
 #include <sotd.h>
 
-std::string sotd::extract(const std::string &str, const std::string &start, const std::string &end)
+std::string sotd::extract(
+		const std::string &str,
+		const std::string &start,
+		const std::string &end
+	)
 {
 	std::size_t i = 0, j = 0;
 
+	//get index of %start
+	//end early if not found
+	//adjust index by $start length
 	i = str.find(start);
+	
 	if (i == std::string::npos)
 	{
-//		log("sotd::extract(): could not find start string");
-//		log(start);
 		return std::string("");
 	}
-
+	
 	i += start.length();
 
+	//get index of $end and return
 	j = str.find(end,i);
+	
 	if (j == std::string::npos)
 	{
-//		log("sotd::extract(): could not find end string");
-//		log(end);
 		return str.substr(i, str.length() - i);
 	}
-
+	
 	return str.substr(i,j - i);
 }
 
-std::vector<std::string> sotd::split(const std::string &str, const std::string &sep) {
+std::vector<std::string> sotd::split(
+		const std::string &str,
+		const std::string &sep
+	)
+{
 	std::vector<std::string> v;
 	std::size_t i = 0, j = str.find(sep), l = sep.length();
 
@@ -49,7 +59,6 @@ std::vector<std::string> sotd::split(const std::string &str, const std::string &
 }
 
 static bool random_initialized = false;
-
 static void init_random()
 {
 	std::srand(std::time(NULL));
@@ -72,9 +81,11 @@ std::string sotd::readfile(const char * path)
 	unsigned long int length = is.tellg();
 	is.seekg(0, is.beg);
 
+	//allocate buffer and just-in-case null-terminate
 	char * buffer = new char [length + 1];
 	buffer[length] = '\0';
 
+	//do read and make sure we read the whole file
 	is.read(buffer,length);
 
 	std::string contents;
@@ -89,6 +100,7 @@ std::string sotd::readfile(const char * path)
 		contents = "";
 	}
 
+	//cleanup and return
 	delete buffer;
 
 	return contents;

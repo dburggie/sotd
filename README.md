@@ -9,6 +9,8 @@ a systemd service and writes it's output to `/etc/motd` once each day as well.
 
 ## Examples
 
+    $ sotd
+    
     JULIET - The Tragedy of Romeo and Juliet - Act II, Scene II
     
       Hist! Romeo, hist! O, for a falconer's voice,
@@ -18,6 +20,9 @@ a systemd service and writes it's output to `/etc/motd` once each day as well.
       And make her airy tongue more hoarse than mine,
       With repetition of my Romeo's name.
     
+    
+
+    $ sotd
     
     CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
      
@@ -30,6 +35,9 @@ a systemd service and writes it's output to `/etc/motd` once each day as well.
       Let what is meet be said it must be meet,
       And throw their power i' the dust.
     
+    
+
+    $ sotd
     
     GONERIL - The Tragedy of King Lear - Act I, Scene III
     

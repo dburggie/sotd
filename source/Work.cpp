@@ -33,12 +33,27 @@ sotd::Work::~Work() { }
 
 void sotd::Work::read(const std::string &input_text)
 {
-	title = sotd::extract(input_text, sotd::Work::title_start, sotd::Work::title_end);
+	//get work title
+	title = sotd::extract(
+			input_text,
+			sotd::Work::title_start,
+			sotd::Work::title_end
+		);
 
-	std::string text = sotd::extract(input_text, sotd::Work::entries_start, sotd::Work::entries_end);
-	std::vector<std::string> entry_text_vector = sotd::split(text, sotd::Work::entries_sep);
-
-	for (auto i = entry_text_vector.begin(); i != entry_text_vector.end(); ++i)
+	//get work body
+	std::string text = sotd::extract(
+			input_text,
+			sotd::Work::entries_start,
+			sotd::Work::entries_end
+		);
+	
+	//split work body into entries and collect
+	std::vector<std::string> entry_text_vector
+			= sotd::split(text, sotd::Work::entries_sep);
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+	for (auto i = entry_text_vector.begin(); 
+	     i != entry_text_vector.end(); 
+	     ++i)
 	{
 		entries.push_back(sotd::Entry(*i));
 	}

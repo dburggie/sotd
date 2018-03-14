@@ -59,7 +59,6 @@ class Data:
         return s
 
 class Work:
-
     _title_start   = "#WORK_TITLE="
     _title_end     = "\n"
     _count_start   = "#ENTRY_COUNT="
@@ -130,57 +129,6 @@ class Entry:
         s += Entry._text_start + self.text + Entry._text_end
         return s
 
-def indent():
-    files = pwd(".dat")
-    for fn in files:
-        if ".clean" in fn:
-            continue
-
-        f = open(fn,'r')
-        text = f.read()
-        f.close()
-
-        lines = text.split("\n")
-        i = 0
-        on = False
-        while i < len(lines):
-            if "END_ENTRY_TEXT" in lines[i]:
-                on = False
-            if on:
-                lines[i] = "  " + lines[i]
-            if "BEGIN_ENTRY_TEXT" in lines[i]:
-                on = True
-            i += 1
-        text = '\n'.join(lines)
-
-        ofn = findreplace(fn, '.dat', '.clean.dat')
-        f = open(ofn, 'w')
-        f.write(text)
-        f.close()
-
-def translate():
-    files = pwd(".dat")
-    for fn in files:
-        if ".clean" in fn:
-            continue
-
-        f = open(fn,'r')
-        text = f.read()
-        f.close()
-
-        text = findreplace(text, "TITLE={", "#WORK_TITLE=")
-        text = findreplace(text, "}\nCOUNT={", "\n#ENTRY_COUNT=")
-        text = findreplace(text, "}\nENTRIES=", "\n#BEGIN_ENTRIES")
-        text = findreplace(text, "{\nBLURB={", "\n#ENTRY_BLURB=")
-        text = findreplace(text, "}\nBLURB={","#END_ENTRY_TEXT\n#NEW_ENTRY\n#ENTRY_BLURB=")
-        text = findreplace(text, "}\nLENGTH={","\n#ENTRY_LENGTH=")
-        text = findreplace(text, "}\nTEXT={","\n#BEGIN_ENTRY_TEXT")
-        text = findreplace(text, "\n}\n}", "\n#END_ENTRY_TEXT\n#END_ENTRIES")
-
-        f = open(fn,'w')
-        f.write(text)
-        f.close()
-
 def compile_data(min_length):
     ofn = "sotd.dat"
 
@@ -189,7 +137,7 @@ def compile_data(min_length):
         files.remove(ofn)
 
     data = Data("William Shakespeare")
-    data.read_files(files)
+    data.read_files(files, min_length)
     text = str(data)
 
     f = open(ofn, 'w')
@@ -198,12 +146,7 @@ def compile_data(min_length):
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        if sys.argv[1] == "translate":
-            translate()
-        elif sys.argv[1] == "compile":
-            if len(sys.argv) > 2:
-                min_length = int(sys.argv[2])
-            else:
-                min_length = 6
-            compile_data(6)
+        compile_data(int(sys.argv[2]))
+    else:
+        compile_data(6)
 

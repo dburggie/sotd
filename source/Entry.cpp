@@ -2,11 +2,6 @@
 #include <vector>    //std::vector
 #include <sotd.h>    //sotd::Entry,split,extract
 
-static const char * toString_start  = "\n";
-static const char * toString_sep    = "\n";
-static const char * toString_indent = "\n  ";
-static const char * toString_end    = "\n\n";
-
 const std::string sotd::Entry::blurb_start  ("#ENTRY_BLURB=");
 const std::string sotd::Entry::blurb_end    ("\n");
 const std::string sotd::Entry::length_start ("#ENTRY_LENGTH=");
@@ -36,14 +31,33 @@ sotd::Entry::~Entry() { }
 
 void sotd::Entry::read(const std::string &input_text)
 {
-	blurb = sotd::extract(input_text, sotd::Entry::blurb_start, sotd::Entry::blurb_end);
-	length = sotd::extract(input_text, sotd::Entry::length_start, sotd::Entry::length_end);
-	std::string text = sotd::extract(input_text, sotd::Entry::text_start, sotd::Entry::text_end);
+	//get entry's blurb
+	blurb = sotd::extract(
+			input_text,
+			sotd::Entry::blurb_start,
+			sotd::Entry::blurb_end
+		);
+	
+	//get entry's line count
+	length = sotd::extract(
+			input_text,
+			sotd::Entry::length_start,
+			sotd::Entry::length_end
+		);
+	
+	//get entry text, then split into lines
+	std::string text = sotd::extract(
+			input_text,
+			sotd::Entry::text_start,
+			sotd::Entry::text_end
+		);
 	lines = sotd::split(text, "\n");
-
-	int a = std::stoi(length), b = lines.size();
-	if (a != b) log("sotd::Entry::read(): length mismatch");
 }
+
+static const char * toString_start  = "\n";
+static const char * toString_sep    = "\n";
+static const char * toString_indent = "\n  ";
+static const char * toString_end    = "\n\n";
 
 std::string sotd::Entry::toString() const
 {

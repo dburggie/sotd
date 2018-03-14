@@ -52,7 +52,7 @@ install: ${EXE}
 enable:
 	systemctl start ${TMR}
 	systemctl enable ${TMR}
-	sotd > /etc/motd
+	sotd -s
 
 disable:
 	systemctl disable ${TMR}

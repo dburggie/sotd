@@ -2,61 +2,6 @@
 import os
 import sys
 
-def cut(text, substrings):
-    clean = text
-    for substring in substrings:
-        clean = findreplace(clean, substring, "")
-    return clean
-
-def endswith(string, target):
-    if string.rfind(target) + len(target) < len(string):
-        return False
-    else:
-        return True
-
-def precede(string, target, prefix):
-    segments = string.split(target)
-    acc = segments[0]
-    for segment in segments[1:]:
-        if not endswith(acc,prefix):
-            acc += prefix
-        acc += target + segment
-    return acc
-
-def remove_empty_lines(string):
-    segments = string.split('\n')
-    acc = []
-    for s in segments:
-        if len(s) > 0:
-            acc.append(s)
-    return '\n'.join(acc)
-
-def cleanlines(string):
-    lines = string.split("\n")
-    stripped = []
-    for line in lines:
-        stripped.append(line.lstrip().rstrip())
-    non_empty = []
-    for line in stripped:
-        if len(line) > 0:
-            non_empty.append(line)
-    return '\n'.join(non_empty)
-
-def snip(string, start, end):
-    segments = string.split(start)
-    if len(segments) == 1:
-        return string
-    acc = segments[0]
-    for segment in segments[1:]:
-        split = segment.split(end,1)
-        if len(split) == 1:
-            acc += start + segment
-            print 'ERROR: snip() found start="' + start + '" but not end="'+ end + '"'
-            continue
-        else:
-            acc += split[1]
-    return acc
-
 def findreplace(string, find, replace):
     segments = string.split(find)
     acc = segments[0]
@@ -75,7 +20,6 @@ def extract(string, start, end):
         print ""
         return ""
     return s.split(end,1)[0]
-
 
 def pwd(substring = None):
     l = os.listdir(os.getcwd())
@@ -186,8 +130,6 @@ class Entry:
         s += Entry._text_start + self.text + Entry._text_end
         return s
 
-
-
 def indent():
     files = pwd(".dat")
     for fn in files:
@@ -253,7 +195,6 @@ def compile_data(min_length):
     f = open(ofn, 'w')
     f.write(text)
     f.close()
-
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:

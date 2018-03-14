@@ -33,31 +33,34 @@ sotd::Data::~Data() { }
 
 void sotd::Data::read(const std::string &text)
 {
+	//get author's name
 	author = sotd::extract(
 			text,
 			sotd::Data::author_start,
 			sotd::Data::author_end
 		);
 
-//	log("sotd::Data::read(): author \'" + author + "\'");
+	//get the number of works for this author
 	std::string count = sotd::extract(
 			text,
 			sotd::Data::count_start,
 			sotd::Data::count_end
 		);
-//	log("sotd::Data::read(): count \'" + count + "\'");
 
+	//get text of all the works for this author
 	std::string works_text = sotd::extract(
 			text,
 			sotd::Data::works_start,
 			sotd::Data::works_end
 		);
 
+	//separate text body into separate work strings
 	std::vector<std::string> work_text_vector = sotd::split(
 			works_text,
 			sotd::Data::works_sep
 		);
 
+	//translate strings to work objects and collect them
 	for (auto it = work_text_vector.begin(); it != work_text_vector.end(); ++it)
 	{
 		works.push_back(sotd::Work(*it));

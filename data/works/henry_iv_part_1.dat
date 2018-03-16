@@ -979,7 +979,7 @@ Therefore, I say--
 #ENTRY_BLURB=EARL OF WORCESTER - The First Part of Henry the Fourth - Act I, Scene III
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  Peace, cousin, say no more:
+Peace, cousin, say no more:
 And now I will unclasp a secret book,
 And to your quick-conceiving discontents
 I'll read you matter deep and dangerous,
@@ -1035,7 +1035,7 @@ I cry you mercy.
 #ENTRY_BLURB=EARL OF WORCESTER - The First Part of Henry the Fourth - Act I, Scene III
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  Those same noble Scots
+Those same noble Scots
 That are your prisoners,--
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1269,7 +1269,7 @@ yet our horse not packed. What, ostler!
 #ENTRY_BLURB=Ostler - The First Part of Henry the Fourth - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]   Anon, anon.
+[Within] Anon, anon.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Carrier - The First Part of Henry the Fourth - Act II, Scene I
@@ -1404,7 +1404,7 @@ What, ho! chamberlain!
 #ENTRY_BLURB=Chamberlain - The First Part of Henry the Fourth - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  At hand, quoth pick-purse.
+[Within] At hand, quoth pick-purse.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GADSHILL - The First Part of Henry the Fourth - Act II, Scene I
@@ -1803,7 +1803,7 @@ Stand close; I hear them coming.
 #ENTRY_BLURB=FALSTAFF - The First Part of Henry the Fourth - Act II, Scene II
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-Come, my masters, let us share, and then to  horse
+Come, my masters, let us share, and then to horse
 before day. An the Prince and Poins be not two
 arrant cowards, there's no equity stirring: there's
 no more valour in that Poins than in a wild-duck.
@@ -1857,7 +1857,7 @@ have named uncertain; the time itself unsorted; and
 your whole plot too light for the counterpoise of so
 great an opposition.' Say you so, say you so? I say
 unto you again, you are a shallow cowardly hind, and
-you lie.  What a lack-brain is this! By the Lord,
+you lie. What a lack-brain is this! By the Lord,
 our plot is a good plot as ever was laid; our
 friends true and constant: a good plot, good
 friends, and full of expectation; an excellent plot,
@@ -1954,7 +1954,7 @@ It is, my lord.
 #ENTRY_BLURB=HOTSPUR - The First Part of Henry the Fourth - Act II, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  That roan shall by my throne.
+That roan shall by my throne.
 Well, I will back him straight: O esperance!
 Bid Butler lead him forth into the park.
 #END_ENTRY_TEXT
@@ -2100,7 +2100,7 @@ good boy, by the Lord, so they call me, and when I
 am king of England, I shall command all the good
 lads in Eastcheap. They call drinking deep, dyeing
 scarlet; and when you breathe in your watering, they
-cry  'hem!' and bid you play it off. To conclude, I
+cry 'hem!' and bid you play it off. To conclude, I
 am so good a proficient in one quarter of an hour,
 that I can drink with any tinker in his own language
 during my life. I tell thee, Ned, thou hast lost
@@ -2171,7 +2171,7 @@ Forsooth, five years, and as much as to--
 #ENTRY_BLURB=POINS - The First Part of Henry the Fourth - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Francis!
+[Within] Francis!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FRANCIS - The First Part of Henry the Fourth - Act II, Scene IV
@@ -2199,7 +2199,7 @@ England, I could find in my heart.
 #ENTRY_BLURB=POINS - The First Part of Henry the Fourth - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Francis!
+[Within] Francis!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FRANCIS - The First Part of Henry the Fourth - Act II, Scene IV
@@ -2223,7 +2223,7 @@ Let me see--about Michaelmas next I shall be--
 #ENTRY_BLURB=POINS - The First Part of Henry the Fourth - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Francis!
+[Within] Francis!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FRANCIS - The First Part of Henry the Fourth - Act II, Scene IV
@@ -2255,7 +2255,7 @@ when thou wilt, and thou shalt have it.
 #ENTRY_BLURB=POINS - The First Part of Henry the Fourth - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Francis!
+[Within] Francis!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FRANCIS - The First Part of Henry the Fourth - Act II, Scene IV
@@ -2309,7 +2309,7 @@ What, sir?
 #ENTRY_BLURB=POINS - The First Part of Henry the Fourth - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Francis!
+[Within] Francis!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PRINCE HENRY - The First Part of Henry the Fourth - Act II, Scene IV
@@ -3482,7 +3482,7 @@ A gross fat man.
 #ENTRY_BLURB=Carrier - The First Part of Henry the Fourth - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  As fat as butter.
+As fat as butter.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PRINCE HENRY - The First Part of Henry the Fourth - Act II, Scene IV
@@ -3565,11 +3565,11 @@ Let's see what they be: read them.
 #ENTRY_BLURB=PETO - The First Part of Henry the Fourth - Act II, Scene IV
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Reads]  Item, A capon,. . 2s. 2d.
+[Reads] Item, A capon,. . 2s. 2d.
 Item, Sauce,. . . 4d.
 Item, Sack, two gallons, 5s. 8d.
 Item, Anchovies and sack after supper, 2s. 6d.
-Item, Bread,        ob.
+Item, Bread, ob.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PRINCE HENRY - The First Part of Henry the Fourth - Act II, Scene IV
@@ -3681,7 +3681,7 @@ In passion shook.
 #ENTRY_BLURB=GLENDOWER - The First Part of Henry the Fourth - Act III, Scene I
 #ENTRY_LENGTH=15
 #BEGIN_ENTRY_TEXT
-                  Cousin, of many men
+Cousin, of many men
 I do not bear these crossings. Give me leave
 To tell you once again that at my birth
 The front of heaven was full of fiery shapes,
@@ -4349,7 +4349,7 @@ Be more myself.
 #ENTRY_BLURB=KING HENRY IV - The First Part of Henry the Fourth - Act III, Scene II
 #ENTRY_LENGTH=36
 #BEGIN_ENTRY_TEXT
-                  For all the world
+For all the world
 As thou art to this hour was Richard then
 When I from France set foot at Ravenspurgh,
 And even as I was then is Percy now.
@@ -5247,7 +5247,7 @@ And bid it pass?
 #ENTRY_BLURB=VERNON - The First Part of Henry the Fourth - Act IV, Scene I
 #ENTRY_LENGTH=14
 #BEGIN_ENTRY_TEXT
-                  All furnish'd, all in arms;
+All furnish'd, all in arms;
 All plumed like estridges that with the wind
 Baited like eagles having lately bathed;
 Glittering in golden coats, like images;
@@ -5556,7 +5556,7 @@ So do we.
 #ENTRY_BLURB=HOTSPUR - The First Part of Henry the Fourth - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-        His is certain, ours is doubtful.
+His is certain, ours is doubtful.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EARL OF WORCESTER - The First Part of Henry the Fourth - Act IV, Scene III
@@ -5574,7 +5574,7 @@ Do not, my lord.
 #ENTRY_BLURB=EARL OF DOUGLAS - The First Part of Henry the Fourth - Act IV, Scene III
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  You do not counsel well:
+You do not counsel well:
 You speak it out of fear and cold heart.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5593,7 +5593,7 @@ Which of us fears.
 #ENTRY_BLURB=EARL OF DOUGLAS - The First Part of Henry the Fourth - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Yea, or to-night.
+Yea, or to-night.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=VERNON - The First Part of Henry the Fourth - Act IV, Scene III
@@ -6068,7 +6068,7 @@ Say thy prayers, and farewell.
 #ENTRY_BLURB=FALSTAFF - The First Part of Henry the Fourth - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-I  would 'twere bed-time, Hal, and all well.
+I would 'twere bed-time, Hal, and all well.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PRINCE HENRY - The First Part of Henry the Fourth - Act V, Scene I
@@ -6315,7 +6315,7 @@ Upon my head?
 #ENTRY_BLURB=EARL OF DOUGLAS - The First Part of Henry the Fourth - Act V, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Know then, my name is Douglas;
+Know then, my name is Douglas;
 And I do haunt thee in the battle thus
 Because some tell me that thou art a king.
 #END_ENTRY_TEXT
@@ -6593,7 +6593,7 @@ Never to hold it up again! the spirits
 Of valiant Shirley, Stafford, Blunt, are in my arms:
 It is the Prince of Wales that threatens thee;
 Who never promiseth but he means to pay.
-Cheerly, my lord	how fares your grace?
+Cheerly, my lord: how fares your grace?
 Sir Nicholas Gawsey hath for succor sent,
 And so hath Clifton: I'll to Clifton straight.
 #END_ENTRY_TEXT
@@ -6732,7 +6732,7 @@ Till then in blood by noble Percy lie.
 #ENTRY_BLURB=FALSTAFF - The First Part of Henry the Fourth - Act V, Scene IV
 #ENTRY_LENGTH=20
 #BEGIN_ENTRY_TEXT
-[Rising up]  Embowelled! if thou embowel me to-day,
+[Rising up] Embowelled! if thou embowel me to-day,
 I'll give you leave to powder me and eat me too
 to-morrow. 'Sblood,'twas time to counterfeit, or
 that hot termagant Scot had paid me scot and lot too.
@@ -6764,7 +6764,7 @@ Thy maiden sword.
 #ENTRY_BLURB=LANCASTER - The First Part of Henry the Fourth - Act V, Scene IV
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  But, soft! whom have we here?
+But, soft! whom have we here?
 Did you not tell me this fat man was dead?
 #END_ENTRY_TEXT
 #NEW_ENTRY

@@ -544,7 +544,7 @@ Prince for striking him about Bardolph.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Wait, close; I will not see him.
 #END_ENTRY_TEXT
@@ -556,7 +556,7 @@ What's he that goes there?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Servant - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Falstaff, an't please your lordship.
 #END_ENTRY_TEXT
@@ -568,7 +568,7 @@ He that was in question for the robbery?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Servant - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
 He, my lord: but he hath since done good service at
 Shrewsbury; and, as I hear, is now going with some
@@ -594,7 +594,7 @@ Boy, tell him I am deaf.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Page - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 You must speak louder; my master is deaf.
 #END_ENTRY_TEXT
@@ -657,7 +657,7 @@ hanged. You hunt counter: hence! avaunt!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Servant - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Sir, my lord would speak with you.
 #END_ENTRY_TEXT
@@ -669,7 +669,7 @@ Sir John Falstaff, a word with you.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=10
+#ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
 My good lord! God give your lordship good time of
 day. I am glad to see your lordship abroad: I heard
@@ -682,14 +682,14 @@ of your health.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LORD CHIEF-JUSTICE - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=1
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-Sir John, I sent for you before your expedition to
-Shrewsbury.
+Sir John, I sent for you before your expedition
+to Shrewsbury.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 An't please your lordship, I hear his majesty is
 returned with some discomfort from Wales.
@@ -703,7 +703,7 @@ I sent for you.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 And I hear, moreover, his highness is fallen into
 this same whoreson apoplexy.
@@ -716,7 +716,7 @@ Well, God mend him! I pray you, let me speak with you.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
 This apoplexy is, as I take it, a kind of lethargy,
 an't please your lordship; a kind of sleeping in the
@@ -730,7 +730,7 @@ What tell you me of it? be it as it is.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
 It hath its original from much grief, from study and
 perturbation of the brain: I have read the cause of
@@ -745,7 +745,7 @@ hear not what I say to you.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=6
+#ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
 Very well, my lord, very well: rather, an't please
 you, it is the disease of not listening, the malady
@@ -761,7 +761,7 @@ become your physician.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=8
+#ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
 I am as poor as Job, my lord, but not so patient:
 your lordship may minister the potion of
@@ -779,7 +779,7 @@ for your life, to come speak with me.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 As I was then advised by my learned counsel in the
 laws of this land-service, I did not come.
@@ -792,7 +792,7 @@ Well, the truth is, Sir John, you live in great infamy.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 He that buckles him in my belt cannot live in less.
 #END_ENTRY_TEXT
@@ -804,7 +804,7 @@ Your means are very slender, and your waste is great.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 I would it were otherwise; I would my means were
 greater, and my waist slenderer.
@@ -817,7 +817,7 @@ You have misled the youthful prince.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=7
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 The young prince hath misled me: I am the fellow
 with the great belly, and he my dog.
@@ -834,7 +834,7 @@ that action.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 My lord?
 #END_ENTRY_TEXT
@@ -847,7 +847,7 @@ sleeping wolf.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 To wake a wolf is as bad as to smell a fox.
 #END_ENTRY_TEXT
@@ -859,7 +859,7 @@ What! you are as a candle, the better part burnt out.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 A wassail candle, my lord, all tallow: if I did say
 of wax, my growth would approve the truth.
@@ -873,7 +873,7 @@ have his effect of gravity.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 His effect of gravy, gravy, gravy.
 #END_ENTRY_TEXT
@@ -886,7 +886,7 @@ ill angel.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=22
+#ENTRY_LENGTH=14
 #BEGIN_ENTRY_TEXT
 Not so, my lord; your ill angel is light; but I hope
 he that looks upon me will take me without weighing:
@@ -918,7 +918,7 @@ will you yet call yourself young? Fie, fie, fie, Sir John!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=14
+#ENTRY_LENGTH=13
 #BEGIN_ENTRY_TEXT
 My lord, I was born about three of the clock in the
 afternoon, with a white head and something a round
@@ -942,7 +942,7 @@ Well, God send the prince a better companion!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=6
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 God send the companion a better prince! I cannot
 rid my hands of him.
@@ -958,7 +958,7 @@ Northumberland.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=18
+#ENTRY_LENGTH=16
 #BEGIN_ENTRY_TEXT
 Yea; I thank your pretty sweet wit for it. But look
 you pray, all you that kiss my lady Peace at home,
@@ -986,7 +986,7 @@ expedition!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act I, Scene II
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 Will your lordship lend me a thousand pound to
 furnish me forth?
@@ -1419,7 +1419,7 @@ thou hemp-seed!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 Away, you scullion! you rampallion! You
 fustilarian! I'll tickle your catastrophe.
@@ -1432,7 +1432,7 @@ What is the matter? keep the peace here, ho!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=MISTRESS QUICKLY - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Good my lord, be good to me. I beseech you, stand to me.
 #END_ENTRY_TEXT
@@ -1447,7 +1447,7 @@ Stand from him, fellow: wherefore hang'st upon him?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=MISTRESS QUICKLY - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 O most worshipful lord, an't please your grace, I am
 a poor widow of Eastcheap, and he is arrested at my suit.
@@ -1470,7 +1470,7 @@ will ride thee o' nights like the mare.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=6
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 I think I am as like to ride the mare, if I have
 any vantage of ground to get up.
@@ -1517,7 +1517,7 @@ book-oath: deny it, if thou canst.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=13
+#ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
 My lord, this is a poor mad soul; and she says up
 and down the town that the eldest son is like you:
@@ -1540,7 +1540,7 @@ serve your uses both in purse and in person.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=MISTRESS QUICKLY - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Yea, in truth, my lord.
 #END_ENTRY_TEXT
@@ -1555,7 +1555,7 @@ current repentance.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=10
+#ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
 My lord, I will not undergo this sneap without
 reply. You call honourable boldness impudent
@@ -1575,7 +1575,7 @@ poor woman.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Come hither, hostess.
 #END_ENTRY_TEXT
@@ -1670,7 +1670,7 @@ Will you have Doll Tearsheet meet you at supper?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 No more words; let's have her.
 #END_ENTRY_TEXT
@@ -1682,7 +1682,7 @@ I have heard better news.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 What's the news, my lord?
 #END_ENTRY_TEXT
@@ -1700,7 +1700,7 @@ At Basingstoke, my lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 I hope, my lord, all's well: what is the news, my lord?
 #END_ENTRY_TEXT
@@ -1720,7 +1720,7 @@ Against Northumberland and the Archbishop.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Comes the king back from Wales, my noble lord?
 #END_ENTRY_TEXT
@@ -1733,7 +1733,7 @@ Come, go along with me, good Master Gower.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 My lord!
 #END_ENTRY_TEXT
@@ -1751,7 +1751,7 @@ Master Gower, shall I entreat you with me to dinner?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GOWER - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 I must wait upon my good lord here; I thank you,
 good Sir John.
@@ -1765,7 +1765,7 @@ take soldiers up in counties as you go.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Will you sup with me, Master Gower?
 #END_ENTRY_TEXT
@@ -1777,7 +1777,7 @@ What foolish master taught you these manners, Sir John?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act II, Scene I
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
 Master Gower, if they become me not, he was a fool
 that taught them me. This is the right fencing
@@ -6588,7 +6588,7 @@ I hope, not dead.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=WARWICK - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 He's walk'd the way of nature;
 And to our purposes he lives no more.
@@ -6603,7 +6603,7 @@ Hath left me open to all injuries.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=WARWICK - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Indeed I think the young king loves you not.
 #END_ENTRY_TEXT
@@ -6618,7 +6618,7 @@ Than I have drawn it in my fantasy.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=WARWICK - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=6
+#ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
 Here come the heavy issue of dead Harry:
 O that the living Harry had the temper
@@ -6659,7 +6659,7 @@ Is all too heavy to admit much talk.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LANCASTER - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Well, peace be with him that hath made us heavy.
 #END_ENTRY_TEXT
@@ -6687,7 +6687,7 @@ I am the sorrier; would 'twere otherwise.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CLARENCE - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=9
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 Well, you must now speak Sir John Falstaff fair;
 Which swims against your stream of quality.
@@ -6706,7 +6706,7 @@ And tell him who hath sent me after him.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=WARWICK - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Here comes the prince.
 #END_ENTRY_TEXT
@@ -6747,7 +6747,7 @@ We hope no other from your majesty.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING HENRY V - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 You all look strangely on me: and you most;
 You are, I think, assured I love you not.
@@ -6761,7 +6761,7 @@ Your majesty hath no just cause to hate me.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING HENRY V - The Second Part of Henry the Fourth - Act V, Scene II
-#ENTRY_LENGTH=35
+#ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
 No!
 How might a prince of my great hopes forget
@@ -7548,7 +7548,7 @@ God save thee, my sweet boy!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING HENRY IV - The Second Part of Henry the Fourth - Act V, Scene V
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 My lord chief-justice, speak to that vain man.
 #END_ENTRY_TEXT
@@ -7641,7 +7641,7 @@ A colour that I fear you will die in, Sir John.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act V, Scene V
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
 Fear no colours: go with me to dinner: come,
 Lieutenant Pistol; come, Bardolph: I shall be sent
@@ -7656,7 +7656,7 @@ Take all his company along with him.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=FALSTAFF - The Second Part of Henry the Fourth - Act V, Scene V
-#ENTRY_LENGTH=3
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 My lord, my lord,--
 #END_ENTRY_TEXT
@@ -7675,7 +7675,7 @@ Si fortune me tormenta, spero contenta.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LANCASTER - The Second Part of Henry the Fourth - Act V, Scene V
-#ENTRY_LENGTH=6
+#ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
 I like this fair proceeding of the king's:
 He hath intent his wonted followers
@@ -7691,7 +7691,7 @@ And so they are.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LANCASTER - The Second Part of Henry the Fourth - Act V, Scene V
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 The king hath call'd his parliament, my lord.
 #END_ENTRY_TEXT

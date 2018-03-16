@@ -60,7 +60,7 @@ Lords, with one cheerful voice welcome my love.
 #ENTRY_BLURB=ALL - The Second Part of Henry the Sixth - Act I, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Kneeling]  Long live Queen Margaret, England's
+[Kneeling] Long live Queen Margaret, England's
 happiness!
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -82,7 +82,7 @@ For eighteen months concluded by consent.
 #ENTRY_BLURB=GLOUCESTER - The Second Part of Henry the Sixth - Act I, Scene I
 #ENTRY_LENGTH=9
 #BEGIN_ENTRY_TEXT
-[Reads]  'Imprimis, it is agreed between the French
+[Reads] 'Imprimis, it is agreed between the French
 king Charles, and William de la Pole, Marquess of
 Suffolk, ambassador for Henry King of England, that
 the said Henry shall espouse the Lady Margaret,
@@ -102,7 +102,7 @@ Uncle, how now!
 #ENTRY_BLURB=GLOUCESTER - The Second Part of Henry the Sixth - Act I, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-       Pardon me, gracious lord;
+Pardon me, gracious lord;
 Some sudden qualm hath struck me at the heart
 And dimm'd mine eyes, that I can read no further.
 #END_ENTRY_TEXT
@@ -116,7 +116,7 @@ Uncle of Winchester, I pray, read on.
 #ENTRY_BLURB=CARDINAL - The Second Part of Henry the Sixth - Act I, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Reads]  'Item, It is further agreed between them,
+[Reads] 'Item, It is further agreed between them,
 that the duchies of Anjou and Maine shall be
 released and delivered over to the king her father,
 and she sent over of the King of England's own
@@ -356,7 +356,7 @@ And common profit of his country!
 #ENTRY_BLURB=YORK - The Second Part of Henry the Sixth - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  And so says York, for he hath greatest cause.
+[Aside] And so says York, for he hath greatest cause.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SALISBURY - The Second Part of Henry the Sixth - Act I, Scene I
@@ -668,7 +668,7 @@ protector.
 #ENTRY_BLURB=QUEEN MARGARET - The Second Part of Henry the Sixth - Act I, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Reading]  'To my Lord Protector!' Are your
+[Reading] 'To my Lord Protector!' Are your
 supplications to his lordship? Let me see them:
 what is thine?
 #END_ENTRY_TEXT
@@ -699,7 +699,7 @@ Alas, sir, I am but a poor petitioner of our whole township.
 #ENTRY_BLURB=PETER - The Second Part of Henry the Sixth - Act I, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Giving his petition]  Against my master, Thomas
+[Giving his petition] Against my master, Thomas
 Horner, for saying that the Duke of York was rightful
 heir to the crown.
 #END_ENTRY_TEXT
@@ -1454,7 +1454,7 @@ As who, my lord?
 #ENTRY_BLURB=SUFFOLK - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-       Why, as you, my lord,
+Why, as you, my lord,
 An't like your lordly lord-protectorship.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1488,20 +1488,20 @@ Against this proud protector, with my sword!
 #ENTRY_BLURB=GLOUCESTER - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside to CARDINAL]  Faith, holy uncle, would
+[Aside to CARDINAL] Faith, holy uncle, would
 'twere come to that!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CARDINAL - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside to GLOUCESTER]  Marry, when thou darest.
+[Aside to GLOUCESTER] Marry, when thou darest.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside to CARDINAL]  Make up no factious
+[Aside to CARDINAL] Make up no factious
 numbers for the matter;
 In thine own person answer thy abuse.
 #END_ENTRY_TEXT
@@ -1509,7 +1509,7 @@ In thine own person answer thy abuse.
 #ENTRY_BLURB=CARDINAL - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside to GLOUCESTER]  Ay, where thou darest
+[Aside to GLOUCESTER] Ay, where thou darest
 not peep: an if thou darest,
 This evening, on the east side of the grove.
 #END_ENTRY_TEXT
@@ -1523,7 +1523,7 @@ How now, my lords!
 #ENTRY_BLURB=CARDINAL - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-       Believe me, cousin Gloucester,
+Believe me, cousin Gloucester,
 Had not your man put up the fowl so suddenly,
 We had had more sport.
 Come with thy two-hand sword.
@@ -1538,14 +1538,14 @@ True, uncle.
 #ENTRY_BLURB=CARDINAL - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside to GLOUCESTER]  Are ye advised? the
+[Aside to GLOUCESTER] Are ye advised? the
 east side of the grove?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside to CARDINAL]  Cardinal, I am with you.
+[Aside to CARDINAL] Cardinal, I am with you.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING HENRY VI - The Second Part of Henry the Sixth - Act II, Scene I
@@ -1565,7 +1565,7 @@ Or all my fence shall fail.
 #ENTRY_BLURB=CARDINAL - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside to GLOUCESTER]  Medice, teipsum--
+[Aside to GLOUCESTER] Medice, teipsum--
 Protector, see to't well, protect yourself.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1760,7 +1760,7 @@ Born so, master.
 #ENTRY_BLURB=GLOUCESTER - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-       What, and wouldst climb a tree?
+What, and wouldst climb a tree?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SIMPCOX - The Second Part of Henry the Sixth - Act II, Scene I
@@ -1785,7 +1785,7 @@ venture so.
 #ENTRY_BLURB=SIMPCOX - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-Alas,  good master, my wife desired some damsons,
+Alas, good master, my wife desired some damsons,
 And made me climb, with danger of my life.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -2056,7 +2056,7 @@ As more at large your grace shall understand.
 #ENTRY_BLURB=CARDINAL - The Second Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Aside to GLOUCESTER]  And so, my lord protector,
+[Aside to GLOUCESTER] And so, my lord protector,
 by this means
 Your lady is forthcoming yet at London.
 This news, I think, hath turn'd your weapon's edge;
@@ -2203,7 +2203,7 @@ But to the rest.
 #ENTRY_BLURB=YORK - The Second Part of Henry the Sixth - Act II, Scene II
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-       His eldest sister, Anne,
+His eldest sister, Anne,
 My mother, being heir unto the crown
 Married Richard Earl of Cambridge; who was son
 To Edmund Langley, Edward the Third's fifth son.
@@ -2414,12 +2414,22 @@ drink, and fear not your man.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORNER - The Second Part of Henry the Sixth - Act II, Scene III
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 Let it come, i' faith, and I'll pledge you all; and
 a fig for Peter!
-First 'Prentice	Here, Peter, I drink to thee: and be not afraid.
-Second 'Prentice	Be merry, Peter, and fear not thy master: fight
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Apprentice - The Second Part of Henry the Sixth - Act II, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+Here, Peter, I drink to thee: and be not afraid.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Apprentice - The Second Part of Henry the Sixth - Act II, Scene III
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
+Be merry, Peter, and fear not thy master: fight
 for credit of the 'prentices.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -2907,7 +2917,7 @@ Cold news, Lord Somerset: but God's will be done!
 #ENTRY_BLURB=YORK - The Second Part of Henry the Sixth - Act III, Scene I
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-[Aside]  Cold news for me; for I had hope of France
+[Aside] Cold news for me; for I had hope of France
 As firmly as I hope for fertile England.
 Thus are my blossoms blasted in the bud
 And caterpillars eat my leaves away;
@@ -3281,7 +3291,7 @@ And so say I.
 #ENTRY_BLURB=YORK - The Second Part of Henry the Sixth - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-And I    and now we three have spoke it,
+And I and now we three have spoke it,
 It skills not greatly who impugns our doom.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -3984,7 +3994,7 @@ Set all upon me, mighty sovereign.
 #ENTRY_BLURB=SALISBURY - The Second Part of Henry the Sixth - Act III, Scene II
 #ENTRY_LENGTH=29
 #BEGIN_ENTRY_TEXT
-[To the Commons, entering]  Sirs, stand apart;
+[To the Commons, entering] Sirs, stand apart;
 the king shall know your mind.
 Dread lord, the commons send you word by me,
 Unless Lord Suffolk straight be done to death,
@@ -4018,7 +4028,7 @@ They say, is shamefully bereft of life.
 #ENTRY_BLURB=Commons - The Second Part of Henry the Sixth - Act III, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  An answer from the king, my
+[Within] An answer from the king, my
 Lord of Salisbury!
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4037,7 +4047,7 @@ Sent from a sort of tinkers to the king.
 #ENTRY_BLURB=Commons - The Second Part of Henry the Sixth - Act III, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  An answer from the king, or we will all break in!
+[Within] An answer from the king, or we will all break in!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING HENRY VI - The Second Part of Henry the Sixth - Act III, Scene II
@@ -4391,10 +4401,15 @@ What is my ransom, master? let me know.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Master - The Second Part of Henry the Sixth - Act IV, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 A thousand crowns, or else lay down your head.
-Master's-Mate	And so much shall you give, or off goes yours.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Master's-Mate - The Second Part of Henry the Sixth - Act IV, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+And so much shall you give, or off goes yours.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Captain - The Second Part of Henry the Sixth - Act IV, Scene I
@@ -4555,13 +4570,13 @@ Yes, Pole.
 #ENTRY_BLURB=SUFFOLK - The Second Part of Henry the Sixth - Act IV, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-       Pole!
+Pole!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Captain - The Second Part of Henry the Sixth - Act IV, Scene I
 #ENTRY_LENGTH=34
 #BEGIN_ENTRY_TEXT
-         Pool! Sir Pool! lord!
+Pool! Sir Pool! lord!
 Ay, kennel, puddle, sink; whose filth and dirt
 Troubles the silver spring where England drinks.
 Now will I dam up this thy yawning mouth
@@ -4816,7 +4831,7 @@ We John Cade, so termed of our supposed father,--
 #ENTRY_BLURB=DICK - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  Or rather, of stealing a cade of herrings.
+[Aside] Or rather, of stealing a cade of herrings.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CADE - The Second Part of Henry the Sixth - Act IV, Scene II
@@ -4842,7 +4857,7 @@ My father was a Mortimer,--
 #ENTRY_BLURB=DICK - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  He was an honest man, and a good
+[Aside] He was an honest man, and a good
 bricklayer.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4855,7 +4870,7 @@ My mother a Plantagenet,--
 #ENTRY_BLURB=DICK - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  I knew her well; she was a midwife.
+[Aside] I knew her well; she was a midwife.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CADE - The Second Part of Henry the Sixth - Act IV, Scene II
@@ -4867,14 +4882,14 @@ My wife descended of the Lacies,--
 #ENTRY_BLURB=DICK - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  She was, indeed, a pedler's daughter, and
+[Aside] She was, indeed, a pedler's daughter, and
 sold many laces.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SMITH - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  But now of late, notable to travel with her
+[Aside] But now of late, notable to travel with her
 furred pack, she washes bucks here at home.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4887,7 +4902,7 @@ Therefore am I of an honourable house.
 #ENTRY_BLURB=DICK - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside]  Ay, by my faith, the field is honourable;
+[Aside] Ay, by my faith, the field is honourable;
 and there was he borne, under a hedge, for his
 father had never a house but the cage.
 #END_ENTRY_TEXT
@@ -4901,7 +4916,7 @@ Valiant I am.
 #ENTRY_BLURB=SMITH - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  A' must needs; for beggary is valiant.
+[Aside] A' must needs; for beggary is valiant.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CADE - The Second Part of Henry the Sixth - Act IV, Scene II
@@ -4913,7 +4928,7 @@ I am able to endure much.
 #ENTRY_BLURB=DICK - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  No question of that; for I have seen him
+[Aside] No question of that; for I have seen him
 whipped three market-days together.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4926,13 +4941,13 @@ I fear neither sword nor fire.
 #ENTRY_BLURB=SMITH - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  He need not fear the sword; for his coat is of proof.
+[Aside] He need not fear the sword; for his coat is of proof.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DICK - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  But methinks he should stand in fear of
+[Aside] But methinks he should stand in fear of
 fire, being burnt i' the hand for stealing of sheep.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5231,7 +5246,7 @@ Jack Cade, the Duke of York hath taught you this.
 #ENTRY_BLURB=CADE - The Second Part of Henry the Sixth - Act IV, Scene II
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Aside]  He lies, for I invented it myself.
+[Aside] He lies, for I invented it myself.
 Go to, sirrah, tell the king from me, that, for his
 father's sake, Henry the Fifth, in whose time boys
 went to span-counter for French crowns, I am content
@@ -5642,7 +5657,7 @@ Only that the laws of England may come out of your mouth.
 #ENTRY_BLURB=HOLLAND - The Second Part of Henry the Sixth - Act IV, Scene VII
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside]  Mass, 'twill be sore law, then; for he was
+[Aside] Mass, 'twill be sore law, then; for he was
 thrust in the mouth with a spear, and 'tis not whole
 yet.
 #END_ENTRY_TEXT
@@ -5650,7 +5665,7 @@ yet.
 #ENTRY_BLURB=SMITH - The Second Part of Henry the Sixth - Act IV, Scene VII
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  Nay, John, it will be stinking law for his
+[Aside] Nay, John, it will be stinking law for his
 breath stinks with eating toasted cheese.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5665,7 +5680,7 @@ the parliament of England.
 #ENTRY_BLURB=HOLLAND - The Second Part of Henry the Sixth - Act IV, Scene VII
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  Then we are like to have biting statutes,
+[Aside] Then we are like to have biting statutes,
 unless his teeth be pulled out.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5863,7 +5878,7 @@ O, let me live!
 #ENTRY_BLURB=CADE - The Second Part of Henry the Sixth - Act IV, Scene VII
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-[Aside]  I feel remorse in myself with his words;
+[Aside] I feel remorse in myself with his words;
 but I'll bridle it: he shall die, an it be but for
 pleading so well for his life. Away with him! he
 has a familiar under his tongue; he speaks not o'
@@ -6339,7 +6354,7 @@ Or dare to bring thy force so near the court.
 #ENTRY_BLURB=YORK - The Second Part of Henry the Sixth - Act V, Scene I
 #ENTRY_LENGTH=15
 #BEGIN_ENTRY_TEXT
-[Aside]  Scarce can I speak, my choler is so great:
+[Aside] Scarce can I speak, my choler is so great:
 O, I could hew up rocks and fight with flint,
 I am so angry at these abject terms;
 And now, like Ajax Telamonius,

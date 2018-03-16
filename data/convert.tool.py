@@ -125,6 +125,19 @@ class Entry:
         s += Entry._text_start + self.text + Entry._text_end
         return s
 
+def find_caps(s):
+    upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    lower = "abcdefghijklmnopqrstuvwxyz"
+    lines = s.split("\n")
+    for l in lines:
+        if len(l) > 0 and l[0] == '#':
+            continue
+        for c in l:
+            if c in lower and c not in upper:
+                break
+        else:
+            print(l)
+
 def compile_data(min_length):
     ofn = "sotd.clean.dat"
 
@@ -141,8 +154,18 @@ def compile_data(min_length):
     f.close()
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        compile_data(int(sys.argv[2]))
+    l = len(sys.argv)
+    if l > 1:
+        if sys.argv[1] == "compile":
+            if l > 2:
+                compile_data(int(sys.argv[2]))
+            else:
+                compile_data(6)
+        elif sys.argv[1] == "caps":
+            f = open(sys.argv[2], 'r')
+            s = f.read()
+            f.close()
+            find_caps(s)
     else:
         compile_data(6)
 

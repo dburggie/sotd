@@ -181,7 +181,7 @@ Advise him.
 #ENTRY_BLURB=LAFEU - All's Well That Ends Well - Act I, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-          He cannot want the best
+He cannot want the best
 That shall attend his love.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -194,7 +194,7 @@ Heaven bless him! Farewell, Bertram.
 #ENTRY_BLURB=BERTRAM - All's Well That Ends Well - Act I, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[To HELENA]  The best wishes that can be forged in
+[To HELENA] The best wishes that can be forged in
 your thoughts be servants to you! Be comfortable
 to my mother, your mistress, and make much of her.
 #END_ENTRY_TEXT
@@ -373,7 +373,7 @@ marry, yet 'tis a withered pear: will you anything with it?
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act I, Scene I
 #ENTRY_LENGTH=13
 #BEGIN_ENTRY_TEXT
-Not my virginity yet [         ]
+Not my virginity yet: [. . . .]
 There shall your master have a thousand loves,
 A mother and a mistress and a friend,
 A phoenix, captain and an enemy,
@@ -544,7 +544,7 @@ A braving war.
 #ENTRY_BLURB=First Lord - All's Well That Ends Well - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  So 'tis reported, sir.
+So 'tis reported, sir.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act I, Scene II
@@ -600,7 +600,7 @@ Young Bertram.
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act I, Scene II
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  Youth, thou bear'st thy father's face;
+Youth, thou bear'st thy father's face;
 Frank nature, rather curious than in haste,
 Hath well composed thee. Thy father's moral parts
 Mayst thou inherit too! Welcome to Paris.
@@ -690,7 +690,7 @@ He was much famed.
 #ENTRY_BLURB=BERTRAM - All's Well That Ends Well - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Some six months since, my lord.
+Some six months since, my lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act I, Scene II
@@ -1117,7 +1117,7 @@ Tell me truly.
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act I, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Good madam, pardon me!
+Good madam, pardon me!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act I, Scene III
@@ -1141,7 +1141,7 @@ Love you my son?
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act I, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Do not you love him, madam?
+Do not you love him, madam?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act I, Scene III
@@ -1195,7 +1195,7 @@ To go to Paris?
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act I, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Madam, I had.
+Madam, I had.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act I, Scene III
@@ -1336,7 +1336,7 @@ Before you serve.
 #ENTRY_BLURB=Both - All's Well That Ends Well - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Our hearts receive your warnings.
+Our hearts receive your warnings.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act II, Scene I
@@ -1460,7 +1460,7 @@ Stay: the king.
 #ENTRY_BLURB=PAROLLES - All's Well That Ends Well - Act II, Scene I
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-[To BERTRAM]  Use a more spacious ceremony to the
+[To BERTRAM] Use a more spacious ceremony to the
 noble lords; you have restrained yourself within the
 list of too cold an adieu: be more expressive to
 them: for they wear themselves in the cap of the
@@ -1485,7 +1485,7 @@ Worthy fellows; and like to prove most sinewy sword-men.
 #ENTRY_BLURB=LAFEU - All's Well That Ends Well - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Kneeling]  Pardon, my lord, for me and for my tidings.
+[Kneeling] Pardon, my lord, for me and for my tidings.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act II, Scene I
@@ -1785,7 +1785,7 @@ Make thy demand.
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  But will you make it even?
+But will you make it even?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act II, Scene I
@@ -2303,7 +2303,7 @@ And grant it.
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act II, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Thanks, sir; all the rest is mute.
+Thanks, sir; all the rest is mute.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LAFEU - All's Well That Ends Well - Act II, Scene III
@@ -2384,7 +2384,7 @@ of fourteen; I have known thee already.
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act II, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[To BERTRAM]  I dare not say I take you; but I give
+[To BERTRAM] I dare not say I take you; but I give
 Me and my service, ever whilst I live,
 Into your guiding power. This is the man.
 #END_ENTRY_TEXT
@@ -2550,7 +2550,7 @@ Thy love's to me religious; else, does err.
 #ENTRY_BLURB=LAFEU - All's Well That Ends Well - Act II, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Advancing]  Do you hear, monsieur? a word with you.
+[Advancing] Do you hear, monsieur? a word with you.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PAROLLES - All's Well That Ends Well - Act II, Scene III
@@ -3104,7 +3104,7 @@ us friends; I will pursue the amity.
 #ENTRY_BLURB=PAROLLES - All's Well That Ends Well - Act II, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[To BERTRAM]  These things shall be done, sir.
+[To BERTRAM] These things shall be done, sir.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LAFEU - All's Well That Ends Well - Act II, Scene V
@@ -3129,7 +3129,7 @@ workman, a very good tailor.
 #ENTRY_BLURB=BERTRAM - All's Well That Ends Well - Act II, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside to PAROLLES]  Is she gone to the king?
+[Aside to PAROLLES] Is she gone to the king?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PAROLLES - All's Well That Ends Well - Act II, Scene V
@@ -3475,16 +3475,17 @@ E'en that you have there.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act III, Scene II
-#ENTRY_LENGTH=13
+#ENTRY_LENGTH=14
 #BEGIN_ENTRY_TEXT
-[Reads]  I have sent you a daughter-in-law: she hath
-recovered the king, and undone me. I have wedded
-her, not bedded her; and sworn to make the 'not'
-eternal. You shall hear I am run away: know it
-before the report come. If there be breadth enough
-in the world, I will hold a long distance. My duty
-to you. Your unfortunate son,
-BERTRAM.
+[Reading.]
+ "I have sent you a daughter-in-law: she hath
+  recovered the king, and undone me. I have wedded
+  her, not bedded her; and sworn to make the 'not'
+  eternal. You shall hear I am run away: know it
+  before the report come. If there be breadth enough
+  in the world, I will hold a long distance. My duty
+  to you. Your unfortunate son,
+    BERTRAM."
 This is not well, rash and unbridled boy.
 To fly the favours of so good a king;
 To pluck his indignation on thy head
@@ -3608,7 +3609,7 @@ Ay, madam.
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act III, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-         And to be a soldier?
+And to be a soldier?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Second Gentleman - All's Well That Ends Well - Act III, Scene II
@@ -3634,14 +3635,14 @@ Ay, madam, with the swiftest wing of speed.
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act III, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Reads]  Till I have no wife I have nothing in France.
+[Reads] Till I have no wife I have nothing in France.
 'Tis bitter.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act III, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Find you that there?
+Find you that there?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act III, Scene II
@@ -3754,7 +3755,7 @@ Were mine at once. No, come thou home, Rousillon,
 Whence honour but of danger wins a scar,
 As oft it loses all: I will be gone;
 My being here it is that holds thee hence:
-Shall I stay here to do't?  no, no, although
+Shall I stay here to do't? no, no, although
 The air of paradise did fan the house
 And angels officed all: I will be gone,
 That pitiful rumour may report my flight,
@@ -3807,21 +3808,21 @@ By sending me a letter? Read it again.
 #ENTRY_BLURB=Steward - All's Well That Ends Well - Act III, Scene IV
 #ENTRY_LENGTH=15
 #BEGIN_ENTRY_TEXT
-[Reads]
-I am Saint Jaques' pilgrim, thither gone:
-Ambitious love hath so in me offended,
-That barefoot plod I the cold ground upon,
-With sainted vow my faults to have amended.
-Write, write, that from the bloody course of war
-My dearest master, your dear son, may hie:
-Bless him at home in peace, whilst I from far
-His name with zealous fervor sanctify:
-His taken labours bid him me forgive;
-I, his despiteful Juno, sent him forth
-From courtly friends, with camping foes to live,
-Where death and danger dogs the heels of worth:
-He is too good and fair for death and me:
-Whom I myself embrace, to set him free.
+[Reading.]
+ "I am Saint Jaques' pilgrim, thither gone:
+  Ambitious love hath so in me offended,
+  That barefoot plod I the cold ground upon,
+  With sainted vow my faults to have amended.
+  Write, write, that from the bloody course of war
+  My dearest master, your dear son, may hie:
+  Bless him at home in peace, whilst I from far
+  His name with zealous fervor sanctify:
+  His taken labours bid him me forgive;
+  I, his despiteful Juno, sent him forth
+  From courtly friends, with camping foes to live,
+  Where death and danger dogs the heels of worth:
+  He is too good and fair for death and me:
+  Whom I myself embrace, to set him free."
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act III, Scene IV
@@ -4062,7 +4063,7 @@ Monsieur Parolles.
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act III, Scene V
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-                  O, I believe with him,
+O, I believe with him,
 In argument of praise, or to the worth
 Of the great count himself, she is too mean
 To have her name repeated: all her deserving
@@ -4121,7 +4122,7 @@ That, Escalus.
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act III, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Which is the Frenchman?
+Which is the Frenchman?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DIANA - All's Well That Ends Well - Act III, Scene V
@@ -4212,7 +4213,7 @@ Worthy the note.
 #ENTRY_BLURB=BOTH - All's Well That Ends Well - Act III, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  We'll take your offer kindly.
+We'll take your offer kindly.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Second Lord - All's Well That Ends Well - Act III, Scene VI
@@ -4305,7 +4306,7 @@ Here he comes.
 #ENTRY_BLURB=Second Lord - All's Well That Ends Well - Act III, Scene VI
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside to BERTRAM]  O, for the love of laughter,
+[Aside to BERTRAM] O, for the love of laughter,
 hinder not the honour of his design: let him fetch
 off his drum in any hand.
 #END_ENTRY_TEXT
@@ -4922,7 +4923,7 @@ Inform on that.
 #ENTRY_BLURB=Second Soldier - All's Well That Ends Well - Act IV, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  So I will, sir.
+So I will, sir.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Second Lord - All's Well That Ends Well - Act IV, Scene I
@@ -5062,7 +5063,7 @@ In me to lose.
 #ENTRY_BLURB=DIANA - All's Well That Ends Well - Act IV, Scene II
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  Mine honour's such a ring:
+Mine honour's such a ring:
 My chastity's the jewel of our house,
 Bequeathed down from many ancestors;
 Which were the greatest obloquy i' the world
@@ -5472,7 +5473,7 @@ And truly, as I hope to live.
 #ENTRY_BLURB=First Soldier - All's Well That Ends Well - Act IV, Scene III
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Reads]  'First demand of him how many horse the
+[Reads] 'First demand of him how many horse the
 duke is strong.' What say you to that?
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5569,7 +5570,7 @@ rogues are marvellous poor.
 #ENTRY_BLURB=First Soldier - All's Well That Ends Well - Act IV, Scene III
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Reads]  'Demand of him, of what strength they are
+[Reads] 'Demand of him, of what strength they are
 a-foot.' What say you to that?
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5717,7 +5718,7 @@ Excellently.
 #ENTRY_BLURB=First Soldier - All's Well That Ends Well - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Reads]  'Dian, the count's a fool, and full of gold,'--
+[Reads] 'Dian, the count's a fool, and full of gold,'--
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PAROLLES - All's Well That Ends Well - Act IV, Scene III
@@ -5754,16 +5755,17 @@ Damnable both-sides rogue!
 #ENTRY_BLURB=First Soldier - All's Well That Ends Well - Act IV, Scene III
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-[Reads]  'When he swears oaths, bid him drop gold, and take it;
-After he scores, he never pays the score:
-Half won is match well made; match, and well make it;
-He ne'er pays after-debts, take it before;
-And say a soldier, Dian, told thee this,
-Men are to mell with, boys are not to kiss:
-For count of this, the count's a fool, I know it,
-Who pays before, but not when he does owe it.
-Thine, as he vowed to thee in thine ear,
-PAROLLES.'
+[Reading.]
+ "When he swears oaths, bid him drop gold, and take it;
+  After he scores, he never pays the score:
+  Half won is match well made; match, and well make it;
+  He ne'er pays after-debts, take it before;
+  And say a soldier, Dian, told thee this,
+  Men are to mell with, boys are not to kiss:
+  For count of this, the count's a fool, I know it,
+  Who pays before, but not when he does owe it.
+  Thine, as he vowed to thee in thine ear,
+    PAROLLES."
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BERTRAM - All's Well That Ends Well - Act IV, Scene III
@@ -5940,7 +5942,7 @@ I'll whisper with the general, and know his pleasure.
 #ENTRY_BLURB=PAROLLES - All's Well That Ends Well - Act IV, Scene III
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Aside]  I'll no more drumming; a plague of all
+[Aside] I'll no more drumming; a plague of all
 drums! Only to seem to deserve well, and to
 beguile the supposition of that lascivious young boy
 the count, have I run into this danger. Yet who
@@ -6474,7 +6476,7 @@ Than is his use.
 #ENTRY_BLURB=Widow - All's Well That Ends Well - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Lord, how we lose our pains!
+Lord, how we lose our pains!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HELENA - All's Well That Ends Well - Act V, Scene I
@@ -6960,17 +6962,18 @@ Your highness with herself.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act V, Scene III
-#ENTRY_LENGTH=9
+#ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-[Reads]  Upon his many protestations to marry me
-when his wife was dead, I blush to say it, he won
-me. Now is the Count Rousillon a widower: his vows
-are forfeited to me, and my honour's paid to him. He
-stole from Florence, taking no leave, and I follow
-him to his country for justice: grant it me, O
-king! in you it best lies; otherwise a seducer
-flourishes, and a poor maid is undone.
-DIANA CAPILET.
+[Reading.]
+ "Upon his many protestations to marry me
+  when his wife was dead, I blush to say it, he won
+  me. Now is the Count Rousillon a widower: his vows
+  are forfeited to me, and my honour's paid to him. He
+  stole from Florence, taking no leave, and I follow
+  him to his country for justice: grant it me, O
+  king! in you it best lies; otherwise a seducer
+  flourishes, and a poor maid is undone.
+    DIANA CAPILET."
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LAFEU - All's Well That Ends Well - Act V, Scene III
@@ -7119,7 +7122,7 @@ If I be one.
 #ENTRY_BLURB=COUNTESS - All's Well That Ends Well - Act V, Scene III
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  He blushes, and 'tis it:
+He blushes, and 'tis it:
 Of six preceding ancestors, that gem,
 Conferr'd by testament to the sequent issue,
 Hath it been owed and worn. This is his wife;
@@ -7236,7 +7239,7 @@ Out of a casement.
 #ENTRY_BLURB=DIANA - All's Well That Ends Well - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I have spoke the truth.
+I have spoke the truth.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BERTRAM - All's Well That Ends Well - Act V, Scene III
@@ -7398,7 +7401,7 @@ Who lent it you?
 #ENTRY_BLURB=DIANA - All's Well That Ends Well - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  It was not lent me neither.
+It was not lent me neither.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act V, Scene III
@@ -7469,7 +7472,7 @@ Take her away.
 #ENTRY_BLURB=DIANA - All's Well That Ends Well - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I'll put in bail, my liege.
+I'll put in bail, my liege.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING - All's Well That Ends Well - Act V, Scene III
@@ -7550,7 +7553,7 @@ O my good lord, when I was like this maid,
 I found you wondrous kind. There is your ring;
 And, look you, here's your letter; this it says:
 'When from my finger you can get this ring
-And are by me with child,'  &amp; c. This is done:
+And are by me with child,' etc. This is done:
 Will you be mine, now you are doubly won?
 #END_ENTRY_TEXT
 #NEW_ENTRY

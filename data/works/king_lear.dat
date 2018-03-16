@@ -155,7 +155,7 @@ Beyond all manner of so much I love you.
 #ENTRY_BLURB=CORDELIA - The Tragedy of King Lear - Act I, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  What shall Cordelia do?
+[Aside] What shall Cordelia do?
 Love, and be silent.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -187,7 +187,7 @@ In your dear highness' love.
 #ENTRY_BLURB=CORDELIA - The Tragedy of King Lear - Act I, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside]	Then poor Cordelia!
+[Aside] Then poor Cordelia!
 And yet not so; since, I am sure, my love's
 More richer than my tongue.
 #END_ENTRY_TEXT
@@ -398,7 +398,7 @@ Now, by Apollo,--
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act I, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  Now, by Apollo, king,
+Now, by Apollo, king,
 Thou swear'st thy gods in vain.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -864,18 +864,19 @@ this but as an essay or taste of my virtue.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The Tragedy of King Lear - Act I, Scene II
-#ENTRY_LENGTH=15
+#ENTRY_LENGTH=16
 #BEGIN_ENTRY_TEXT
-[Reads]  'This policy and reverence of age makes
-the world bitter to the best of our times; keeps
-our fortunes from us till our oldness cannot relish
-them. I begin to find an idle and fond bondage
-in the oppression of aged tyranny; who sways, not
-as it hath power, but as it is suffered. Come to
-me, that of this I may speak more. If our father
-would sleep till I waked him, you should half his
-revenue for ever, and live the beloved of your
-brother,	EDGAR.'
+[Reading.]
+ "This policy and reverence of age makes
+  the world bitter to the best of our times; keeps
+  our fortunes from us till our oldness cannot relish
+  them. I begin to find an idle and fond bondage
+  in the oppression of aged tyranny; who sways, not
+  as it hath power, but as it is suffered. Come to
+  me, that of this I may speak more. If our father
+  would sleep till I waked him, you should half his
+  revenue for ever, and live the beloved of your
+  brother, EDGAR."
 Hum--conspiracy!--'Sleep till I waked him,--you
 should enjoy half his revenue,'--My son Edgar!
 Had he a hand to write this? a heart and brain
@@ -1664,7 +1665,7 @@ Why, no, boy; nothing can be made out of nothing.
 #ENTRY_BLURB=Fool - The Tragedy of King Lear - Act I, Scene IV
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[To KENT]  Prithee, tell him, so much the rent of
+[To KENT] Prithee, tell him, so much the rent of
 his land comes to: he will not believe a fool.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1956,7 +1957,7 @@ Pray, sir, be patient.
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act I, Scene IV
 #ENTRY_LENGTH=11
 #BEGIN_ENTRY_TEXT
-[To GONERIL]  Detested kite! thou liest.
+[To GONERIL] Detested kite! thou liest.
 My train are men of choice and rarest parts,
 That all particulars of duty know,
 And in the most exact regard support
@@ -2372,7 +2373,7 @@ ear-kissing arguments?
 #ENTRY_BLURB=EDMUND - The Tragedy of King Lear - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-Not I	pray you, what are they?
+Not I -- pray you, what are they?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CURAN - The Tragedy of King Lear - Act II, Scene I
@@ -2416,7 +2417,7 @@ Advise yourself.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I am sure on't, not a word.
+I am sure on't, not a word.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDMUND - The Tragedy of King Lear - Act II, Scene I
@@ -2636,7 +2637,7 @@ Is he pursued?
 #ENTRY_BLURB=GLOUCESTER - The Tragedy of King Lear - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Ay, my good lord.
+Ay, my good lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORNWALL - The Tragedy of King Lear - Act II, Scene I
@@ -2974,7 +2975,7 @@ Than I and such a knave.
 #ENTRY_BLURB=CORNWALL - The Tragedy of King Lear - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-Why dost thou call him a knave?  What's his offence?
+Why dost thou call him a knave? What's his offence?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act II, Scene II
@@ -3078,7 +3079,7 @@ We'll teach you--
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act II, Scene II
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-                  Sir, I am too old to learn:
+Sir, I am too old to learn:
 Call not your stocks for me: I serve the king;
 On whose employment I was sent to you:
 You shall do small respect, show too bold malice
@@ -3233,7 +3234,7 @@ Of this remove.
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Hail to thee, noble master!
+Hail to thee, noble master!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act II, Scene IV
@@ -3269,7 +3270,7 @@ To set thee here?
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act II, Scene IV
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  It is both he and she;
+It is both he and she;
 Your son and daughter.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -3335,7 +3336,7 @@ Coming from us.
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act II, Scene IV
 #ENTRY_LENGTH=19
 #BEGIN_ENTRY_TEXT
-                  My lord, when at their home
+My lord, when at their home
 I did commend your highness' letters to them,
 Ere I was risen from the place that show'd
 My duty kneeling, came there a reeking post,
@@ -3608,7 +3609,7 @@ My curses on her!
 #ENTRY_BLURB=REGAN - The Tragedy of King Lear - Act II, Scene IV
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  O, sir, you are old.
+O, sir, you are old.
 Nature in you stands on the very verge
 Of her confine: you should be ruled and led
 By some discretion, that discerns your state
@@ -3637,7 +3638,7 @@ Return you to my sister.
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act II, Scene IV
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-[Rising]  Never, Regan:
+[Rising] Never, Regan:
 She hath abated me of half my train;
 Look'd black upon me; struck me with her tongue,
 Most serpent-like, upon the very heart:
@@ -3871,7 +3872,7 @@ I gave you all--
 #ENTRY_BLURB=REGAN - The Tragedy of King Lear - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  And in good time you gave it.
+And in good time you gave it.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act II, Scene IV
@@ -4425,7 +4426,7 @@ No more of that.
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act III, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Good my lord, enter here.
+Good my lord, enter here.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act III, Scene IV
@@ -4450,7 +4451,7 @@ And show the heavens more just.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act III, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Fathom and half, fathom and half! Poor Tom!
+[Within] Fathom and half, fathom and half! Poor Tom!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Fool - The Tragedy of King Lear - Act III, Scene IV
@@ -4796,7 +4797,7 @@ Come let's in all.
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act III, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  This way, my lord.
+This way, my lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act III, Scene IV
@@ -4839,7 +4840,7 @@ No words, no words: hush.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act III, Scene IV
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-      Child Rowland to the dark tower came,
+Child Rowland to the dark tower came,
 His word was still,--Fie, foh, and fum,
 I smell the blood of a British man.
 #END_ENTRY_TEXT
@@ -4901,7 +4902,7 @@ may be ready for our apprehension.
 #ENTRY_BLURB=EDMUND - The Tragedy of King Lear - Act III, Scene V
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-[Aside]  If I find him comforting the king, it will
+[Aside] If I find him comforting the king, it will
 stuff his suspicion more fully.--I will persevere in
 my course of loyalty, though the conflict be sore
 between that and my blood.
@@ -4989,7 +4990,7 @@ Thou, sapient sir, sit here. Now, you she foxes!
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act III, Scene VI
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-   Look, where he stands and glares!
+Look, where he stands and glares!
 Wantest thou eyes at trial, madam?
 Come o'er the bourn, Bessy, to me,--
 #END_ENTRY_TEXT
@@ -4997,7 +4998,7 @@ Come o'er the bourn, Bessy, to me,--
 #ENTRY_BLURB=Fool - The Tragedy of King Lear - Act III, Scene VI
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-   Her boat hath a leak,
+Her boat hath a leak,
 And she must not speak
 Why she dares not come over to thee.
 #END_ENTRY_TEXT
@@ -5091,7 +5092,7 @@ That thou so oft have boasted to retain?
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act III, Scene VI
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  My tears begin to take his part so much,
+[Aside] My tears begin to take his part so much,
 They'll mar my counterfeiting.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5308,7 +5309,7 @@ Bind him, I say.
 #ENTRY_BLURB=REGAN - The Tragedy of King Lear - Act III, Scene VII
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Hard, hard. O filthy traitor!
+Hard, hard. O filthy traitor!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The Tragedy of King Lear - Act III, Scene VII
@@ -5654,7 +5655,7 @@ How now! Who's there?
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act IV, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside]  O gods! Who is't can say 'I am at
+[Aside] O gods! Who is't can say 'I am at
 the worst'?
 I am worse than e'er I was.
 #END_ENTRY_TEXT
@@ -5668,8 +5669,8 @@ I am worse than e'er I was.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act IV, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  And worse I may be yet: the worst is not
-So long as we can say  'This is the worst.'
+[Aside] And worse I may be yet: the worst is not
+So long as we can say 'This is the worst.'
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Old Man - The Tragedy of King Lear - Act IV, Scene I
@@ -5706,7 +5707,7 @@ They kill us for their sport.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act IV, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside]	How should this be?
+[Aside] How should this be?
 Bad is the trade that must play fool to sorrow,
 Angering itself and others.--Bless thee, master!
 #END_ENTRY_TEXT
@@ -5776,7 +5777,7 @@ Come hither, fellow.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act IV, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  And yet I must.--Bless thy sweet eyes, they bleed.
+[Aside] And yet I must.--Bless thy sweet eyes, they bleed.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The Tragedy of King Lear - Act IV, Scene I
@@ -5860,7 +5861,7 @@ What like, offensive.
 #ENTRY_BLURB=GONERIL - The Tragedy of King Lear - Act IV, Scene II
 #ENTRY_LENGTH=14
 #BEGIN_ENTRY_TEXT
-[To EDMUND]  Then shall you go no further.
+[To EDMUND] Then shall you go no further.
 It is the cowish terror of his spirit,
 That dares not undertake: he'll not feel wrongs
 Which tie him to an answer. Our wishes on the way
@@ -6037,7 +6038,7 @@ This letter, madam, craves a speedy answer;
 #ENTRY_BLURB=GONERIL - The Tragedy of King Lear - Act IV, Scene II
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Aside]              One way I like this well;
+[Aside] One way I like this well;
 But being widow, and my Gloucester with her,
 May all the building in my fancy pluck
 Upon my hateful life: another way,
@@ -6579,7 +6580,7 @@ Is done to cure it.
 #ENTRY_BLURB=GLOUCESTER - The Tragedy of King Lear - Act IV, Scene VI
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-[Kneeling]  O you mighty gods!
+[Kneeling] O you mighty gods!
 This world I do renounce, and, in your sights,
 Shake patiently my great affliction off:
 If I could bear it longer, and not fall
@@ -6605,7 +6606,7 @@ What are you, sir?
 #ENTRY_BLURB=GLOUCESTER - The Tragedy of King Lear - Act IV, Scene VI
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Away, and let me die.
+Away, and let me die.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act IV, Scene VI
@@ -7013,7 +7014,7 @@ Hail, gentle sir.
 #ENTRY_BLURB=Gentleman - The Tragedy of King Lear - Act IV, Scene VI
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Sir, speed you: what's your will?
+Sir, speed you: what's your will?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act IV, Scene VI
@@ -7422,7 +7423,7 @@ Of my condition!
 #ENTRY_BLURB=CORDELIA - The Tragedy of King Lear - Act IV, Scene VII
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  O, look upon me, sir,
+O, look upon me, sir,
 And hold your hands in benediction o'er me:
 No, sir, you must not kneel.
 #END_ENTRY_TEXT
@@ -7475,7 +7476,7 @@ Am I in France?
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act IV, Scene VII
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  In your own kingdom, sir.
+In your own kingdom, sir.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act IV, Scene VII
@@ -7638,7 +7639,7 @@ She and the duke her husband!
 #ENTRY_BLURB=GONERIL - The Tragedy of King Lear - Act V, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  I had rather lose the battle than that sister
+[Aside] I had rather lose the battle than that sister
 Should loosen him and me.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -7709,7 +7710,7 @@ No.
 #ENTRY_BLURB=GONERIL - The Tragedy of King Lear - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  O, ho, I know the riddle.--I will go.
+[Aside] O, ho, I know the riddle.--I will go.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act V, Scene I
@@ -7722,7 +7723,7 @@ Hear me one word.
 #ENTRY_BLURB=ALBANY - The Tragedy of King Lear - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I'll overtake you. Speak.
+I'll overtake you. Speak.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act V, Scene I
@@ -7966,7 +7967,7 @@ Not as a brother.
 #ENTRY_BLURB=REGAN - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-                  That's as we list to grace him.
+That's as we list to grace him.
 Methinks our pleasure might have been demanded,
 Ere you had spoke so far. He led our powers;
 Bore the commission of my place and person;
@@ -8046,7 +8047,7 @@ Half-blooded fellow, yes.
 #ENTRY_BLURB=REGAN - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[To EDMUND]  Let the drum strike, and prove my title thine.
+[To EDMUND] Let the drum strike, and prove my title thine.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ALBANY - The Tragedy of King Lear - Act V, Scene III
@@ -8090,7 +8091,7 @@ Sick, O, sick!
 #ENTRY_BLURB=GONERIL - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  If not, I'll ne'er trust medicine.
+[Aside] If not, I'll ne'er trust medicine.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDMUND - The Tragedy of King Lear - Act V, Scene III
@@ -8113,7 +8114,7 @@ A herald, ho!
 #ENTRY_BLURB=EDMUND - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  A herald, ho, a herald!
+A herald, ho, a herald!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ALBANY - The Tragedy of King Lear - Act V, Scene III
@@ -8133,7 +8134,7 @@ My sickness grows upon me.
 #ENTRY_BLURB=ALBANY - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-She is not well; convey her to  my tent.
+She is not well; convey her to my tent.
 Come hither, herald,--Let the trumpet sound,
 And read out this.
 #END_ENTRY_TEXT
@@ -8147,7 +8148,7 @@ Sound, trumpet!
 #ENTRY_BLURB=Herald - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Reads]  'If any man of quality or degree within
+[Reads] 'If any man of quality or degree within
 the lists of the army will maintain upon Edmund,
 supposed Earl of Gloucester, that he is a manifold
 traitor, let him appear by the third sound of the
@@ -8199,7 +8200,7 @@ I come to cope.
 #ENTRY_BLURB=ALBANY - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Which is that adversary?
+Which is that adversary?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act V, Scene III
@@ -8313,7 +8314,7 @@ I do forgive thee.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-                  Let's exchange charity.
+Let's exchange charity.
 I am no less in blood than thou art, Edmund;
 If more, the more thou hast wrong'd me.
 My name is Edgar, and thy father's son.
@@ -8326,7 +8327,7 @@ Cost him his eyes.
 #ENTRY_BLURB=EDMUND - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  Thou hast spoken right, 'tis true;
+Thou hast spoken right, 'tis true;
 The wheel is come full circle: I am here.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -8395,7 +8396,7 @@ Hearing of this.
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=15
 #BEGIN_ENTRY_TEXT
-                  This would have seem'd a period
+This would have seem'd a period
 To such as love not sorrow; but another,
 To amplify too much, would make much more,
 And top extremity.
@@ -8505,7 +8506,7 @@ Is he not here?
 #ENTRY_BLURB=ALBANY - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Great thing of us forgot!
+Great thing of us forgot!
 Speak, Edmund, where's the king? and where's Cordelia?
 See'st thou this object, Kent?
 #END_ENTRY_TEXT
@@ -8519,7 +8520,7 @@ Alack, why thus?
 #ENTRY_BLURB=EDMUND - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Yet Edmund was beloved:
+Yet Edmund was beloved:
 The one the other poison'd for my sake,
 And after slew herself.
 #END_ENTRY_TEXT
@@ -8543,7 +8544,7 @@ Nay, send in time.
 #ENTRY_BLURB=ALBANY - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Run, run, O, run!
+Run, run, O, run!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=EDGAR - The Tragedy of King Lear - Act V, Scene III
@@ -8622,7 +8623,7 @@ That ever I have felt.
 #ENTRY_BLURB=KENT - The Tragedy of King Lear - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Kneeling]  O my good master!
+[Kneeling] O my good master!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING LEAR - The Tragedy of King Lear - Act V, Scene III

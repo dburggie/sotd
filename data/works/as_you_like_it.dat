@@ -2129,10 +2129,9 @@ I will your very faithful feeder be
 And buy it with your gold right suddenly.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=AMIENS - As You Like It - Act II, Scene V
-#ENTRY_LENGTH=8
+#ENTRY_BLURB=SONG - AMIENS - As You Like It - Act II, Scene V
+#ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-[SONG.]
     Under the greenwood tree
     Who loves to lie with me,
     And turn his merry note
@@ -2220,7 +2219,7 @@ And I have been all this day to avoid him. He is
 too disputable for my company: I think of as many
 matters as he, but I give heaven thanks and make no
 boast of them. Come, warble, come.
-[SONG.] [All together here]
+[SONG.]
     Who doth ambition shun
     And loves to live i' the sun,
     Seeking the food he eats
@@ -2658,27 +2657,26 @@ As yet, to question you about your fortunes.
 Give us some music; and, good cousin, sing.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=AMIENS - As You Like It - Act II, Scene VII
-#ENTRY_LENGTH=18
+#ENTRY_BLURB=SONG - AMIENS - As You Like It - Act II, Scene VII
+#ENTRY_LENGTH=17
 #BEGIN_ENTRY_TEXT
-[SONG.]
-Blow, blow, thou winter wind.
-Thou art not so unkind
-As man's ingratitude;
-Thy tooth is not so keen,
-Because thou art not seen,
-Although thy breath be rude.
+  Blow, blow, thou winter wind.
+  Thou art not so unkind
+    As man's ingratitude;
+  Thy tooth is not so keen,
+  Because thou art not seen,
+  Although thy breath be rude.
 Heigh-ho! sing, heigh-ho! unto the green holly:
 Most friendship is feigning, most loving mere folly:
-Then, heigh-ho, the holly!
-This life is most jolly.
-Freeze, freeze, thou bitter sky,
-That dost not bite so nigh
-As benefits forgot:
-Though thou the waters warp,
-Thy sting is not so sharp
-As friend remember'd not.
-Heigh-ho! sing,  & c.
+      Then, heigh-ho, the holly!
+        This life is most jolly.
+  Freeze, freeze, thou bitter sky,
+  That dost not bite so nigh
+    As benefits forgot:
+  Though thou the waters warp,
+  Thy sting is not so sharp
+    As friend remember'd not.
+Heigh-ho! sing,  etc.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DUKE SENIOR - As You Like It - Act II, Scene VII
@@ -2932,16 +2930,17 @@ Here comes young Master Ganymede, my new mistress's brother.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ROSALIND - As You Like It - Act III, Scene II
-#ENTRY_LENGTH=8
+#ENTRY_LENGTH=9
 #BEGIN_ENTRY_TEXT
-     From the east to western Ind,
-No jewel is like Rosalind.
-Her worth, being mounted on the wind,
-Through all the world bears Rosalind.
-All the pictures fairest lined
-Are but black to Rosalind.
-Let no fair be kept in mind
-But the fair of Rosalind.
+[Reading.]
+ "From the east to western Ind,
+  No jewel is like Rosalind.
+  Her worth, being mounted on the wind,
+  Through all the world bears Rosalind.
+  All the pictures fairest lined
+  Are but black to Rosalind.
+  Let no fair be kept in mind
+  But the fair of Rosalind."
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=TOUCHSTONE - As You Like It - Act III, Scene II
@@ -2962,18 +2961,18 @@ Out, fool!
 #ENTRY_LENGTH=15
 #BEGIN_ENTRY_TEXT
 For a taste:
-If a hart do lack a hind,
-Let him seek out Rosalind.
-If the cat will after kind,
-So be sure will Rosalind.
-Winter garments must be lined,
-So must slender Rosalind.
-They that reap must sheaf and bind;
-Then to cart with Rosalind.
-Sweetest nut hath sourest rind,
-Such a nut is Rosalind.
-He that sweetest rose will find
-Must find love's prick and Rosalind.
+  If a hart do lack a hind,
+  Let him seek out Rosalind.
+  If the cat will after kind,
+  So be sure will Rosalind.
+  Winter garments must be lined,
+  So must slender Rosalind.
+  They that reap must sheaf and bind;
+  Then to cart with Rosalind.
+  Sweetest nut hath sourest rind,
+  Such a nut is Rosalind.
+  He that sweetest rose will find
+  Must find love's prick and Rosalind.
 This is the very false gallop of verses: why do you
 infect yourself with them?
 #END_ENTRY_TEXT
@@ -3015,37 +3014,37 @@ Peace! Here comes my sister, reading: stand aside.
 #ENTRY_BLURB=CELIA - As You Like It - Act III, Scene II
 #ENTRY_LENGTH=31
 #BEGIN_ENTRY_TEXT
-[Reads]
-Why should this a desert be?
-For it is unpeopled? No:
-Tongues I'll hang on every tree,
-That shall civil sayings show:
-Some, how brief the life of man
-Runs his erring pilgrimage,
-That the stretching of a span
-Buckles in his sum of age;
-Some, of violated vows
-'Twixt the souls of friend and friend:
-But upon the fairest boughs,
-Or at every sentence end,
-Will I Rosalinda write,
-Teaching all that read to know
-The quintessence of every sprite
-Heaven would in little show.
-Therefore Heaven Nature charged
-That one body should be fill'd
-With all graces wide-enlarged:
-Nature presently distill'd
-Helen's cheek, but not her heart,
-Cleopatra's majesty,
-Atalanta's better part,
-Sad Lucretia's modesty.
-Thus Rosalind of many parts
-By heavenly synod was devised,
-Of many faces, eyes and hearts,
-To have the touches dearest prized.
-Heaven would that she these gifts should have,
-And I to live and die her slave.
+[Reading.]
+ "Why should this a desert be?
+    For it is unpeopled? No:
+  Tongues I'll hang on every tree,
+    That shall civil sayings show:
+  Some, how brief the life of man
+    Runs his erring pilgrimage,
+  That the stretching of a span
+    Buckles in his sum of age;
+  Some, of violated vows
+    'Twixt the souls of friend and friend:
+  But upon the fairest boughs,
+    Or at every sentence end,
+  Will I Rosalinda write,
+    Teaching all that read to know
+  The quintessence of every sprite
+    Heaven would in little show.
+  Therefore Heaven Nature charged
+    That one body should be fill'd
+  With all graces wide-enlarged:
+    Nature presently distill'd
+  Helen's cheek, but not her heart,
+    Cleopatra's majesty,
+  Atalanta's better part,
+    Sad Lucretia's modesty.
+  Thus Rosalind of many parts
+    By heavenly synod was devised,
+  Of many faces, eyes and hearts,
+    To have the touches dearest prized.
+  Heaven would that she these gifts should have,
+    And I to live and die her slave."
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ROSALIND - As You Like It - Act III, Scene II
@@ -4091,12 +4090,13 @@ Go thou with me, and let me counsel thee.
 'Come, sweet Audrey:
 We must be married, or we must live in bawdry.
 Farewell, good Master Oliver: not,--
-O sweet Oliver,
-O brave Oliver,
-Leave me not behind thee: but,--
-Wind away,
-Begone, I say,
-I will not to wedding with thee.
+   "O sweet Oliver,
+    O brave Oliver,
+  Leave me not behind thee;
+but
+   "Wind away,
+    Begone, I say,
+  I will not to wedding with thee."
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SIR OLIVER MARTEXT - As You Like It - Act III, Scene III
@@ -5189,20 +5189,19 @@ Sing it: 'tis no matter how it be in tune, so it
 make noise enough.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=Forester - As You Like It - Act IV, Scene II
-#ENTRY_LENGTH=11
+#ENTRY_BLURB=Song - Forester - As You Like It - Act IV, Scene II
+#ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-[SONG.]
-What shall he have that kill'd the deer?
-His leather skin and horns to wear.
-Then sing him home;
-["The rest shall bear this burden."]
-Take thou no scorn to wear the horn;
-It was a crest ere thou wast born:
-Thy father's father wore it,
-And thy father bore it:
-The horn, the horn, the lusty horn
-Is not a thing to laugh to scorn.
+  What shall he have that kill'd the deer?
+  His leather skin and horns to wear.
+    Then sing him home;
+      ["The rest shall bear this burden."]
+  Take thou no scorn to wear the horn;
+  It was a crest ere thou wast born:
+  Thy father's father wore it,
+  And thy father bore it:
+  The horn, the horn, the lusty horn
+  Is not a thing to laugh to scorn.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ROSALIND - As You Like It - Act IV, Scene III
@@ -5290,44 +5289,33 @@ Yet heard too much of Phebe's cruelty.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ROSALIND - As You Like It - Act IV, Scene III
-#ENTRY_LENGTH=4
+#ENTRY_LENGTH=25
 #BEGIN_ENTRY_TEXT
 She Phebes me: mark how the tyrant writes.
-Art thou god to shepherd turn'd,
-That a maiden's heart hath burn'd?
-Can a woman rail thus?
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=SILVIUS - As You Like It - Act IV, Scene III
-#ENTRY_LENGTH=1
-#BEGIN_ENTRY_TEXT
-Call you this railing?
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=ROSALIND - As You Like It - Act IV, Scene III
-#ENTRY_LENGTH=21
-#BEGIN_ENTRY_TEXT
-[Reads]
-Why, thy godhead laid apart,
-Warr'st thou with a woman's heart?
+ "Art thou god to shepherd turn'd,
+  That a maiden's heart hath burn'd?
+  Can a woman rail thus?"
+[SILVIUS: Call you this railing?]
+ "Why, thy godhead laid apart,
+  Warr'st thou with a woman's heart?"
 Did you ever hear such railing?
-Whiles the eye of man did woo me,
-That could do no vengeance to me.
+ "Whiles the eye of man did woo me,
+  That could do no vengeance to me."
 Meaning me a beast.
-If the scorn of your bright eyne
-Have power to raise such love in mine,
-Alack, in me what strange effect
-Would they work in mild aspect!
-Whiles you chid me, I did love;
-How then might your prayers move!
-He that brings this love to thee
-Little knows this love in me:
-And by him seal up thy mind;
-Whether that thy youth and kind
-Will the faithful offer take
-Of me and all that I can make;
-Or else by him my love deny,
-And then I'll study how to die.
+ "If the scorn of your bright eyne
+  Have power to raise such love in mine,
+  Alack, in me what strange effect
+  Would they work in mild aspect!
+  Whiles you chid me, I did love;
+  How then might your prayers move!
+  He that brings this love to thee
+  Little knows this love in me:
+  And by him seal up thy mind;
+  Whether that thy youth and kind
+  Will the faithful offer take
+  Of me and all that I can make;
+  Or else by him my love deny,
+  And then I'll study how to die."
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SILVIUS - As You Like It - Act IV, Scene III
@@ -6226,17 +6214,17 @@ gipsies on a horse.
   Between the acres of the rye,
     With a hey, and a ho, and a hey nonino
   These pretty country folks would lie,
-    In spring time,  & c.
+    In spring time, etc.
   
   This carol they began that hour,
     With a hey, and a ho, and a hey nonino,
   How that a life was but a flower
-    In spring time,  & c.
+    In spring time, etc.
   
   And therefore take the present time,
     With a hey, and a ho, and a hey nonino;
   For love is crowned with the prime
-    In spring time,  & c.
+    In spring time, etc.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=TOUCHSTONE - As You Like It - Act V, Scene III
@@ -6537,10 +6525,10 @@ the presentation of that he shoots his wit.
 #BEGIN_ENTRY_TEXT
 Then is there mirth in heaven,
 When earthly things made even
-Atone together.
+  Atone together.
 Good duke, receive thy daughter
 Hymen from heaven brought her,
-Yea, brought her hither,
+  Yea, brought her hither,
 That thou mightst join her hand with his
 Whose heart within his bosom is.
 #END_ENTRY_TEXT
@@ -6549,7 +6537,7 @@ Whose heart within his bosom is.
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 [To DUKE SENIOR] To you I give myself, for I am yours.
-To you I give myself, for I am yours.
+[To ORLANDO] To you I give myself, for I am yours.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DUKE SENIOR - As You Like It - Act V, Scene IV

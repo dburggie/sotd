@@ -179,7 +179,7 @@ Calpurnia!
 #ENTRY_BLURB=CASCA - The Tragedy of Julius Caesar - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-         Peace, ho! Caesar speaks.
+Peace, ho! Caesar speaks.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CAESAR - The Tragedy of Julius Caesar - Act I, Scene II
@@ -1024,7 +1024,7 @@ Who's there?
 #ENTRY_BLURB=CASCA - The Tragedy of Julius Caesar - Act I, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  A Roman.
+A Roman.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act I, Scene III
@@ -1389,11 +1389,11 @@ I will, sir.
 The exhalations whizzing in the air
 Give so much light that I may read by them.
 'Brutus, thou sleep'st: awake, and see thyself.
-Shall Rome,  & c. Speak, strike, redress!
+Shall Rome, etc. Speak, strike, redress!
 Brutus, thou sleep'st: awake!'
 Such instigations have been often dropp'd
 Where I have took them up.
-'Shall Rome,  & c.' Thus must I piece it out:
+'Shall Rome, etc.' Thus must I piece it out:
 Shall Rome stand under one man's awe? What, Rome?
 My ancestors did from the streets of Rome
 The Tarquin drive, when he was call'd a king.
@@ -1500,7 +1500,7 @@ This is Trebonius.
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  He is welcome hither.
+He is welcome hither.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act II, Scene I
@@ -1750,7 +1750,7 @@ The clock hath stricken three.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act II, Scene I
 #ENTRY_LENGTH=9
 #BEGIN_ENTRY_TEXT
-                  But it is doubtful yet,
+But it is doubtful yet,
 Whether Caesar will come forth to-day, or no;
 For he is superstitious grown of late,
 Quite from the main opinion he held once
@@ -2216,7 +2216,7 @@ Say he is sick.
 #ENTRY_BLURB=CAESAR - The Tragedy of Julius Caesar - Act II, Scene II
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  Shall Caesar send a lie?
+Shall Caesar send a lie?
 Have I in conquest stretch'd mine arm so far,
 To be afraid to tell graybeards the truth?
 Decius, go tell them Caesar will not come.
@@ -2358,7 +2358,7 @@ And we, like friends, will straightway go together.
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act II, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  That every like is not the same, O Caesar,
+[Aside] That every like is not the same, O Caesar,
 The heart of Brutus yearns to think upon!
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -2411,7 +2411,7 @@ Art thou here yet?
 #ENTRY_BLURB=LUCIUS - The Tragedy of Julius Caesar - Act II, Scene IV
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Madam, what should I do?
+Madam, what should I do?
 Run to the Capitol, and nothing else?
 And so return to you, and nothing else?
 #END_ENTRY_TEXT
@@ -2466,7 +2466,7 @@ What is't o'clock?
 #ENTRY_BLURB=Soothsayer - The Tragedy of Julius Caesar - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  About the ninth hour, lady.
+About the ninth hour, lady.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PORTIA - The Tragedy of Julius Caesar - Act II, Scene IV
@@ -2530,7 +2530,7 @@ And bring me word what he doth say to thee.
 #ENTRY_BLURB=CAESAR - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[To the Soothsayer]  The ides of March are come.
+[To the Soothsayer] The ides of March are come.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Soothsayer - The Tragedy of Julius Caesar - Act III, Scene I
@@ -2688,7 +2688,7 @@ An humble heart,--
 #ENTRY_BLURB=CAESAR - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=14
 #BEGIN_ENTRY_TEXT
-                  I must prevent thee, Cimber.
+I must prevent thee, Cimber.
 These couchings and these lowly courtesies
 Might fire the blood of ordinary men,
 And turn pre-ordinance and first decree
@@ -2729,7 +2729,7 @@ What, Brutus!
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Pardon, Caesar; Caesar, pardon:
+Pardon, Caesar; Caesar, pardon:
 As low as to thy foot doth Cassius fall,
 To beg enfranchisement for Publius Cimber.
 #END_ENTRY_TEXT
@@ -2764,7 +2764,7 @@ O Caesar,--
 #ENTRY_BLURB=CAESAR - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-          Hence! wilt thou lift up Olympus?
+Hence! wilt thou lift up Olympus?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DECIUS BRUTUS - The Tragedy of Julius Caesar - Act III, Scene I
@@ -2776,7 +2776,7 @@ Great Caesar,--
 #ENTRY_BLURB=CAESAR - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Doth not Brutus bootless kneel?
+Doth not Brutus bootless kneel?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASCA - The Tragedy of Julius Caesar - Act III, Scene I
@@ -2869,7 +2869,7 @@ But we the doers.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Where is Antony?
+Where is Antony?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=TREBONIUS - The Tragedy of Julius Caesar - Act III, Scene I
@@ -2985,7 +2985,7 @@ Depart untouch'd.
 #ENTRY_BLURB=Servant - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I'll fetch him presently.
+I'll fetch him presently.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act III, Scene I
@@ -3107,7 +3107,7 @@ Mark Antony,--
 #ENTRY_BLURB=ANTONY - The Tragedy of Julius Caesar - Act III, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Pardon me, Caius Cassius:
+Pardon me, Caius Cassius:
 The enemies of Caesar shall say this;
 Then, in a friend, it is cold modesty.
 #END_ENTRY_TEXT
@@ -3233,7 +3233,7 @@ All pity choked with custom of fell deeds:
 And Caesar's spirit, ranging for revenge,
 With Ate by his side come hot from hell,
 Shall in these confines with a monarch's voice
-Cry  'Havoc,' and let slip the dogs of war;
+Cry 'Havoc,' and let slip the dogs of war;
 That this foul deed shall smell above the earth
 With carrion men, groaning for burial.
 You serve Octavius Caesar, do you not?
@@ -3311,7 +3311,7 @@ Of Caesar's death.
 #ENTRY_BLURB=First Citizen - The Tragedy of Julius Caesar - Act III, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I will hear Brutus speak.
+I will hear Brutus speak.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Second Citizen - The Tragedy of Julius Caesar - Act III, Scene II
@@ -3406,7 +3406,7 @@ Let him be Caesar.
 #ENTRY_BLURB=Fourth Citizen - The Tragedy of Julius Caesar - Act III, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  Caesar's better parts
+Caesar's better parts
 Shall be crown'd in Brutus.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4212,7 +4212,7 @@ I do consent--
 #ENTRY_BLURB=OCTAVIUS - The Tragedy of Julius Caesar - Act IV, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Prick him down, Antony.
+Prick him down, Antony.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LEPIDUS - The Tragedy of Julius Caesar - Act IV, Scene I
@@ -4517,7 +4517,7 @@ To undeservers.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  I an itching palm!
+I an itching palm!
 You know that you are Brutus that speak this,
 Or, by the gods, this speech were else your last.
 #END_ENTRY_TEXT
@@ -4554,7 +4554,7 @@ Than such a Roman.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Brutus, bay not me;
+Brutus, bay not me;
 I'll not endure it: you forget yourself,
 To hedge me in; I am a soldier, I,
 Older in practise, abler than yourself
@@ -4601,7 +4601,7 @@ Is't possible?
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Hear me, for I will speak.
+Hear me, for I will speak.
 Must I give way and room to your rash choler?
 Shall I be frighted when a madman stares?
 #END_ENTRY_TEXT
@@ -4757,7 +4757,7 @@ You love me not.
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I do not like your faults.
+I do not like your faults.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act IV, Scene III
@@ -4834,7 +4834,7 @@ And my heart too.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  O Brutus!
+O Brutus!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act IV, Scene III
@@ -4862,7 +4862,7 @@ He'll think your mother chides, and leave you so.
 #ENTRY_BLURB=Poet - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Within]  Let me go in to see the generals;
+[Within] Let me go in to see the generals;
 There is some grudge between 'em, 'tis not meet
 They be alone.
 #END_ENTRY_TEXT
@@ -4870,13 +4870,13 @@ They be alone.
 #ENTRY_BLURB=LUCILIUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  You shall not come to them.
+[Within] You shall not come to them.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Poet - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Nothing but death shall stay me.
+[Within] Nothing but death shall stay me.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act IV, Scene III
@@ -4922,7 +4922,7 @@ Companion, hence!
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Away, away, be gone.
+Away, away, be gone.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act IV, Scene III
@@ -5009,7 +5009,7 @@ And died so?
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Even so.
+Even so.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act IV, Scene III
@@ -5095,7 +5095,7 @@ Cicero one!
 #ENTRY_BLURB=MESSALA - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-          Cicero is dead,
+Cicero is dead,
 And by that order of proscription.
 Had you your letters from your wife, my lord?
 #END_ENTRY_TEXT
@@ -5121,7 +5121,7 @@ Nothing, Messala.
 #ENTRY_BLURB=MESSALA - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  That, methinks, is strange.
+That, methinks, is strange.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act IV, Scene III
@@ -5319,7 +5319,7 @@ Here in the tent.
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act IV, Scene III
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  What, thou speak'st drowsily?
+What, thou speak'st drowsily?
 Poor knave, I blame thee not; thou art o'er-watch'd.
 Call Claudius and some other of my men:
 I'll have them sleep on cushions in my tent.
@@ -5599,7 +5599,7 @@ But 'tis not so.
 #ENTRY_BLURB=Messenger - The Tragedy of Julius Caesar - Act V, Scene I
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  Prepare you, generals:
+Prepare you, generals:
 The enemy comes on in gallant show;
 Their bloody sign of battle is hung out,
 And something to be done immediately.
@@ -5778,7 +5778,7 @@ Old Cassius still!
 #ENTRY_BLURB=OCTAVIUS - The Tragedy of Julius Caesar - Act V, Scene I
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  Come, Antony, away!
+Come, Antony, away!
 Defiance, traitors, hurl we in your teeth:
 If you dare fight to-day, come to the field;
 If not, when you have stomachs.
@@ -5800,7 +5800,7 @@ Ho, Lucilius! hark, a word with you.
 #ENTRY_BLURB=LUCILIUS - The Tragedy of Julius Caesar - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Standing forth]	My lord?
+[Standing forth] My lord?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act V, Scene I
@@ -5812,7 +5812,7 @@ Messala!
 #ENTRY_BLURB=MESSALA - The Tragedy of Julius Caesar - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Standing forth]  What says my general?
+[Standing forth] What says my general?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act V, Scene I
@@ -5848,7 +5848,7 @@ Believe not so.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act V, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  I but believe it partly;
+I but believe it partly;
 For I am fresh of spirit and resolved
 To meet all perils very constantly.
 #END_ENTRY_TEXT
@@ -5862,7 +5862,7 @@ Even so, Lucilius.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act V, Scene I
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-                  Now, most noble Brutus,
+Now, most noble Brutus,
 The gods to-day stand friendly, that we may,
 Lovers in peace, lead on our days to age!
 But since the affairs of men rest still incertain,
@@ -5977,7 +5977,7 @@ They are, my lord.
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act V, Scene III
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Titinius, if thou lovest me,
+Titinius, if thou lovest me,
 Mount thou my horse, and hide thy spurs in him,
 Till he have brought thee up to yonder troops,
 And here again; that I may rest assured
@@ -6004,7 +6004,7 @@ My life is run his compass. Sirrah, what news?
 #ENTRY_BLURB=PINDARUS - The Tragedy of Julius Caesar - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Above]  O my lord!
+[Above] O my lord!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CASSIUS - The Tragedy of Julius Caesar - Act V, Scene III
@@ -6016,7 +6016,7 @@ What news?
 #ENTRY_BLURB=PINDARUS - The Tragedy of Julius Caesar - Act V, Scene III
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-[Above]  Titinius is enclosed round about
+[Above] Titinius is enclosed round about
 With horsemen, that make to him on the spur;
 Yet he spurs on. Now they are almost on him.
 Now, Titinius! Now some light. O, he lights too.
@@ -6103,7 +6103,7 @@ Is not that he?
 #ENTRY_BLURB=TITINIUS - The Tragedy of Julius Caesar - Act V, Scene III
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  No, this was he, Messala,
+No, this was he, Messala,
 But Cassius is no more. O setting sun,
 As in thy red rays thou dost sink to-night,
 So in his red blood Cassius' day is set;
@@ -6405,7 +6405,7 @@ What says my lord?
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act V, Scene V
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Why, this, Volumnius:
+Why, this, Volumnius:
 The ghost of Caesar hath appear'd to me
 Two several times by night; at Sardis once,
 And, this last night, here in Philippi fields:
@@ -6469,7 +6469,7 @@ Fly, my lord, fly.
 #ENTRY_BLURB=BRUTUS - The Tragedy of Julius Caesar - Act V, Scene V
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-                  Hence! I will follow.
+Hence! I will follow.
 I prithee, Strato, stay thou by thy lord:
 Thou art a fellow of a good respect;
 Thy life hath had some smatch of honour in it:

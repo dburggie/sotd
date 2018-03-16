@@ -210,7 +210,7 @@ Thou art a scholar; speak to it, Horatio.
 #ENTRY_BLURB=BERNARDO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-Looks it not like the king?  mark it, Horatio.
+Looks it not like the king? mark it, Horatio.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene I
@@ -249,7 +249,7 @@ It is offended.
 #ENTRY_BLURB=BERNARDO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  See, it stalks away!
+See, it stalks away!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene I
@@ -283,7 +283,7 @@ Of mine own eyes.
 #ENTRY_BLURB=MARCELLUS - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Is it not like the king?
+Is it not like the king?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene I
@@ -594,7 +594,7 @@ But now, my cousin Hamlet, and my son,--
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  A little more than kin, and less than kind.
+[Aside] A little more than kin, and less than kind.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
@@ -841,7 +841,7 @@ Where, my lord?
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  In my mind's eye, Horatio.
+In my mind's eye, Horatio.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
@@ -1038,7 +1038,7 @@ Nay, very pale.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  And fix'd his eyes upon you?
+And fix'd his eyes upon you?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
@@ -1050,7 +1050,7 @@ Most constantly.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I would I had been there.
+I would I had been there.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
@@ -1086,7 +1086,7 @@ Not when I saw't.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  His beard was grizzled--no?
+His beard was grizzled--no?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
@@ -1099,7 +1099,7 @@ A sable silver'd.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  I will watch to-night;
+I will watch to-night;
 Perchance 'twill walk again.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1127,7 +1127,7 @@ I'll visit you.
 #ENTRY_BLURB=All - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Our duty to your honour.
+Our duty to your honour.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene II
@@ -1168,7 +1168,7 @@ The perfume and suppliance of a minute; No more.
 #ENTRY_BLURB=OPHELIA - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-       No more but so?
+No more but so?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene III
@@ -1426,7 +1426,7 @@ What hour now?
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I think it lacks of twelve.
+I think it lacks of twelve.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene IV
@@ -1531,7 +1531,7 @@ To you alone.
 #ENTRY_BLURB=MARCELLUS - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene IV
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Look, with what courteous action
+Look, with what courteous action
 It waves you to a more removed ground:
 But do not go with it.
 #END_ENTRY_TEXT
@@ -1557,7 +1557,7 @@ Do not, my lord.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene IV
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Why, what should be the fear?
+Why, what should be the fear?
 I do not set my life in a pin's fee;
 And for my soul, what can it do to that,
 Being a thing immortal as itself?
@@ -1666,13 +1666,13 @@ Mark me.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-       I will.
+I will.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Ghost - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  My hour is almost come,
+My hour is almost come,
 When I to sulphurous and tormenting flames
 Must render up myself.
 #END_ENTRY_TEXT
@@ -1866,19 +1866,19 @@ I have sworn 't.
 #ENTRY_BLURB=MARCELLUS and HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  My lord, my lord,--
+[Within] My lord, my lord,--
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=MARCELLUS - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]	Lord Hamlet,--
+[Within] Lord Hamlet,--
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]	Heaven secure him!
+[Within] Heaven secure him!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -1890,7 +1890,7 @@ So be it!
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Hillo, ho, ho, my lord!
+[Within] Hillo, ho, ho, my lord!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -1920,7 +1920,7 @@ O, wonderful!
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Good my lord, tell it.
+Good my lord, tell it.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -1971,7 +1971,7 @@ To tell us this.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  Why, right; you are i' the right;
+Why, right; you are i' the right;
 And so, without more circumstance at all,
 I hold it fit that we shake hands and part:
 You, as your business and desire shall point you;
@@ -2045,7 +2045,7 @@ My lord, not I.
 #ENTRY_BLURB=MARCELLUS - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Nor I, my lord, in faith.
+Nor I, my lord, in faith.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -2057,7 +2057,7 @@ Upon my sword.
 #ENTRY_BLURB=MARCELLUS - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  We have sworn, my lord, already.
+We have sworn, my lord, already.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -2069,7 +2069,7 @@ Indeed, upon my sword, indeed.
 #ENTRY_BLURB=Ghost - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Beneath]  Swear.
+[Beneath] Swear.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -2084,7 +2084,7 @@ Consent to swear.
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Propose the oath, my lord.
+Propose the oath, my lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -2097,7 +2097,7 @@ Swear by my sword.
 #ENTRY_BLURB=Ghost - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Beneath]  Swear.
+[Beneath] Swear.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -2113,7 +2113,7 @@ Swear by my sword.
 #ENTRY_BLURB=Ghost - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Beneath]  Swear.
+[Beneath] Swear.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -2152,7 +2152,7 @@ So grace and mercy at your most need help you, Swear.
 #ENTRY_BLURB=Ghost - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Beneath]  Swear.
+[Beneath] Swear.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act I, Scene V
@@ -2193,7 +2193,7 @@ Of his behavior.
 #ENTRY_BLURB=REYNALDO - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  My lord, I did intend it.
+My lord, I did intend it.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene I
@@ -2284,7 +2284,7 @@ I would know that.
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene I
 #ENTRY_LENGTH=11
 #BEGIN_ENTRY_TEXT
-                  Marry, sir, here's my drift;
+Marry, sir, here's my drift;
 And I believe, it is a fetch of wit:
 You laying these slight sullies on my son,
 As 'twere a thing a little soil'd i' the working, Mark you,
@@ -2347,7 +2347,7 @@ My lord, I have.
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  God be wi' you; fare you well.
+God be wi' you; fare you well.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=REYNALDO - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene I
@@ -2421,7 +2421,7 @@ Mad for thy love?
 #ENTRY_BLURB=OPHELIA - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  My lord, I do not know;
+My lord, I do not know;
 But truly, I do fear it.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -2473,7 +2473,7 @@ His access to me.
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene I
 #ENTRY_LENGTH=11
 #BEGIN_ENTRY_TEXT
-                  That hath made him mad.
+That hath made him mad.
 I am sorry that with better heed and judgment
 I had not quoted him: I fear'd he did but trifle,
 And meant to wreck thee; but, beshrew my jealousy!
@@ -2534,7 +2534,7 @@ Than to entreaty.
 #ENTRY_BLURB=GUILDENSTERN - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  But we both obey,
+But we both obey,
 And here give up ourselves, in the full bent
 To lay our service freely at your feet,
 To be commanded.
@@ -2669,7 +2669,7 @@ Most welcome home!
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=11
 #BEGIN_ENTRY_TEXT
-                  This business is well ended.
+This business is well ended.
 My liege, and madam, to expostulate
 What majesty should be, what duty is,
 Why day is day, night night, and time is time,
@@ -2685,7 +2685,7 @@ But let that go.
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  More matter, with less art.
+More matter, with less art.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
@@ -2707,7 +2707,7 @@ Hath given me this: now gather, and surmise.
 beautified Ophelia,'--
 That's an ill phrase, a vile phrase; 'beautified' is
 a vile phrase: but you shall hear. Thus:
-'In her excellent white bosom, these,  & c.'
+'In her excellent white bosom, these, etc.'
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
@@ -2745,7 +2745,7 @@ Received his love?
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  What do you think of me?
+What do you think of me?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
@@ -2819,7 +2819,7 @@ Within the centre.
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  How may we try it further?
+How may we try it further?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
@@ -2832,7 +2832,7 @@ Here in the lobby.
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  So he does indeed.
+So he does indeed.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
@@ -2940,7 +2940,7 @@ Friend, look to 't.
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-[Aside]  How say you by that? Still harping on my
+[Aside] How say you by that? Still harping on my
 daughter: yet he knew me not at first; he said I
 was a fishmonger: he is far gone, far gone: and
 truly in my youth I suffered much extremity for
@@ -2989,7 +2989,7 @@ you could go backward.
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  Though this be madness, yet there is method
+[Aside] Though this be madness, yet there is method
 in 't. Will you walk out of the air, my lord?
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -3040,7 +3040,7 @@ You go to seek the Lord Hamlet; there he is.
 #ENTRY_BLURB=ROSENCRANTZ - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[To POLONIUS]  God save you, sir!
+[To POLONIUS] God save you, sir!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GUILDENSTERN - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
@@ -3270,13 +3270,13 @@ whether you were sent for, or no?
 #ENTRY_BLURB=ROSENCRANTZ - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside to GUILDENSTERN]  What say you?
+[Aside to GUILDENSTERN] What say you?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  Nay, then, I have an eye of you.--If you
+[Aside] Nay, then, I have an eye of you.--If you
 love me, hold not off.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -3585,7 +3585,7 @@ The which he loved passing well.'
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  Still on my daughter.
+[Aside] Still on my daughter.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act II, Scene II
@@ -3950,7 +3950,7 @@ Of his true state.
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Did he receive you well?
+Did he receive you well?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ROSENCRANTZ - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene I
@@ -4016,7 +4016,7 @@ We shall, my lord.
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene I
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-                  Sweet Gertrude, leave us too;
+Sweet Gertrude, leave us too;
 For we have closely sent for Hamlet hither,
 That he, as 'twere by accident, may here
 Affront Ophelia:
@@ -4061,7 +4061,7 @@ The devil himself.
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene I
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-[Aside]          O, 'tis too true!
+[Aside] O, 'tis too true!
 How smart a lash that speech doth give my conscience!
 The harlot's cheek, beautied with plastering art,
 Is not more ugly to the thing that helps it
@@ -4468,7 +4468,7 @@ O, my dear lord,--
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=32
 #BEGIN_ENTRY_TEXT
-                  Nay, do not think I flatter;
+Nay, do not think I flatter;
 For what advancement may I hope from thee
 That no revenue hast but thy good spirits,
 To feed and clothe thee? Why should the poor be flatter'd?
@@ -4591,7 +4591,7 @@ No, good mother, here's metal more attractive.
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[To KING CLAUDIUS]  O, ho! do you mark that?
+[To KING CLAUDIUS] O, ho! do you mark that?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
@@ -4740,7 +4740,7 @@ You are naught, you are naught: I'll mark the play.
 #ENTRY_BLURB=Prologue - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-     For us, and for our tragedy,
+For us, and for our tragedy,
 Here stooping to your clemency,
 We beg your hearing patiently.
 #END_ENTRY_TEXT
@@ -4766,7 +4766,7 @@ As woman's love.
 #ENTRY_BLURB=Player King - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-   Full thirty times hath Phoebus' cart gone round
+Full thirty times hath Phoebus' cart gone round
 Neptune's salt wash and Tellus' orbed ground,
 And thirty dozen moons with borrow'd sheen
 About the world have times twelve thirties been,
@@ -4777,7 +4777,7 @@ Unite commutual in most sacred bands.
 #ENTRY_BLURB=Player Queen - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=12
 #BEGIN_ENTRY_TEXT
-   So many journeys may the sun and moon
+So many journeys may the sun and moon
 Make us again count o'er ere love be done!
 But, woe is me, you are so sick of late,
 So far from cheer and from your former state,
@@ -4813,13 +4813,13 @@ None wed the second but who kill'd the first.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  Wormwood, wormwood.
+[Aside] Wormwood, wormwood.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Player Queen - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-   The instances that second marriage move
+The instances that second marriage move
 Are base respects of thrift, but none of love:
 A second time I kill my husband dead,
 When second husband kisses me in bed.
@@ -4828,7 +4828,7 @@ When second husband kisses me in bed.
 #ENTRY_BLURB=Player King - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=30
 #BEGIN_ENTRY_TEXT
-   I do believe you think what now you speak;
+I do believe you think what now you speak;
 But what we do determine oft we break.
 Purpose is but the slave to memory,
 Of violent birth, but poor validity;
@@ -4863,7 +4863,7 @@ But die thy thoughts when thy first lord is dead.
 #ENTRY_BLURB=Player Queen - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-   Nor earth to me give food, nor heaven light!
+Nor earth to me give food, nor heaven light!
 Sport and repose lock from me day and night!
 To desperation turn my trust and hope!
 An anchor's cheer in prison be my scope!
@@ -4986,64 +4986,7 @@ pox, leave thy damnable faces, and begin. Come:
 #ENTRY_BLURB=LUCIANUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-   Thoughts black, hands apt, drugs fit, and time agreeing;
-Confederate season, else no creature seeing;
-Thou mixture rank, of midnight weeds collected,
-With Hecate's ban thrice blasted, thrice infected,
-Thy natural magic and dire property,
-On wholesome life usurp immediately.
-[Pours the poison into the sleeper's ears]
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=4
-#BEGIN_ENTRY_TEXT
-He poisons him i' the garden for's estate. His
-name's Gonzago: the story is extant, and writ in
-choice Italian: you shall see anon how the murderer
-gets the love of Gonzago's wife.
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=OPHELIA - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=1
-#BEGIN_ENTRY_TEXT
-The king rises.
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=1
-#BEGIN_ENTRY_TEXT
-What, frighted with false fire!
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=1
-#BEGIN_ENTRY_TEXT
-How fares my lord?
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=1
-#BEGIN_ENTRY_TEXT
-Give o'er the play.
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=1
-#BEGIN_ENTRY_TEXT
-Give me some light: away!
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=All - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=1
-#BEGIN_ENTRY_TEXT
-Lights, lights, lights!
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene II
-#ENTRY_LENGTH=8
-#BEGIN_ENTRY_TEXT
-     Why, let the stricken deer go weep,
+Why, let the stricken deer go weep,
 The hart ungalled play;
 For some must watch, while some must sleep:
 So runs the world away.
@@ -5582,7 +5525,7 @@ This physic but prolongs thy sickly days.
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene III
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Rising]  My words fly up, my thoughts remain below:
+[Rising] My words fly up, my thoughts remain below:
 Words without thoughts never to heaven go.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5599,7 +5542,7 @@ Pray you, be round with him.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Mother, mother, mother!
+[Within] Mother, mother, mother!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene IV
@@ -5689,19 +5632,19 @@ Help, help, ho!
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Behind]  What, ho! help, help, help!
+[Behind] What, ho! help, help, help!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Drawing]  How now! a rat? Dead, for a ducat, dead!
+[Drawing] How now! a rat? Dead, for a ducat, dead!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LORD POLONIUS - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Behind]  O, I am slain!
+[Behind] O, I am slain!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene IV
@@ -5739,7 +5682,7 @@ As kill a king!
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act III, Scene IV
 #ENTRY_LENGTH=9
 #BEGIN_ENTRY_TEXT
-                  Ay, lady, 'twas my word.
+Ay, lady, 'twas my word.
 Thou wretched, rash, intruding fool, farewell!
 I took thee for thy better: take thy fortune;
 Thou find'st to be too busy is some danger.
@@ -6018,7 +5961,7 @@ That aptly is put on. Refrain to-night,
 And that shall lend a kind of easiness
 To the next abstinence: the next more easy;
 For use almost can change the stamp of nature,
-And either [         ] the devil, or throw him out
+And either [. . . .] the devil, or throw him out
 With wondrous potency. Once more, good night:
 And when you are desirous to be bless'd,
 I'll blessing beg of you. For this same lord,
@@ -6187,7 +6130,7 @@ Safely stowed.
 #ENTRY_BLURB=ROSENCRANTZ and GUILDENSTERN - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Hamlet! Lord Hamlet!
+[Within] Hamlet! Lord Hamlet!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene II
@@ -6440,7 +6383,7 @@ For England.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  For England!
+For England!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene III
@@ -6933,7 +6876,7 @@ No, let's come in.
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I pray you, give me leave.
+I pray you, give me leave.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Danes - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene V
@@ -6952,7 +6895,7 @@ Give me my father!
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Calmly, good Laertes.
+Calmly, good Laertes.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene V
@@ -6967,7 +6910,7 @@ Of my true mother.
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene V
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-                  What is the cause, Laertes,
+What is the cause, Laertes,
 That thy rebellion looks so giant-like?
 Let him go, Gertrude; do not fear our person:
 There's such divinity doth hedge a king,
@@ -7071,7 +7014,7 @@ As day does to your eye.
 #ENTRY_BLURB=Danes - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]                Let her come in.
+[Within] Let her come in.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene V
@@ -7258,7 +7201,7 @@ let to know it is.
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene VI
 #ENTRY_LENGTH=22
 #BEGIN_ENTRY_TEXT
-[Reads]  'Horatio, when thou shalt have overlooked
+[Reads] 'Horatio, when thou shalt have overlooked
 this, give these fellows some means to the king:
 they have letters for him. Ere we were two days old
 at sea, a pirate of very warlike appointment gave us
@@ -7295,7 +7238,7 @@ Pursued my life.
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene VII
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  It well appears: but tell me
+It well appears: but tell me
 Why you proceeded not against these feats,
 So crimeful and so capital in nature,
 As by your safety, wisdom, all things else,
@@ -7370,11 +7313,12 @@ Of him that brought them.
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
 Laertes, you shall hear them. Leave us.
-'High and mighty, You shall know I am set naked on
-your kingdom. To-morrow shall I beg leave to see
-your kingly eyes: when I shall, first asking your
-pardon thereunto, recount the occasion of my sudden
-and more strange return.                  'HAMLET.'
+ "High and mighty, You shall know I am set naked on
+  your kingdom. To-morrow shall I beg leave to see
+  your kingly eyes: when I shall, first asking your
+  pardon thereunto, recount the occasion of my sudden
+  and more strange return.
+    HAMLET."
 What should this mean? Are all the rest come back?
 Or is it some abuse, and no such thing?
 #END_ENTRY_TEXT
@@ -7607,7 +7551,7 @@ It may be death.
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene VII
 #ENTRY_LENGTH=15
 #BEGIN_ENTRY_TEXT
-                  Let's further think of this;
+Let's further think of this;
 Weigh what convenience both of time and means
 May fit us to our shape: if this should fail,
 And that our drift look through our bad performance,
@@ -7663,7 +7607,7 @@ To muddy death.
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene VII
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Alas, then, she is drown'd?
+Alas, then, she is drown'd?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act IV, Scene VII
@@ -7725,7 +7669,7 @@ Why, 'tis found so.
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
 It must be 'se offendendo;' it cannot be else. For
-here lies the point:  if I drown myself wittingly,
+here lies the point: if I drown myself wittingly,
 it argues an act: and an act hath three branches: it
 is, to act, to do, to perform: argal, she drowned
 herself wittingly.
@@ -8423,7 +8367,7 @@ Of blue Olympus.
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Advancing]     What is he whose grief
+[Advancing] What is he whose grief
 Bears such an emphasis? whose phrase of sorrow
 Conjures the wandering stars, and makes them stand
 Like wonder-wounded hearers? This is I,
@@ -8433,7 +8377,7 @@ Hamlet the Dane.
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  The devil take thy soul!
+The devil take thy soul!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene I
@@ -8467,7 +8411,7 @@ Gentlemen,--
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Good my lord, be quiet.
+Good my lord, be quiet.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene I
@@ -9298,7 +9242,7 @@ Come on, sir.
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Come, my lord.
+Come, my lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
@@ -9361,7 +9305,7 @@ Our son shall win.
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  He's fat, and scant of breath.
+He's fat, and scant of breath.
 Here, Hamlet, take my napkin, rub thy brows;
 The queen carouses to thy fortune, Hamlet.
 #END_ENTRY_TEXT
@@ -9375,7 +9319,7 @@ Good madam!
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-          Gertrude, do not drink.
+Gertrude, do not drink.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=QUEEN GERTRUDE - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
@@ -9387,7 +9331,7 @@ I will, my lord; I pray you, pardon me.
 #ENTRY_BLURB=KING CLAUDIUS - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  It is the poison'd cup: it is too late.
+[Aside] It is the poison'd cup: it is too late.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
@@ -9417,7 +9361,7 @@ I do not think't.
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  And yet 'tis almost 'gainst my conscience.
+[Aside] And yet 'tis almost 'gainst my conscience.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HAMLET - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
@@ -9461,7 +9405,7 @@ Nay, come, again.
 #ENTRY_BLURB=OSRIC - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Look to the queen there, ho!
+Look to the queen there, ho!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HORATIO - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
@@ -9553,7 +9497,7 @@ Follow my mother.
 #ENTRY_BLURB=LAERTES - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-                  He is justly served;
+He is justly served;
 It is a poison temper'd by himself.
 Exchange forgiveness with me, noble Hamlet:
 Mine and my father's death come not upon thee,
@@ -9682,7 +9626,7 @@ Truly deliver.
 #ENTRY_BLURB=PRINCE FORTINBRAS - The Tragedy of Hamlet, Prince of Denmark - Act V, Scene II
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Let us haste to hear it,
+Let us haste to hear it,
 And call the noblest to the audience.
 For me, with sorrow I embrace my fortune:
 I have some rights of memory in this kingdom,

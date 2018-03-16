@@ -619,7 +619,7 @@ Our greatest friends attend us.
 #ENTRY_BLURB=TITUS - The Tragedy of Coriolanus - Act I, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[To COMINIUS]                Lead you on.
+[To COMINIUS] Lead you on.
 Right worthy you priority.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -632,7 +632,7 @@ Noble Marcius!
 #ENTRY_BLURB=First Senator - The Tragedy of Coriolanus - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[To the Citizens]  Hence to your homes; be gone!
+[To the Citizens] Hence to your homes; be gone!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=MARCIUS - The Tragedy of Coriolanus - Act I, Scene I
@@ -780,7 +780,7 @@ Consider of it.'
 #ENTRY_BLURB=First Senator - The Tragedy of Coriolanus - Act I, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Our army's in the field
+Our army's in the field
 We never yet made doubt but Rome was ready
 To answer us.
 #END_ENTRY_TEXT
@@ -788,7 +788,7 @@ To answer us.
 #ENTRY_BLURB=AUFIDIUS - The Tragedy of Coriolanus - Act I, Scene II
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-                  Nor did you think it folly
+Nor did you think it folly
 To keep your great pretences veil'd till when
 They needs must show themselves; which
 in the hatching,
@@ -1415,7 +1415,7 @@ To help Cominius.
 #ENTRY_BLURB=LARTIUS - The Tragedy of Coriolanus - Act I, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Worthy sir, thou bleed'st;
+Worthy sir, thou bleed'st;
 Thy exercise hath been too violent for
 A second course of fight.
 #END_ENTRY_TEXT
@@ -1524,7 +1524,7 @@ Before-time seen him thus.
 #ENTRY_BLURB=MARCIUS - The Tragedy of Coriolanus - Act I, Scene VI
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]                 Come I too late?
+[Within] Come I too late?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COMINIUS - The Tragedy of Coriolanus - Act I, Scene VI
@@ -1834,7 +1834,7 @@ Your only choice.
 #ENTRY_BLURB=MARCIUS - The Tragedy of Coriolanus - Act I, Scene IX
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  I thank you, general;
+I thank you, general;
 But cannot make my heart consent to take
 A bribe to pay my sword: I do refuse it;
 And stand upon my common part with those
@@ -1954,7 +1954,7 @@ Marcius, his name?
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act I, Scene IX
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  By Jupiter! forgot.
+By Jupiter! forgot.
 I am weary; yea, my memory is tired.
 Have we no wine here?
 #END_ENTRY_TEXT
@@ -2506,7 +2506,7 @@ Pray now, no more.
 #ENTRY_BLURB=COMINIUS - The Tragedy of Coriolanus - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Look, sir, your mother!
+Look, sir, your mother!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act II, Scene I
@@ -2520,7 +2520,7 @@ For my prosperity!
 #ENTRY_BLURB=VOLUMNIA - The Tragedy of Coriolanus - Act II, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Nay, my good soldier, up;
+Nay, my good soldier, up;
 My gentle Marcius, worthy Caius, and
 By deed-achieving honour newly named,--
 What is it?--Coriolanus must I call thee?--
@@ -2530,7 +2530,7 @@ But O, thy wife!
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act II, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  My gracious silence, hail!
+My gracious silence, hail!
 Wouldst thou have laugh'd had I come coffin'd home,
 That weep'st to see me triumph? Ay, my dear,
 Such eyes the widows in Corioli wear,
@@ -2593,7 +2593,7 @@ Give way there, and go on!
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act II, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[To VOLUMNIA and VIRGILIA]  Your hand, and yours:
+[To VOLUMNIA and VIRGILIA] Your hand, and yours:
 Ere in our own house I do shade my head,
 The good patricians must be visited;
 From whom I have received not only greetings,
@@ -3325,7 +3325,7 @@ To think upon you.
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act II, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Think upon me! hang 'em!
+Think upon me! hang 'em!
 I would they would forget me, like the virtues
 Which our divines lose by 'em.
 #END_ENTRY_TEXT
@@ -3851,8 +3851,8 @@ That Ancus Marcius, Numa's daughter's son,
 Who, after great Hostilius, here was king;
 Of the same house Publius and Quintus were,
 That our beat water brought by conduits hither;
-And  [Censorinus,]  nobly named so,
-Twice being  [by the people chosen]  censor,
+And [Censorinus,] nobly named so,
+Twice being [by the people chosen] censor,
 Was his great ancestor.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -3942,7 +3942,7 @@ Saw you Aufidius?
 #ENTRY_BLURB=LARTIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-On safe-guard he  came to me; and did curse
+On safe-guard he came to me; and did curse
 Against the Volsces, for they had so vilely
 Yielded the town: he is retired to Antium.
 #END_ENTRY_TEXT
@@ -3956,7 +3956,7 @@ Spoke he of me?
 #ENTRY_BLURB=LARTIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  He did, my lord.
+He did, my lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
@@ -4043,7 +4043,7 @@ Cominius, no.
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Have I had children's voices?
+Have I had children's voices?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Senator - The Tragedy of Coriolanus - Act III, Scene I
@@ -4188,7 +4188,7 @@ Not now, not now.
 #ENTRY_BLURB=First Senator - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Not in this heat, sir, now.
+Not in this heat, sir, now.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
@@ -4427,7 +4427,7 @@ As traitors do.
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-                  Thou wretch, despite o'erwhelm thee!
+Thou wretch, despite o'erwhelm thee!
 What should the people do with these bald tribunes?
 On whom depending, their obedience fails
 To the greater bench: in a rebellion,
@@ -4446,7 +4446,7 @@ Manifest treason!
 #ENTRY_BLURB=SICINIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  This a consul? no.
+This a consul? no.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BRUTUS - The Tragedy of Coriolanus - Act III, Scene I
@@ -4467,16 +4467,21 @@ And follow to thine answer.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Hence, old goat!
-Senators,  & C	We'll surety him.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Senators, etc - The Tragedy of Coriolanus - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+We'll surety him.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COMINIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Aged sir, hands off.
+Aged sir, hands off.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene I
@@ -4511,10 +4516,15 @@ Seize him, AEdiles!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Citizens - The Tragedy of Coriolanus - Act III, Scene I
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Down with him! down with him!
-Senators,  & C	Weapons, weapons, weapons!
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Senators etc - The Tragedy of Coriolanus - Act III, Scene I
+#ENTRY_LENGTH=4
+#BEGIN_ENTRY_TEXT
+Weapons, weapons, weapons!
 'Tribunes!' 'Patricians!' 'Citizens!' 'What, ho!'
 'Sicinius!' 'Brutus!' 'Coriolanus!' 'Citizens!'
 'Peace, peace, peace!' 'Stay, hold, peace!'
@@ -4622,7 +4632,7 @@ Of present death.
 #ENTRY_BLURB=SICINIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Therefore lay hold of him;
+Therefore lay hold of him;
 Bear him to the rock Tarpeian, and from thence
 Into destruction cast him.
 #END_ENTRY_TEXT
@@ -4655,7 +4665,7 @@ Peace, peace!
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-[To BRUTUS]  Be that you seem, truly your
+[To BRUTUS] Be that you seem, truly your
 country's friend,
 And temperately proceed to what you would
 Thus violently redress.
@@ -4953,7 +4963,7 @@ He dies to-night.
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Now the good gods forbid
+Now the good gods forbid
 That our renowned Rome, whose gratitude
 Towards her deserved children is enroll'd
 In Jove's own book, like an unnatural dam
@@ -4996,7 +5006,7 @@ It honour'd him.
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  The service of the foot
+The service of the foot
 Being once gangrened, is not then respected
 For what before it was.
 #END_ENTRY_TEXT
@@ -5013,7 +5023,7 @@ Spread further.
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-                  One word more, one word.
+One word more, one word.
 This tiger-footed rage, when it shall find
 The harm of unscann'd swiftness, will too late
 Tie leaden pounds to's heels. Proceed by process;
@@ -5081,7 +5091,7 @@ In our first way.
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act III, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  I'll bring him to you.
+I'll bring him to you.
 Let me desire your company: he must come,
 Or what is worst will follow.
 #END_ENTRY_TEXT
@@ -5128,7 +5138,7 @@ The man I am.
 #ENTRY_BLURB=VOLUMNIA - The Tragedy of Coriolanus - Act III, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  O, sir, sir, sir,
+O, sir, sir, sir,
 I would have had you put your power well on,
 Before you had worn it out.
 #END_ENTRY_TEXT
@@ -5189,7 +5199,7 @@ To better vantage.
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act III, Scene II
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Well said, noble woman?
+Well said, noble woman?
 Before he should thus stoop to the herd, but that
 The violent fit o' the time craves it as physic
 For the whole state, I would put mine armour on,
@@ -5303,7 +5313,7 @@ Of what is past.
 #ENTRY_BLURB=VOLUMNIA - The Tragedy of Coriolanus - Act III, Scene II
 #ENTRY_LENGTH=15
 #BEGIN_ENTRY_TEXT
-                  I prithee now, my son,
+I prithee now, my son,
 Go to them, with this bonnet in thy hand;
 And thus far having stretch'd it--here be with them--
 Thy knee bussing the stones--for in such business
@@ -5355,7 +5365,7 @@ Only fair speech.
 #ENTRY_BLURB=COMINIUS - The Tragedy of Coriolanus - Act III, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  I think 'twill serve, if he
+I think 'twill serve, if he
 Can thereto frame his spirit.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -5736,7 +5746,7 @@ How! traitor!
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act III, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Nay, temperately; your promise.
+Nay, temperately; your promise.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act III, Scene III
@@ -5878,7 +5888,7 @@ Speak that,--
 #ENTRY_BLURB=SICINIUS - The Tragedy of Coriolanus - Act III, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  We know your drift: speak what?
+We know your drift: speak what?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BRUTUS - The Tragedy of Coriolanus - Act III, Scene III
@@ -6074,7 +6084,7 @@ In his behalf.
 #ENTRY_BLURB=BRUTUS - The Tragedy of Coriolanus - Act IV, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Now we have shown our power,
+Now we have shown our power,
 Let us seem humbler after it is done
 Than when it was a-doing.
 #END_ENTRY_TEXT
@@ -6128,7 +6138,7 @@ Requite your love!
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Peace, peace; be not so loud.
+Peace, peace; be not so loud.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=VOLUMNIA - The Tragedy of Coriolanus - Act IV, Scene II
@@ -6142,14 +6152,14 @@ Will you be gone?
 #ENTRY_BLURB=VIRGILIA - The Tragedy of Coriolanus - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[To SICINIUS]  You shall stay too: I would I had the power
+[To SICINIUS] You shall stay too: I would I had the power
 To say so to my husband.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SICINIUS - The Tragedy of Coriolanus - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-Are  you mankind?
+Are you mankind?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=VOLUMNIA - The Tragedy of Coriolanus - Act IV, Scene II
@@ -6453,7 +6463,7 @@ And you.
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act IV, Scene IV
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-       Direct me, if it be your will,
+Direct me, if it be your will,
 Where great Aufidius lies: is he in Antium?
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -7177,7 +7187,7 @@ Hail sir!
 #ENTRY_BLURB=MENENIUS - The Tragedy of Coriolanus - Act IV, Scene VI
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-        Hail to you both!
+Hail to you both!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SICINIUS - The Tragedy of Coriolanus - Act IV, Scene VI
@@ -7270,7 +7280,7 @@ Crying confusion.
 #ENTRY_BLURB=BRUTUS - The Tragedy of Coriolanus - Act IV, Scene VI
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  Caius Marcius was
+Caius Marcius was
 A worthy officer i' the war; but insolent,
 O'ercome with pride, ambitious past all thinking,
 Self-loving,--
@@ -7279,7 +7289,7 @@ Self-loving,--
 #ENTRY_BLURB=SICINIUS - The Tragedy of Coriolanus - Act IV, Scene VI
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  And affecting one sole throne,
+And affecting one sole throne,
 Without assistance.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -7729,7 +7739,7 @@ Even by your own.
 #ENTRY_BLURB=AUFIDIUS - The Tragedy of Coriolanus - Act IV, Scene VII
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  I cannot help it now,
+I cannot help it now,
 Unless, by using means, I lame the foot
 Of our design. He bears himself more proudlier,
 Even to my person, than I thought he would
@@ -7974,7 +7984,7 @@ Of my success.
 #ENTRY_BLURB=COMINIUS - The Tragedy of Coriolanus - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  He'll never hear him.
+He'll never hear him.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SICINIUS - The Tragedy of Coriolanus - Act V, Scene I
@@ -8247,7 +8257,7 @@ Now, sir, is your name Menenius?
 #ENTRY_BLURB=Second Senator - The Tragedy of Coriolanus - Act V, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-'Tis a spell, you see, of much  power: you know the
+'Tis a spell, you see, of much power: you know the
 way home again.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -8644,7 +8654,7 @@ Stand to me in this cause. O mother! wife!
 #ENTRY_BLURB=AUFIDIUS - The Tragedy of Coriolanus - Act V, Scene III
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-[Aside]  I am glad thou hast set thy mercy and
+[Aside] I am glad thou hast set thy mercy and
 thy honour
 At difference in thee: out of that I'll work
 Myself a former fortune.
@@ -9078,7 +9088,7 @@ Traitor! how now!
 #ENTRY_BLURB=AUFIDIUS - The Tragedy of Coriolanus - Act V, Scene VI
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Ay, traitor, Marcius!
+Ay, traitor, Marcius!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORIOLANUS - The Tragedy of Coriolanus - Act V, Scene VI

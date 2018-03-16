@@ -80,7 +80,7 @@ His measure duly.
 #ENTRY_BLURB=Second Gentleman - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  What's his name and birth?
+What's his name and birth?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Gentleman - Cymbeline - Act I, Scene I
@@ -316,7 +316,7 @@ And bless the good remainders of the court! I am gone.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  There cannot be a pinch in death
+There cannot be a pinch in death
 More sharp than this is.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -379,7 +379,7 @@ A lustre to it.
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  O thou vile one!
+O thou vile one!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act I, Scene I
@@ -418,7 +418,7 @@ And pen her up.
 #ENTRY_BLURB=QUEEN - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  Beseech your patience. Peace,
+Beseech your patience. Peace,
 Dear lady daughter, peace! Sweet sovereign,
 Leave us to ourselves; and make yourself some comfort
 Out of your best advice.
@@ -435,7 +435,7 @@ Die of this folly!
 #ENTRY_BLURB=QUEEN - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  Fie! you must give way.
+Fie! you must give way.
 Here is your servant. How now, sir! What news?
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -497,7 +497,7 @@ He will remain so.
 #ENTRY_BLURB=PISANIO - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I humbly thank your highness.
+I humbly thank your highness.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=QUEEN - Cymbeline - Act I, Scene I
@@ -509,7 +509,7 @@ Pray, walk awhile.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  About some half-hour hence,
+About some half-hour hence,
 I pray you, speak with me: you shall at least
 Go see my lord aboard: for this time leave me.
 #END_ENTRY_TEXT
@@ -532,7 +532,7 @@ If my shirt were bloody, then to shift it. Have I hurt him?
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  No, 'faith; not so much as his patience.
+[Aside] No, 'faith; not so much as his patience.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Lord - Cymbeline - Act I, Scene II
@@ -545,7 +545,7 @@ not hurt: it is a thoroughfare for steel, if it be not hurt.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  His steel was in debt; it went o' the
+[Aside] His steel was in debt; it went o' the
 backside the town.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -558,7 +558,7 @@ The villain would not stand me.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  No; but he fled forward still, toward your face.
+[Aside] No; but he fled forward still, toward your face.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Lord - Cymbeline - Act I, Scene II
@@ -571,7 +571,7 @@ he added to your having; gave you some ground.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  As many inches as you have oceans. Puppies!
+[Aside] As many inches as you have oceans. Puppies!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CLOTEN - Cymbeline - Act I, Scene II
@@ -583,7 +583,7 @@ I would they had not come between us.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  So would I, till you had measured how long
+[Aside] So would I, till you had measured how long
 a fool you were upon the ground.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -596,7 +596,7 @@ And that she should love this fellow and refuse me!
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  If it be a sin to make a true election, she
+[Aside] If it be a sin to make a true election, she
 is damned.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -611,7 +611,7 @@ small reflection of her wit.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  She shines not upon fools, lest the
+[Aside] She shines not upon fools, lest the
 reflection should hurt her.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -625,7 +625,7 @@ hurt done!
 #ENTRY_BLURB=Second Lord - Cymbeline - Act I, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  I wish not so; unless it had been the fall
+[Aside] I wish not so; unless it had been the fall
 of an ass, which is no great hurt.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -691,7 +691,7 @@ And that was all?
 #ENTRY_BLURB=PISANIO - Cymbeline - Act I, Scene III
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  No, madam; for so long
+No, madam; for so long
 As he could make me with this eye or ear
 Distinguish him from others, he did keep
 The deck, with glove, or hat, or handkerchief,
@@ -711,7 +711,7 @@ To after-eye him.
 #ENTRY_BLURB=PISANIO - Cymbeline - Act I, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Madam, so I did.
+Madam, so I did.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act I, Scene III
@@ -1268,20 +1268,20 @@ Take your own way.
 #ENTRY_BLURB=CORNELIUS - Cymbeline - Act I, Scene V
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]          I do suspect you, madam;
+[Aside] I do suspect you, madam;
 But you shall do no harm.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=QUEEN - Cymbeline - Act I, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[To PISANIO]            Hark thee, a word.
+[To PISANIO]Hark thee, a word.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORNELIUS - Cymbeline - Act I, Scene V
 #ENTRY_LENGTH=13
 #BEGIN_ENTRY_TEXT
-[Aside]  I do not like her. She doth think she has
+[Aside] I do not like her. She doth think she has
 Strange lingering poisons: I do know her spirit,
 And will not trust one of her malice with
 A drug of such damn'd nature. Those she has
@@ -1404,7 +1404,7 @@ You're kindly welcome.
 #ENTRY_BLURB=IACHIMO - Cymbeline - Act I, Scene VI
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-[Aside]  All of her that is out of door most rich!
+[Aside] All of her that is out of door most rich!
 If she be furnish'd with a mind so rare,
 She is alone the Arabian bird, and I
 Have lost the wager. Boldness be my friend!
@@ -1416,7 +1416,7 @@ Rather directly fly.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act I, Scene VI
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-[Reads]  'He is one of the noblest note, to whose
+[Reads] 'He is one of the noblest note, to whose
 kindnesses I am most infinitely tied. Reflect upon
 him accordingly, as you value your trust--
 LEONATUS.'
@@ -1535,7 +1535,7 @@ Not knowing why.
 #ENTRY_BLURB=IACHIMO - Cymbeline - Act I, Scene VI
 #ENTRY_LENGTH=11
 #BEGIN_ENTRY_TEXT
-                  I never saw him sad.
+I never saw him sad.
 There is a Frenchman his companion, one
 An eminent monsieur, that, it seems, much loves
 A Gallian girl at home; he furnaces
@@ -1551,7 +1551,7 @@ Assured bondage?'
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act I, Scene VI
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Will my lord say so?
+Will my lord say so?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=IACHIMO - Cymbeline - Act I, Scene VI
@@ -1582,7 +1582,7 @@ To pity too.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act I, Scene VI
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  What do you pity, sir?
+What do you pity, sir?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=IACHIMO - Cymbeline - Act I, Scene VI
@@ -1903,7 +1903,7 @@ your bowl.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  If his wit had been like him that broke it,
+[Aside] If his wit had been like him that broke it,
 it would have run all out.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1931,7 +1931,7 @@ Would he had been one of my rank!
 #ENTRY_BLURB=Second Lord - Cymbeline - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  To have smelt like a fool.
+[Aside] To have smelt like a fool.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene I
@@ -1948,7 +1948,7 @@ nobody can match.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  You are cock and capon too; and you crow,
+[Aside] You are cock and capon too; and you crow,
 cock, with your comb on.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1999,7 +1999,7 @@ A stranger, and I not know on't!
 #ENTRY_BLURB=Second Lord - Cymbeline - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  He's a strange fellow himself, and knows it
+[Aside] He's a strange fellow himself, and knows it
 not.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -2045,7 +2045,7 @@ Not easily, I think.
 #ENTRY_BLURB=Second Lord - Cymbeline - Act II, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  You are a fool granted; therefore your
+[Aside] You are a fool granted; therefore your
 issues, being foolish, do not derogate.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -2097,7 +2097,7 @@ What hour is it?
 #ENTRY_BLURB=Lady - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Almost midnight, madam.
+Almost midnight, madam.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene III
@@ -2444,7 +2444,7 @@ I will not.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-          Fools are not mad folks.
+Fools are not mad folks.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene III
@@ -2537,7 +2537,7 @@ To Dorothy my woman hie thee presently--
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-                  I am sprited with a fool.
+I am sprited with a fool.
 Frighted, and anger'd worse: go bid my woman
 Search for a jewel that too casually
 Hath left mine arm: it was thy master's: 'shrew me,
@@ -2608,7 +2608,7 @@ Will remain hers.
 #ENTRY_BLURB=PHILARIO - Cymbeline - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  What means do you make to him?
+What means do you make to him?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=POSTHUMUS LEONATUS - Cymbeline - Act II, Scene IV
@@ -2802,7 +2802,7 @@ You need it not.
 #ENTRY_BLURB=POSTHUMUS LEONATUS - Cymbeline - Act II, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Proceed.
+Proceed.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=IACHIMO - Cymbeline - Act II, Scene IV
@@ -3232,7 +3232,7 @@ Himself a king.
 #ENTRY_BLURB=CAIUS LUCIUS - Cymbeline - Act III, Scene I
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-                  I am sorry, Cymbeline,
+I am sorry, Cymbeline,
 That I am to pronounce Augustus Caesar--
 Caesar, that hath more kings his servants than
 Thyself domestic officers--thine enemy:
@@ -3480,7 +3480,7 @@ To stride a limit.
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act III, Scene III
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-                  What should we speak of
+What should we speak of
 When we are old as you? when we shall hear
 The rain and wind beat dark December, how,
 In this our pinching cave, shall we discourse
@@ -3609,7 +3609,7 @@ The most disdain'd of fortune.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act III, Scene IV
 #ENTRY_LENGTH=12
 #BEGIN_ENTRY_TEXT
-[Reads]  'Thy mistress, Pisanio, hath played the
+[Reads] 'Thy mistress, Pisanio, hath played the
 strumpet in my bed; the testimonies whereof lie
 bleeding in me. I speak not out of weak surmises,
 but from proof as strong as my grief and as certain
@@ -3989,7 +3989,7 @@ My master's enemy.
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act III, Scene V
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  Our subjects, sir,
+Our subjects, sir,
 Will not endure his yoke; and for ourself
 To show less sovereignty than they, must needs
 Appear unkinglike.
@@ -3998,7 +3998,7 @@ Appear unkinglike.
 #ENTRY_BLURB=CAIUS LUCIUS - Cymbeline - Act III, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  So, sir: I desire of you
+So, sir: I desire of you
 A conduct over-land to Milford-Haven.
 Madam, all joy befal your grace!
 #END_ENTRY_TEXT
@@ -4177,7 +4177,7 @@ Dare come about him.
 #ENTRY_BLURB=QUEEN - Cymbeline - Act III, Scene V
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]            All the better: may
+[Aside] All the better: may
 This night forestall him of the coming day!
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4228,7 +4228,7 @@ He is in Rome.
 #ENTRY_BLURB=CLOTEN - Cymbeline - Act III, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Where is she, sir? Come nearer;
+Where is she, sir? Come nearer;
 No further halting: satisfy me home
 What is become of her.
 #END_ENTRY_TEXT
@@ -4267,7 +4267,7 @@ Even to Augustus' throne.
 #ENTRY_BLURB=PISANIO - Cymbeline - Act III, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside]                 Or this, or perish.
+[Aside] Or this, or perish.
 She's far enough; and what he learns by this
 May prove his travel, not her danger.
 #END_ENTRY_TEXT
@@ -4281,7 +4281,7 @@ Hum!
 #ENTRY_BLURB=PISANIO - Cymbeline - Act III, Scene V
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Aside]  I'll write to my lord she's dead. O Imogen,
+[Aside] I'll write to my lord she's dead. O Imogen,
 Safe mayst thou wander, safe return again!
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4733,7 +4733,7 @@ Of their dispatch.
 #ENTRY_BLURB=First Tribune - Cymbeline - Act III, Scene VII
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  We will discharge our duty.
+We will discharge our duty.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CLOTEN - Cymbeline - Act IV, Scene I
@@ -4770,14 +4770,14 @@ the fellow dares not deceive me.
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[To IMOGEN]  You are not well: remain here in the cave;
+[To IMOGEN] You are not well: remain here in the cave;
 We'll come to you after hunting.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[To IMOGEN]	Brother, stay here
+[To IMOGEN] Brother, stay here
 Are we not brothers?
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -4838,7 +4838,7 @@ And a demand who is't shall die, I'd say
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-[Aside]	O noble strain!
+[Aside] O noble strain!
 O worthiness of nature! breed of greatness!
 Cowards father cowards and base things sire base:
 Nature hath meal and bran, contempt and grace.
@@ -4862,13 +4862,13 @@ I wish ye sport.
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  You health. So please you, sir.
+You health. So please you, sir.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-[Aside]  These are kind creatures. Gods, what lies
+[Aside] These are kind creatures. Gods, what lies
 I have heard!
 Our courtiers say all's savage but at court:
 Experience, O, thou disprovest report!
@@ -4931,7 +4931,7 @@ Good ancestors.
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  How angel-like he sings!
+How angel-like he sings!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GUIDERIUS - Cymbeline - Act IV, Scene II
@@ -5005,7 +5005,7 @@ Let me alone with him.
 #ENTRY_BLURB=CLOTEN - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Soft! What are you
+Soft! What are you
 That fly me thus? some villain mountaineers?
 I have heard of such. What slave art thou?
 #END_ENTRY_TEXT
@@ -5156,7 +5156,7 @@ And burst of speaking, were as his: I am absolute
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  In this place we left them:
+In this place we left them:
 I wish my brother make good time with him,
 You say he is so fell.
 #END_ENTRY_TEXT
@@ -5334,7 +5334,7 @@ For his return.
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  My ingenious instrument!
+My ingenious instrument!
 Hark, Polydore, it sounds! But what occasion
 Hath Cadwal now to give it motion? Hark!
 #END_ENTRY_TEXT
@@ -5348,7 +5348,7 @@ Is he at home?
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  He went hence even now.
+He went hence even now.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GUIDERIUS - Cymbeline - Act IV, Scene II
@@ -5365,7 +5365,7 @@ Is Cadwal mad?
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Look, here he comes,
+Look, here he comes,
 And brings the dire occasion in his arms
 Of what we blame him for.
 #END_ENTRY_TEXT
@@ -5605,7 +5605,7 @@ Their pleasures here are past, so is their pain.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=44
 #BEGIN_ENTRY_TEXT
-[Awaking]  Yes, sir, to Milford-Haven; which is
+[Awaking] Yes, sir, to Milford-Haven; which is
 the way?--
 I thank you.--By yond bush?--Pray, how far thither?
 'Ods pittikins! can it be six mile yet?--
@@ -5679,7 +5679,7 @@ Syenna's brother.
 #ENTRY_BLURB=CAIUS LUCIUS - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  When expect you them?
+When expect you them?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Captain - Cymbeline - Act IV, Scene II
@@ -5744,7 +5744,7 @@ What art thou?
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act IV, Scene II
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-                  I am nothing: or if not,
+I am nothing: or if not,
 Nothing to be were better. This was my master,
 A very valiant Briton and a good,
 That here by mountaineers lies slain. Alas!
@@ -5872,7 +5872,7 @@ Does yet depend.
 #ENTRY_BLURB=First Lord - Cymbeline - Act IV, Scene III
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  So please your majesty,
+So please your majesty,
 The Roman legions, all from Gallia drawn,
 Are landed on your coast, with a supply
 Of Roman gentlemen, by the senate sent.
@@ -5899,7 +5899,7 @@ That long to move.
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act IV, Scene III
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-                  I thank you. Let's withdraw;
+I thank you. Let's withdraw;
 And meet the time as it seeks us. We fear not
 What can from Italy annoy us; but
 We grieve at chances here. Away!
@@ -5974,7 +5974,7 @@ Nor satisfying us.
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act IV, Scene IV
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-                  It is not likely
+It is not likely
 That when they hear the Roman horses neigh,
 Behold their quarter'd fires, have both their eyes
 And ears so cloy'd importantly as now,
@@ -6035,7 +6035,7 @@ The hands of Romans!
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act IV, Scene IV
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-So say I	amen.
+So say I: amen.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act IV, Scene IV
@@ -6324,7 +6324,7 @@ Had answer'd him.
 #ENTRY_BLURB=Second Captain - Cymbeline - Act V, Scene III
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-                  Lay hands on him; a dog!
+Lay hands on him; a dog!
 A leg of Rome shall not return to tell
 What crows have peck'd them here. He brags
 his service
@@ -6553,7 +6553,7 @@ Let us with care perform his great behest.
 #ENTRY_BLURB=Posthumus Leonatus - Cymbeline - Act V, Scene IV
 #ENTRY_LENGTH=28
 #BEGIN_ENTRY_TEXT
-[Waking]  Sleep, thou hast been a grandsire, and begot
+[Waking] Sleep, thou hast been a grandsire, and begot
 A father to me; and thou hast created
 A mother and two brothers: but, O scorn!
 Gone! they went hence so soon as they were born:
@@ -6872,7 +6872,7 @@ Despairing died.
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Heard you all this, her women?
+Heard you all this, her women?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Lady - Cymbeline - Act V, Scene V
@@ -6941,7 +6941,7 @@ The noblest ta'en.
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I humbly thank your highness.
+I humbly thank your highness.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CAIUS LUCIUS - Cymbeline - Act V, Scene V
@@ -7015,7 +7015,7 @@ Fidele, sir.
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  Thou'rt my good youth, my page;
+Thou'rt my good youth, my page;
 I'll be thy master: walk with me; speak freely.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -7062,7 +7062,7 @@ Be silent; let's see further.
 #ENTRY_BLURB=PISANIO - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[Aside]	It is my mistress:
+[Aside] It is my mistress:
 Since she is living, let the time run on
 To good or bad.
 #END_ENTRY_TEXT
@@ -7070,7 +7070,7 @@ To good or bad.
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-                  Come, stand thou by our side;
+Come, stand thou by our side;
 Make thy demand aloud.
 Sir, step you forth;
 Give answer to this boy, and do it freely;
@@ -7089,7 +7089,7 @@ Of whom he had this ring.
 #ENTRY_BLURB=POSTHUMUS LEONATUS - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]                 What's that to him?
+[Aside] What's that to him?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act V, Scene V
@@ -7235,7 +7235,7 @@ Methinks, I see him now--
 #ENTRY_BLURB=POSTHUMUS LEONATUS - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=19
 #BEGIN_ENTRY_TEXT
-[Advancing]             Ay, so thou dost,
+[Advancing] Ay, so thou dost,
 Italian fiend! Ay me, most credulous fool,
 Egregious murderer, thief, any thing
 That's due to all the villains past, in being,
@@ -7259,7 +7259,7 @@ Imogen, Imogen!
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Peace, my lord; hear, hear--
+Peace, my lord; hear, hear--
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=POSTHUMUS LEONATUS - Cymbeline - Act V, Scene V
@@ -7341,7 +7341,7 @@ New matter still?
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  It poison'd me.
+It poison'd me.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CORNELIUS - Cymbeline - Act V, Scene V
@@ -7413,7 +7413,7 @@ Till the tree die!
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  How now, my flesh, my child!
+How now, my flesh, my child!
 What, makest thou me a dullard in this act?
 Wilt thou not speak to me?
 #END_ENTRY_TEXT
@@ -7421,13 +7421,13 @@ Wilt thou not speak to me?
 #ENTRY_BLURB=IMOGEN - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Kneeling]               Your blessing, sir.
+[Kneeling] Your blessing, sir.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-[To GUIDERIUS and ARVIRAGUS]  Though you did love
+[To GUIDERIUS and ARVIRAGUS] Though you did love
 this youth, I blame ye not:
 You had a motive for't.
 #END_ENTRY_TEXT
@@ -7492,7 +7492,7 @@ Deny't again.
 #ENTRY_BLURB=GUIDERIUS - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  I have spoke it, and I did it.
+I have spoke it, and I did it.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act V, Scene V
@@ -7558,7 +7558,7 @@ As good as we?
 #ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  In that he spake too far.
+In that he spake too far.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CYMBELINE - Cymbeline - Act V, Scene V
@@ -7592,7 +7592,7 @@ And our good his.
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Have at it then, by leave.
+Have at it then, by leave.
 Thou hadst, great king, a subject who
 Was call'd Belarius.
 #END_ENTRY_TEXT
@@ -7755,7 +7755,7 @@ Ay, my good lord.
 #ENTRY_BLURB=GUIDERIUS - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  And at first meeting loved;
+And at first meeting loved;
 Continued so, until we thought he died.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -7840,7 +7840,7 @@ Have made you finish.
 #ENTRY_BLURB=IACHIMO - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-[Kneeling]          I am down again:
+[Kneeling] I am down again:
 But now my heavy conscience sinks my knee,
 As then your force did. Take that life, beseech you,
 Which I so often owe: but your ring first;
@@ -7908,7 +7908,7 @@ Read, and declare the meaning.
 #ENTRY_BLURB=Soothsayer - Cymbeline - Act V, Scene V
 #ENTRY_LENGTH=18
 #BEGIN_ENTRY_TEXT
-[Reads]  'When as a lion's whelp shall, to himself
+[Reads] 'When as a lion's whelp shall, to himself
 unknown, without seeking find, and be embraced by a
 piece of tender air; and when from a stately cedar
 shall be lopped branches, which, being dead many

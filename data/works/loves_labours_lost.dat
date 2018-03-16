@@ -792,14 +792,13 @@ Sirrah, come on.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COSTARD - Love's Labor's Lost - Act I, Scene I
-#ENTRY_LENGTH=6
+#ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
 I suffer for the truth, sir; for true it is, I was
 taken with Jaquenetta, and Jaquenetta is a true
 girl; and therefore welcome the sour cup of
 prosperity! Affliction may one day smile again; and
 till then, sit thee down, sorrow!
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act I, Scene II
@@ -1409,7 +1408,7 @@ therefore I can be quiet.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act I, Scene II
-#ENTRY_LENGTH=20
+#ENTRY_LENGTH=19
 #BEGIN_ENTRY_TEXT
 I do affect the very ground, which is base, where
 her shoe, which is baser, guided by her foot, which
@@ -1430,7 +1429,6 @@ be still, drum! for your manager is in love; yea,
 he loveth. Assist me, some extemporal god of rhyme,
 for I am sure I shall turn sonnet. Devise, wit;
 write, pen; for I am for whole volumes in folio.
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BOYET - Love's Labor's Lost - Act II, Scene I
@@ -2251,10 +2249,9 @@ Ay, our way to be gone.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BOYET - Love's Labor's Lost - Act II, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 You are too hard for me.
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act III, Scene I
@@ -2801,7 +2798,7 @@ will do it sir, in print. Gardon! Remuneration!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BIRON - Love's Labor's Lost - Act III, Scene I
-#ENTRY_LENGTH=33
+#ENTRY_LENGTH=32
 #BEGIN_ENTRY_TEXT
 And I, forsooth, in love! I, that have been love's whip;
 A very beadle to a humorous sigh;
@@ -2835,7 +2832,6 @@ That Cupid will impose for my neglect
 Of his almighty dreadful little might.
 Well, I will love, write, sigh, pray, sue and groan:
 Some men must love my lady and some Joan.
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PRINCESS - Love's Labor's Lost - Act IV, Scene I
@@ -3287,7 +3283,7 @@ I fear too much rubbing. Good night, my good owl.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COSTARD - Love's Labor's Lost - Act IV, Scene I
-#ENTRY_LENGTH=14
+#ENTRY_LENGTH=13
 #BEGIN_ENTRY_TEXT
 By my soul, a swain! a most simple clown!
 Lord, Lord, how the ladies and I have put him down!
@@ -3302,7 +3298,6 @@ will swear!
 And his page o' t' other side, that handful of wit!
 Ah, heavens, it is a most pathetical nit!
 Sola, sola!
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=SIR NATHANIEL - Love's Labor's Lost - Act IV, Scene II
@@ -3694,13 +3689,12 @@ the happiness of life.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HOLOFERNES - Love's Labor's Lost - Act IV, Scene II
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
 And, certes, the text most infallibly concludes it.
 Sir, I do invite you too; you shall not
 say me nay: pauca verba. Away! the gentles are at
 their game, and we will to our recreation.
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BIRON - Love's Labor's Lost - Act IV, Scene III
@@ -4593,13 +4587,12 @@ That will betime, and may by us be fitted.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BIRON - Love's Labor's Lost - Act IV, Scene III
-#ENTRY_LENGTH=5
+#ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
 Allons! allons! Sow'd cockle reap'd no corn;
 And justice always whirls in equal measure:
 Light wenches may prove plagues to men forsworn;
 If so, our copper buys no better treasure.
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HOLOFERNES - Love's Labor's Lost - Act V, Scene I
@@ -5019,10 +5012,9 @@ On the tabour to the Worthies, and let them dance the hay.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HOLOFERNES - Love's Labor's Lost - Act V, Scene I
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
 Most dull, honest Dull! To our sport, away!
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PRINCESS - Love's Labor's Lost - Act V, Scene II
@@ -7953,47 +7945,52 @@ Call them forth quickly; we will do so.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act V, Scene II
-#ENTRY_LENGTH=39
+#ENTRY_LENGTH=44
 #BEGIN_ENTRY_TEXT
 Holla! approach.
 This side is Hiems, Winter, this Ver, the Spring;
 the one maintained by the owl, the other by the
 cuckoo. Ver, begin.
-[SONG.]
-SPRING.
-When daisies pied and violets blue
-And lady-smocks all silver-white
-And cuckoo-buds of yellow hue
-Do paint the meadows with delight,
-The cuckoo then, on every tree,
-Mocks married men; for thus sings he, 	Cuckoo;
-Cuckoo, cuckoo: O word of fear,
-Unpleasing to a married ear!
-When shepherds pipe on oaten straws
-And merry larks are ploughmen's clocks,
-When turtles tread, and rooks, and daws,
-And maidens bleach their summer smocks
-The cuckoo then, on every tree,
-Mocks married men; for thus sings he, 	Cuckoo;
-Cuckoo, cuckoo: O word of fear,
-Unpleasing to a married ear!
-WINTER.
-When icicles hang by the wall
-And Dick the shepherd blows his nail
-And Tom bears logs into the hall
-And milk comes frozen home in pail,
-When blood is nipp'd and ways be foul,
-Then nightly sings the staring owl, 	Tu-whit;
-Tu-who, a merry note,
-While greasy Joan doth keel the pot.
-When all aloud the wind doth blow
-And coughing drowns the parson's saw
-And birds sit brooding in the snow
-And Marian's nose looks red and raw,
-When roasted crabs hiss in the bowl,
-Then nightly sings the staring owl, 	Tu-whit;
-Tu-who, a merry note,
-While greasy Joan doth keel the pot.
+  
+  [SPRING.] When daisies pied and violets blue
+  And lady-smocks all silver-white
+  And cuckoo-buds of yellow hue
+  Do paint the meadows with delight,
+  The cuckoo then, on every tree,
+  Mocks married men; for thus sings he,
+      "Cuckoo;
+  Cuckoo, cuckoo" -- O word of fear,
+  Unpleasing to a married ear!
+   
+  When shepherds pipe on oaten straws
+  And merry larks are ploughmen's clocks,
+  When turtles tread, and rooks, and daws,
+  And maidens bleach their summer smocks
+  The cuckoo then, on every tree,
+  Mocks married men; for thus sings he,
+      "Cuckoo;
+  Cuckoo, cuckoo" -- O word of fear,
+  Unpleasing to a married ear!
+  
+  [WINTER.] When icicles hang by the wall
+  And Dick the shepherd blows his nail
+  And Tom bears logs into the hall
+  And milk comes frozen home in pail,
+  When blood is nipp'd and ways be foul,
+  Then nightly sings the staring owl,
+      "Tu-whit; Tu-who!" -- 
+  A merry note,
+  While greasy Joan doth keel the pot.
+  
+  When all aloud the wind doth blow
+  And coughing drowns the parson's saw
+  And birds sit brooding in the snow
+  And Marian's nose looks red and raw,
+  When roasted crabs hiss in the bowl,
+  Then nightly sings the staring owl,
+      "Tu-whit; Tu-who!" --
+  A merry note,
+  While greasy Joan doth keel the pot.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act V, Scene II

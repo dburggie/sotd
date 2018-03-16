@@ -2993,13 +2993,13 @@ Make battery to our ears with the loud music:
 The while I'll place you: then the boy shall sing;
 The holding every man shall bear as loud
 As his strong sides can volley.
-[THE SONG.]
-Come, thou monarch of the vine,
-Plumpy Bacchus with pink eyne!
-In thy fats our cares be drown'd,
-With thy grapes our hairs be crown'd:
-Cup us, till the world go round,
-Cup us, till the world go round!
+  
+  Come, thou monarch of the vine,
+  Plumpy Bacchus with pink eyne!
+  In thy fats our cares be drown'd,
+  With thy grapes our hairs be crown'd:
+  Cup us, till the world go round,
+  Cup us, till the world go round!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=OCTAVIUS CAESAR - The Tragedy of Antony and Cleopatra - Act II, Scene VII
@@ -5298,13 +5298,13 @@ And in my voice most welcome shall you be.
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
 [SONG.]
-Under the greenwood tree
-Who loves to lie with me,
-And turn his merry note
-Unto the sweet bird's throat,
-Come hither, come hither, come hither:
-Here shall he see No enemy
-But winter and rough weather.
+    Under the greenwood tree
+    Who loves to lie with me,
+    And turn his merry note
+    Unto the sweet bird's throat,
+  Come hither, come hither, come hither:
+      Here shall he see No enemy
+  But winter and rough weather.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=JAQUES - As You Like It - Act II, Scene V
@@ -5325,29 +5325,29 @@ And I have been all this day to avoid him. He is
 too disputable for my company: I think of as many
 matters as he, but I give heaven thanks and make no
 boast of them. Come, warble, come.
-[SONG.]
-Who doth ambition shun
-[All together here]
-And loves to live i' the sun,
-Seeking the food he eats
-And pleased with what he gets,
-Come hither, come hither, come hither:
-Here shall he see No enemy
-But winter and rough weather.
+[SONG.] [All together here]
+    Who doth ambition shun
+    And loves to live i' the sun,
+    Seeking the food he eats
+    And pleased with what he gets,
+  Come hither, come hither, come hither:
+    Here shall he see
+    No enemy
+  But winter and rough weather.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=JAQUES - As You Like It - Act II, Scene V
 #ENTRY_LENGTH=9
 #BEGIN_ENTRY_TEXT
 Thus it goes:--
-If it do come to pass
-That any man turn ass,
-Leaving his wealth and ease,
-A stubborn will to please,
-Ducdame, ducdame, ducdame:
-Here shall he see
-Gross fools as he,
-An if he will come to me.
+    If it do come to pass
+    That any man turn ass,
+    Leaving his wealth and ease,
+    A stubborn will to please,
+  Ducdame, ducdame, ducdame:
+      Here shall he see
+      Gross fools as he,
+  An if he will come to me.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ORLANDO - As You Like It - Act II, Scene VI
@@ -6489,29 +6489,32 @@ I'll meet. So fare you well: I have left you commands.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Second Page - As You Like It - Act V, Scene III
-#ENTRY_LENGTH=21
+#ENTRY_LENGTH=24
 #BEGIN_ENTRY_TEXT
 I'faith, i'faith; and both in a tune, like two
 gipsies on a horse.
-[SONG.]
-It was a lover and his lass,
-With a hey, and a ho, and a hey nonino,
-That o'er the green corn-field did pass
-In the spring time, the only pretty ring time,
-When birds do sing, hey ding a ding, ding:
-Sweet lovers love the spring.
-Between the acres of the rye,
-With a hey, and a ho, and a hey nonino
-These pretty country folks would lie,
-In spring time,  & c.
-This carol they began that hour,
-With a hey, and a ho, and a hey nonino,
-How that a life was but a flower
-In spring time,  & c.
-And therefore take the present time,
-With a hey, and a ho, and a hey nonino;
-For love is crowned with the prime
-In spring time,  & c.
+  
+  It was a lover and his lass,
+    With a hey, and a ho, and a hey nonino,
+  That o'er the green corn-field did pass
+    In the spring time, the only pretty ring time,
+  When birds do sing, hey ding a ding, ding:
+  Sweet lovers love the spring.
+  
+  Between the acres of the rye,
+    With a hey, and a ho, and a hey nonino
+  These pretty country folks would lie,
+    In spring time,  & c.
+  
+  This carol they began that hour,
+    With a hey, and a ho, and a hey nonino,
+  How that a life was but a flower
+    In spring time,  & c.
+  
+  And therefore take the present time,
+    With a hey, and a ho, and a hey nonino;
+  For love is crowned with the prime
+    In spring time,  & c.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ROSALIND - As You Like It - Act V, Scene IV
@@ -6594,7 +6597,7 @@ only peacemaker; much virtue in If.
 #ENTRY_BLURB=HYMEN - As You Like It - Act V, Scene IV
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
-        Then is there mirth in heaven,
+Then is there mirth in heaven,
 When earthly things made even
 Atone together.
 Good duke, receive thy daughter
@@ -6605,31 +6608,35 @@ Whose heart within his bosom is.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HYMEN - As You Like It - Act V, Scene IV
-#ENTRY_LENGTH=23
+#ENTRY_LENGTH=27
 #BEGIN_ENTRY_TEXT
-        Peace, ho! I bar confusion:
-'Tis I must make conclusion
-Of these most strange events:
-Here's eight that must take hands
-To join in Hymen's bands,
-If truth holds true contents.
-You and you no cross shall part:
-You and you are heart in heart
-You to his love must accord,
-Or have a woman to your lord:
-You and you are sure together,
-As the winter to foul weather.
-Whiles a wedlock-hymn we sing,
-Feed yourselves with questioning;
-That reason wonder may diminish,
-How thus we met, and these things finish.
-[SONG.]
-Wedding is great Juno's crown:
-O blessed bond of board and bed!
-'Tis Hymen peoples every town;
-High wedlock then be honoured:
-Honour, high honour and renown,
-To Hymen, god of every town!
+  Peace, ho! I bar confusion:
+  'Tis I must make conclusion
+    Of these most strange events:
+  Here's eight that must take hands
+  To join in Hymen's bands,
+    If truth holds true contents.
+[To ORLANDO and ROSALIND.]
+  You and you no cross shall part:
+[To OLIVER and CELIA.]
+  You and you are heart in heart
+[To PHOEBE.]
+  You to his love must accord,
+  Or have a woman to your lord:
+[To TOUCHSTONE and AUDREY.]
+  You and you are sure together,
+  As the winter to foul weather.
+  Whiles a wedlock-hymn we sing,
+  Feed yourselves with questioning;
+  That reason wonder may diminish,
+  How thus we met, and these things finish.
+[Singing.]
+  Wedding is great Juno's crown:
+    O blessed bond of board and bed!
+  'Tis Hymen peoples every town;
+    High wedlock then be honoured:
+  Honour, high honour and renown,
+  To Hymen, god of every town!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=JAQUES DE BOYS - As You Like It - Act V, Scene IV
@@ -10749,7 +10756,7 @@ Yet he shall have a noble memory. Assist.
 #END_ENTRIES
 #NEW_WORK
 #WORK_TITLE=Cymbeline
-#ENTRY_COUNT=203
+#ENTRY_COUNT=202
 #BEGIN_ENTRIES
 #ENTRY_BLURB=First Gentleman - Cymbeline - Act I, Scene I
 #ENTRY_LENGTH=7
@@ -11418,7 +11425,7 @@ That temple, thy fair mind, that thou mayst stand,
 To enjoy thy banish'd lord and this great land!
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
 I have read three hours then: mine eyes are weak:
@@ -11431,7 +11438,7 @@ From fairies and the tempters of the night
 Guard me, beseech ye.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=IACHIMO - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=IACHIMO - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=41
 #BEGIN_ENTRY_TEXT
 The crickets sing, and man's o'er-labour'd sense
@@ -11477,7 +11484,7 @@ Though this a heavenly angel, hell is here.
 One, two, three: time, time!
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=18
 #BEGIN_ENTRY_TEXT
 I would this music would come: I am advised to give
@@ -11489,18 +11496,18 @@ First, a very excellent good-conceited thing;
 after, a wonderful sweet air, with admirable rich
 words to it: and then let her consider.
 [SONG.]
-Hark, hark! the lark at heaven's gate sings,
-And Phoebus 'gins arise,
-His steeds to water at those springs
-On chaliced flowers that lies;
-And winking Mary-buds begin
-To ope their golden eyes:
-With every thing that pretty is,
-My lady sweet, arise:
-Arise, arise.
+  Hark, hark! the lark at heaven's gate sings,
+    And Phoebus 'gins arise,
+  His steeds to water at those springs
+    On chaliced flowers that lies;
+  And winking Mary-buds begin to ope 
+      their golden eyes:
+  With every thing that pretty is, my lady
+      sweet, arise:
+          Arise, arise!
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=QUEEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=QUEEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
 You are most bound to the king,
@@ -11515,7 +11522,7 @@ Save when command to your dismission tends,
 And therein you are senseless.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=CYMBELINE - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=CYMBELINE - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=9
 #BEGIN_ENTRY_TEXT
 A worthy fellow,
@@ -11529,7 +11536,7 @@ Attend the queen and us; we shall have need
 To employ you towards this Roman. Come, our queen.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=14
 #BEGIN_ENTRY_TEXT
 If she be up, I'll speak with her; if not,
@@ -11548,7 +11555,7 @@ I yet not understand the case myself.
 By your leave.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
 As I am mad, I do:
@@ -11563,7 +11570,7 @@ To accuse myself--I hate you; which I had rather
 You felt than make't my boast.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=CLOTEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=14
 #BEGIN_ENTRY_TEXT
 You sin against
@@ -11582,7 +11589,7 @@ A hilding for a livery, a squire's cloth,
 A pantler, not so eminent.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=8
 #BEGIN_ENTRY_TEXT
 Profane fellow
@@ -11595,7 +11602,7 @@ The under-hangman of his kingdom, and hated
 For being preferred so well.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene II
+#ENTRY_BLURB=IMOGEN - Cymbeline - Act II, Scene III
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
                   I am sprited with a fool.
@@ -12890,27 +12897,34 @@ And though you took his life, as being our foe,
 Yet bury him as a prince.
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=GUIDERIUS - Cymbeline - Act IV, Scene II
-#ENTRY_LENGTH=7
+#ENTRY_BLURB=SONG: ARVIRAGUS and GUIDERIUS - Cymbeline - Act IV, Scene II
+#ENTRY_LENGTH=25
 #BEGIN_ENTRY_TEXT
-[SONG.]
-     Fear no more the heat o' the sun,
-Nor the furious winter's rages;
-Thou thy worldly task hast done,
-Home art gone, and ta'en thy wages:
-Golden lads and girls all must,
-As chimney-sweepers, come to dust.
-#END_ENTRY_TEXT
-#NEW_ENTRY
-#ENTRY_BLURB=ARVIRAGUS - Cymbeline - Act IV, Scene II
-#ENTRY_LENGTH=6
-#BEGIN_ENTRY_TEXT
-     Fear no more the frown o' the great;
-Thou art past the tyrant's stroke;
-Care no more to clothe and eat;
-To thee the reed is as the oak:
-The sceptre, learning, physic, must
-All follow this, and come to dust.
+Gu. Fear no more the heat o' the sun,
+    Nor the furious winter's rages;
+    Thou thy worldly task hast done,
+    Home art gone, and ta'en thy wages:
+    Golden lads and girls all must,
+    As chimney-sweepers, come to dust.
+Ar. Fear no more the frown o' the great;
+    Thou art past the tyrant's stroke;
+    Care no more to clothe and eat;
+    To thee the reed is as the oak:
+    The sceptre, learning, physic, must
+    All follow this, and come to dust.
+Gu. Fear no more the lightning flash,
+Ar. Nor the all-dreaded thunder-stone;
+Gu. Fear not slander, censure rash;
+Ar. Thou hast finish'd joy and moan:
+Bo. All lovers young, all lovers must
+    Consign to thee, and come to dust.
+    
+Gu. No exorciser harm thee!
+Ar. Nor no witchcraft charm thee!
+Gu. Ghost unlaid forbear thee!
+Ar. Nothing ill come near thee!
+Bo. Quiet consummation have;
+    And renowned be thy grave!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BELARIUS - Cymbeline - Act IV, Scene II
@@ -42713,7 +42727,7 @@ Look there, look there!
 #END_ENTRIES
 #NEW_WORK
 #WORK_TITLE=Love's Labor's Lost
-#ENTRY_COUNT=99
+#ENTRY_COUNT=98
 #BEGIN_ENTRIES
 #ENTRY_BLURB=FERDINAND - Love's Labor's Lost - Act I, Scene I
 #ENTRY_LENGTH=23
@@ -42945,17 +42959,6 @@ and heart-burning heat of duty.
 DON ADRIANO DE ARMADO.'
 #END_ENTRY_TEXT
 #NEW_ENTRY
-#ENTRY_BLURB=COSTARD - Love's Labor's Lost - Act I, Scene I
-#ENTRY_LENGTH=6
-#BEGIN_ENTRY_TEXT
-I suffer for the truth, sir; for true it is, I was
-taken with Jaquenetta, and Jaquenetta is a true
-girl; and therefore welcome the sour cup of
-prosperity! Affliction may one day smile again; and
-till then, sit thee down, sorrow!
-LOVE'S LABOURS LOST
-#END_ENTRY_TEXT
-#NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act I, Scene II
 #ENTRY_LENGTH=9
 #BEGIN_ENTRY_TEXT
@@ -42986,7 +42989,7 @@ white and red.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act I, Scene II
-#ENTRY_LENGTH=20
+#ENTRY_LENGTH=19
 #BEGIN_ENTRY_TEXT
 I do affect the very ground, which is base, where
 her shoe, which is baser, guided by her foot, which
@@ -43007,7 +43010,6 @@ be still, drum! for your manager is in love; yea,
 he loveth. Assist me, some extemporal god of rhyme,
 for I am sure I shall turn sonnet. Devise, wit;
 write, pen; for I am for whole volumes in folio.
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BOYET - Love's Labor's Lost - Act II, Scene I
@@ -43288,7 +43290,7 @@ This seal'd-up counsel. There's thy guerdon; go.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BIRON - Love's Labor's Lost - Act III, Scene I
-#ENTRY_LENGTH=33
+#ENTRY_LENGTH=32
 #BEGIN_ENTRY_TEXT
 And I, forsooth, in love! I, that have been love's whip;
 A very beadle to a humorous sigh;
@@ -43322,7 +43324,6 @@ That Cupid will impose for my neglect
 Of his almighty dreadful little might.
 Well, I will love, write, sigh, pray, sue and groan:
 Some men must love my lady and some Joan.
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=PRINCESS - Love's Labor's Lost - Act IV, Scene I
@@ -43386,7 +43387,7 @@ Food for his rage, repasture for his den.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=COSTARD - Love's Labor's Lost - Act IV, Scene I
-#ENTRY_LENGTH=14
+#ENTRY_LENGTH=13
 #BEGIN_ENTRY_TEXT
 By my soul, a swain! a most simple clown!
 Lord, Lord, how the ladies and I have put him down!
@@ -43401,7 +43402,6 @@ will swear!
 And his page o' t' other side, that handful of wit!
 Ah, heavens, it is a most pathetical nit!
 Sola, sola!
-LOVE'S LABOURS LOST
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=HOLOFERNES - Love's Labor's Lost - Act IV, Scene II
@@ -44478,47 +44478,52 @@ end of our show.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DON ADRIANO DE ARMADO - Love's Labor's Lost - Act V, Scene II
-#ENTRY_LENGTH=39
+#ENTRY_LENGTH=44
 #BEGIN_ENTRY_TEXT
 Holla! approach.
 This side is Hiems, Winter, this Ver, the Spring;
 the one maintained by the owl, the other by the
 cuckoo. Ver, begin.
-[SONG.]
-SPRING.
-When daisies pied and violets blue
-And lady-smocks all silver-white
-And cuckoo-buds of yellow hue
-Do paint the meadows with delight,
-The cuckoo then, on every tree,
-Mocks married men; for thus sings he, 	Cuckoo;
-Cuckoo, cuckoo: O word of fear,
-Unpleasing to a married ear!
-When shepherds pipe on oaten straws
-And merry larks are ploughmen's clocks,
-When turtles tread, and rooks, and daws,
-And maidens bleach their summer smocks
-The cuckoo then, on every tree,
-Mocks married men; for thus sings he, 	Cuckoo;
-Cuckoo, cuckoo: O word of fear,
-Unpleasing to a married ear!
-WINTER.
-When icicles hang by the wall
-And Dick the shepherd blows his nail
-And Tom bears logs into the hall
-And milk comes frozen home in pail,
-When blood is nipp'd and ways be foul,
-Then nightly sings the staring owl, 	Tu-whit;
-Tu-who, a merry note,
-While greasy Joan doth keel the pot.
-When all aloud the wind doth blow
-And coughing drowns the parson's saw
-And birds sit brooding in the snow
-And Marian's nose looks red and raw,
-When roasted crabs hiss in the bowl,
-Then nightly sings the staring owl, 	Tu-whit;
-Tu-who, a merry note,
-While greasy Joan doth keel the pot.
+  
+  [SPRING.] When daisies pied and violets blue
+  And lady-smocks all silver-white
+  And cuckoo-buds of yellow hue
+  Do paint the meadows with delight,
+  The cuckoo then, on every tree,
+  Mocks married men; for thus sings he,
+      "Cuckoo;
+  Cuckoo, cuckoo" -- O word of fear,
+  Unpleasing to a married ear!
+   
+  When shepherds pipe on oaten straws
+  And merry larks are ploughmen's clocks,
+  When turtles tread, and rooks, and daws,
+  And maidens bleach their summer smocks
+  The cuckoo then, on every tree,
+  Mocks married men; for thus sings he,
+      "Cuckoo;
+  Cuckoo, cuckoo" -- O word of fear,
+  Unpleasing to a married ear!
+  
+  [WINTER.] When icicles hang by the wall
+  And Dick the shepherd blows his nail
+  And Tom bears logs into the hall
+  And milk comes frozen home in pail,
+  When blood is nipp'd and ways be foul,
+  Then nightly sings the staring owl,
+      "Tu-whit; Tu-who!" -- 
+  A merry note,
+  While greasy Joan doth keel the pot.
+  
+  When all aloud the wind doth blow
+  And coughing drowns the parson's saw
+  And birds sit brooding in the snow
+  And Marian's nose looks red and raw,
+  When roasted crabs hiss in the bowl,
+  Then nightly sings the staring owl,
+      "Tu-whit; Tu-who!" --
+  A merry note,
+  While greasy Joan doth keel the pot.
 #END_ENTRY_TEXT
 #END_ENTRIES
 #NEW_WORK

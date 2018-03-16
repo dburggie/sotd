@@ -1469,7 +1469,7 @@ Maud, Bridget, Marian, Cicel, Gillian, Ginn!
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=6
 #BEGIN_ENTRY_TEXT
-[Within]  Mome, malt-horse, capon, coxcomb,
+[Within] Mome, malt-horse, capon, coxcomb,
 idiot, patch!
 Either get thee from the door, or sit down at the hatch.
 Dost thou conjure for wenches, that thou call'st
@@ -1487,7 +1487,7 @@ the street.
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  Let him walk from whence he came, lest he
+[Within] Let him walk from whence he came, lest he
 catch cold on's feet.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1500,7 +1500,7 @@ Who talks within there? ho, open the door!
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  Right, sir; I'll tell you when, an you tell
+[Within] Right, sir; I'll tell you when, an you tell
 me wherefore.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1513,7 +1513,7 @@ Wherefore? for my dinner: I have not dined to-day.
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  Nor to-day here you must not; come again
+[Within] Nor to-day here you must not; come again
 when you may.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1526,7 +1526,7 @@ What art thou that keepest me out from the house I owe?
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  The porter for this time, sir, and my name
+[Within] The porter for this time, sir, and my name
 is Dromio.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1543,7 +1543,7 @@ name for an ass.
 #ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  What a coil is there, Dromio? who are those
+[Within] What a coil is there, Dromio? who are those
 at the gate?
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1556,7 +1556,7 @@ Let my master in, Luce.
 #ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  Faith, no; he comes too late;
+[Within] Faith, no; he comes too late;
 And so tell your master.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1570,14 +1570,14 @@ Have at you with a proverb--Shall I set in my staff?
 #ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  Have at you with another; that's--When?
+[Within] Have at you with another; that's--When?
 can you tell?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  If thy name be call'd Luce--Luce, thou hast
+[Within] If thy name be call'd Luce--Luce, thou hast
 answered him well.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1590,13 +1590,13 @@ Do you hear, you minion? you'll let us in, I hope?
 #ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  I thought to have asked you.
+[Within] I thought to have asked you.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  And you said no.
+[Within] And you said no.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
@@ -1614,7 +1614,7 @@ Thou baggage, let me in.
 #ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Can you tell for whose sake?
+[Within] Can you tell for whose sake?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
@@ -1626,7 +1626,7 @@ Master, knock the door hard.
 #ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Let him knock till it ache.
+[Within] Let him knock till it ache.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
@@ -1638,20 +1638,20 @@ You'll cry for this, minion, if I beat the door down.
 #ENTRY_BLURB=LUCE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  What needs all that, and a pair of stocks in the town?
+[Within] What needs all that, and a pair of stocks in the town?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  Who is that at the door that keeps all
+[Within] Who is that at the door that keeps all
 this noise?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  By my troth, your town is troubled with
+[Within] By my troth, your town is troubled with
 unruly boys.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1664,7 +1664,7 @@ Are you there, wife? you might have come before.
 #ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Your wife, sir knave! go get you from the door.
+[Within] Your wife, sir knave! go get you from the door.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act III, Scene I
@@ -1715,7 +1715,7 @@ Go fetch me something: I'll break ope the gate.
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  Break any breaking here, and I'll break your
+[Within] Break any breaking here, and I'll break your
 knave's pate.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1729,7 +1729,7 @@ Ay, and break it in your face, so he break it not behind.
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  It seems thou want'st breaking: out upon
+[Within] It seems thou want'st breaking: out upon
 thee, hind!
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1743,7 +1743,7 @@ let me in.
 #ENTRY_BLURB=DROMIO OF SYRACUSE - The Comedy of Errors - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Ay, when fowls have no feathers and fish have no fin.
+[Within] Ay, when fowls have no feathers and fish have no fin.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ANTIPHOLUS OF EPHESUS - The Comedy of Errors - Act III, Scene I
@@ -1970,7 +1970,7 @@ Give me thy hand.
 #ENTRY_BLURB=LUCIANA - The Comedy of Errors - Act III, Scene II
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  O, soft, air! hold you still:
+O, soft, air! hold you still:
 I'll fetch my sister, to get her good will.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -3514,7 +3514,7 @@ To make a rescue?
 #ENTRY_BLURB=Officer - The Comedy of Errors - Act IV, Scene IV
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-                  Masters, let him go
+Masters, let him go
 He is my prisoner, and you shall not have him.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -3872,7 +3872,7 @@ Why, so I did.
 #ENTRY_BLURB=AEMELIA - The Comedy of Errors - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  Ay, but not rough enough.
+Ay, but not rough enough.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=ADRIANA - The Comedy of Errors - Act V, Scene I
@@ -4449,7 +4449,7 @@ Dromio, nor thou?
 #ENTRY_BLURB=DROMIO OF EPHESUS - The Comedy of Errors - Act V, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  No, trust me, sir, nor I.
+No, trust me, sir, nor I.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=AEGEON - The Comedy of Errors - Act V, Scene I

@@ -126,6 +126,15 @@ class Entry:
         s += Entry._text_start + self.text + Entry._text_end
         return s
 
+def find_tabs(filenames):
+    for fn in filenames:
+        f = open(fn, 'r')
+        lines = f.read().split('\n')
+        f.close()
+        for l in lines:
+            if '\t' in l:
+                print(fn + ": " + l)
+
 def find_caps(s):
     upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     lower = "abcdefghijklmnopqrstuvwxyz"
@@ -167,6 +176,11 @@ if __name__ == "__main__":
             s = f.read()
             f.close()
             find_caps(s)
+        elif sys.argv[1] == "tabs":
+            files = sys.argv[2:]
+            if len(files) == 0:
+                files = pwd(".dat")
+            find_tabs(files)
     else:
         compile_data(6)
 

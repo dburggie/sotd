@@ -690,23 +690,33 @@ Open the gates; 'tis Gloucester that calls.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Warder - The First Part of Henry the Sixth - Act I, Scene III
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Who's there that knocks so imperiously?
-First Serving-Man	It is the noble Duke of Gloucester.
+[Within] Who's there that knocks so imperiously?
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Serving-man - The First Part of Henry the Sixth - Act I, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+It is the noble Duke of Gloucester.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=Second Warder - The First Part of Henry the Sixth - Act I, Scene III
-#ENTRY_LENGTH=2
+#ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Whoe'er he be, you may not be let in.
-First Serving-Man	Villains, answer you so the lord protector?
+[Within] Whoe'er he be, you may not be let in.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Serving-man - The First Part of Henry the Sixth - Act I, Scene III
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+Villains, answer you so the lord protector?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=First Warder - The First Part of Henry the Sixth - Act I, Scene III
 #ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
-[Within]  The Lord protect him! so we answer him:
+[Within] The Lord protect him! so we answer him:
 We do no otherwise than we are will'd.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -742,14 +752,19 @@ That thou nor none of thine shall be let in.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The First Part of Henry the Sixth - Act I, Scene III
-#ENTRY_LENGTH=7
+#ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
 Faint-hearted Woodvile, prizest him 'fore me?
 Arrogant Winchester, that haughty prelate,
 Whom Henry, our late sovereign, ne'er could brook?
 Thou art no friend to God or to the king:
 Open the gates, or I'll shut thee out shortly.
-Serving-Men	Open the gates unto the lord protector,
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Serving-men - The First Part of Henry the Sixth - Act I, Scene III
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
+Open the gates unto the lord protector,
 Or we'll burst them open, if that you come not quickly.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -1297,7 +1312,7 @@ A maid, they say.
 #ENTRY_BLURB=BEDFORD - The First Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  A maid! and be so martial!
+A maid! and be so martial!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=BURGUNDY - The First Part of Henry the Sixth - Act II, Scene I
@@ -1454,7 +1469,7 @@ Mine was secure.
 #ENTRY_BLURB=REIGNIER - The First Part of Henry the Sixth - Act II, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-                  And so was mine, my lord.
+And so was mine, my lord.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CHARLES - The First Part of Henry the Sixth - Act II, Scene I
@@ -1656,7 +1671,7 @@ Madam, it is.
 #ENTRY_BLURB=COUNTESS OF AUVERGNE - The First Part of Henry the Sixth - Act II, Scene III
 #ENTRY_LENGTH=10
 #BEGIN_ENTRY_TEXT
-                  Is this the scourge of France?
+Is this the scourge of France?
 Is this the Talbot, so much fear'd abroad
 That with his name the mothers still their babes?
 I see report is fabulous and false:
@@ -2569,7 +2584,7 @@ Is not his grace protector to the king?
 #ENTRY_BLURB=RICHARD PLANTAGENET - The First Part of Henry the Sixth - Act III, Scene I
 #ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
-[Aside]  Plantagenet, I see, must hold his tongue,
+[Aside] Plantagenet, I see, must hold his tongue,
 Lest it be said 'Speak, sirrah, when you should;
 Must your bold verdict enter talk with lords?'
 Else would I have a fling at Winchester.
@@ -2613,22 +2628,37 @@ And we for fear compell'd to shut our shops.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING HENRY VI - The First Part of Henry the Sixth - Act III, Scene I
-#ENTRY_LENGTH=6
+#ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
 We charge you, on allegiance to ourself,
 To hold your slaughtering hands and keep the peace.
 Pray, uncle Gloucester, mitigate this strife.
-First Serving-man	Nay, if we be forbidden stones,
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Serving-man - The First Part of Henry the Sixth - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
+Nay, if we be forbidden stones,
 We'll fall to it with our teeth.
-Second Serving-man	Do what ye dare, we are as resolute.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Serving-man - The First Part of Henry the Sixth - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+Do what ye dare, we are as resolute.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The First Part of Henry the Sixth - Act III, Scene I
-#ENTRY_LENGTH=12
+#ENTRY_LENGTH=2
 #BEGIN_ENTRY_TEXT
 You of my household, leave this peevish broil
 And set this unaccustom'd fight aside.
-Third Serving-man	My lord, we know your grace to be a man
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Third Serving-man - The First Part of Henry the Sixth - Act III, Scene I
+#ENTRY_LENGTH=8
+#BEGIN_ENTRY_TEXT
+My lord, we know your grace to be a man
 Just and upright; and, for your royal birth,
 Inferior to none but to his majesty:
 And ere that we will suffer such a prince,
@@ -2636,7 +2666,12 @@ So kind a father of the commonweal,
 To be disgraced by an inkhorn mate,
 We and our wives and children all will fight
 And have our bodies slaughtered by thy foes.
-First Serving-man	Ay, and the very parings of our nails
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Serving-man - The First Part of Henry the Sixth - Act III, Scene I
+#ENTRY_LENGTH=2
+#BEGIN_ENTRY_TEXT
+Ay, and the very parings of our nails
 Shall pitch a field when we are dead.
 #END_ENTRY_TEXT
 #NEW_ENTRY
@@ -2726,7 +2761,7 @@ Love for thy love and hand for hand I give.
 #ENTRY_BLURB=GLOUCESTER - The First Part of Henry the Sixth - Act III, Scene I
 #ENTRY_LENGTH=5
 #BEGIN_ENTRY_TEXT
-[Aside]  Ay, but, I fear me, with a hollow heart.--
+[Aside] Ay, but, I fear me, with a hollow heart.--
 See here, my friends and loving countrymen,
 This token serveth for a flag of truce
 Betwixt ourselves and all our followers:
@@ -2736,19 +2771,34 @@ So help me God, as I dissemble not!
 #ENTRY_BLURB=BISHOP OF WINCHESTER - The First Part of Henry the Sixth - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  So help me God, as I intend it not!
+[Aside] So help me God, as I intend it not!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=KING HENRY VI - The First Part of Henry the Sixth - Act III, Scene I
-#ENTRY_LENGTH=7
+#ENTRY_LENGTH=4
 #BEGIN_ENTRY_TEXT
 O, loving uncle, kind Duke of Gloucester,
 How joyful am I made by this contract!
 Away, my masters! trouble us no more;
 But join in friendship, as your lords have done.
-First Serving-man	Content: I'll to the surgeon's.
-Second Serving-man	And so will I.
-Third Serving-man	And I will see what physic the tavern affords.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=First Serving-man - The First Part of Henry the Sixth - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+Content: I'll to the surgeon's.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Second Serving-man - The First Part of Henry the Sixth - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+And so will I.
+#END_ENTRY_TEXT
+#NEW_ENTRY
+#ENTRY_BLURB=Third Serving-man - The First Part of Henry the Sixth - Act III, Scene I
+#ENTRY_LENGTH=1
+#BEGIN_ENTRY_TEXT
+And I will see what physic the tavern affords.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=WARWICK - The First Part of Henry the Sixth - Act III, Scene I
@@ -2833,7 +2883,7 @@ Welcome, high prince, the mighty Duke of York!
 #ENTRY_BLURB=SOMERSET - The First Part of Henry the Sixth - Act III, Scene I
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  Perish, base prince, ignoble Duke of York!
+[Aside] Perish, base prince, ignoble Duke of York!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=GLOUCESTER - The First Part of Henry the Sixth - Act III, Scene I
@@ -2904,7 +2954,7 @@ Therefore we'll knock.
 #ENTRY_BLURB=Watch - The First Part of Henry the Sixth - Act III, Scene II
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Within]  Qui est la?
+[Within] Qui est la?
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=JOAN LA PUCELLE - The First Part of Henry the Sixth - Act III, Scene II
@@ -3425,7 +3475,7 @@ So farewell, Talbot; I'll no longer trust thee.
 #ENTRY_BLURB=JOAN LA PUCELLE - The First Part of Henry the Sixth - Act III, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-[Aside]  Done like a Frenchman: turn, and turn again!
+[Aside] Done like a Frenchman: turn, and turn again!
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=CHARLES - The First Part of Henry the Sixth - Act III, Scene III
@@ -4795,7 +4845,7 @@ I will attend upon your lordship's leisure.
 #ENTRY_BLURB=CARDINAL OF WINCHESTER - The First Part of Henry the Sixth - Act V, Scene I
 #ENTRY_LENGTH=7
 #BEGIN_ENTRY_TEXT
-[Aside]  Now Winchester will not submit, I trow,
+[Aside] Now Winchester will not submit, I trow,
 Or be inferior to the proudest peer.
 Humphrey of Gloucester, thou shalt well perceive
 That, neither in birth or for authority,
@@ -5242,13 +5292,13 @@ To whom?
 #ENTRY_BLURB=SUFFOLK - The First Part of Henry the Sixth - Act V, Scene III
 #ENTRY_LENGTH=1
 #BEGIN_ENTRY_TEXT
-       To me.
+To me.
 #END_ENTRY_TEXT
 #NEW_ENTRY
 #ENTRY_BLURB=REIGNIER - The First Part of Henry the Sixth - Act V, Scene III
 #ENTRY_LENGTH=3
 #BEGIN_ENTRY_TEXT
-                  Suffolk, what remedy?
+Suffolk, what remedy?
 I am a soldier, and unapt to weep,
 Or to exclaim on fortune's fickleness.
 #END_ENTRY_TEXT
